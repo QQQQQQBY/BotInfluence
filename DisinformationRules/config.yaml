@@ -1,0 +1,8 @@
+paths:
+  BusinessDisinformation: "Dataset/Disinformation/BusinessDisinformation.yaml"
+  EducationDisinformation: "Dataset/Disinformation/EducationDisinformation.yaml"
+  EntertainmentDisinformation: "Dataset/Disinformation/EntertainmentDisinformation.yaml"
+  PoliticsDisinformation: "Dataset/Disinformation/PoliticsDisinformation.yaml"
+  SportsDisinformation: "Dataset/Disinformation/SportsDisinformation.yaml"
+  TechnologyDisinformation: "Dataset/Disinformation/TechnologyDisinformation.yaml"
+  DisinformationPlausibilityPrompt: "DisinformationRules/Prompt/DisinformationPlausibility.yaml"

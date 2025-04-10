@@ -1,0 +1,8 @@
+DisinformationDescribeList: ["AMAZING: Elon Musk unveils a $100 Tesla tablet that will revolutionize the technological world. Revolutionary technology - equipped with Tesla's exclusive energy management system, with a battery life of 3 times that of ordinary tablets. Disruptive Price - Tesla's first tablet for only $100 is more than 60% cheaper than similar products in the market."]
+
+DisinformationPlausibility: [0.3]
+
+CorrectiveInformation: 
+  FactBased: ["Tesla's website does not offer any tablet devices, nor has the company announced a $100 tablet in any press releases."]
+  NarrativeBased: ["Online rumors prompted podcast host Joe Rogan to ask Musk whether Tesla had considered creating a smartphone. Musk said company leaders had not seriously discussed the idea of making a phone because Tesla has other goals. ", "\"We’re still — right, our focus is making great electric cars,\" Musk said in November on \"The Joe Rogan Experience\" podcast. "]
+  LiteracyBased: ["Media Literacy Tips: ✔ Verify with primary sources (company websites, official statements) before sharing. ✔ Check expert consensus — tech outlets like The Verge found no evidence of this product. ✔ Beware of \"revolutionary\" claims — real product launches involve detailed specs and pre-orders."]

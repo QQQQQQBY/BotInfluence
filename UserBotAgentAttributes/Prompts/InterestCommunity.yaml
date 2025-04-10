@@ -1,0 +1,44 @@
+---
+name: "Interest Community Prompt"
+description: "Evaluate user interests across multiple domains"
+version: "1.0"
+template: |
+  Please evaluate the user's interest intensity in different domains based on their [User Data], including historical posts, retweets, quotes, and basic profile information. The interest domains include: Entertainment, Technology, Sports, Business, Politics, and Education.
+
+  [User Data]:
+  - Personal Description: {personal_description}
+  - Historical Posts: {historical_posts}
+  - Historical Retweets: {historical_retweets}
+  - Historical Quotes: {historical_quotes}
+
+  Evaluation Guidelines:
+  1. Assign a rating of 1-10 points to each area
+  2. Provide a brief rationale for each rating
+  3. If there is insufficient data in a community, mark it as "Insufficient Data" and explain why.
+
+  Output Requirements:
+  1. Strictly valid JSON format only
+  2. No additional text outside the JSON structure
+  3. All 6 domains must be included
+  4. Use double quotes for all strings
+  5. Escape special characters properly
+  6. Response must strictly follow the [Output Format]
+
+  [Output Format]:
+  Required JSON Output Format:
+  {{
+    "interest_domain_scores": [
+      {{
+        "domain": "Entertainment",
+        "score": "number_or_insufficient_data",
+        "reasoning": "brief_explanation"
+      }},
+      {{
+        "domain": "Technology",
+        "score": "number_or_insufficient_data",
+        "reasoning": "brief_explanation"
+      }}
+    ]
+  }}
+input_variables: ["personal_description", "historical_posts", "historical_retweets", "historical_quotes"]
+attribute: "interest_domain_scores"

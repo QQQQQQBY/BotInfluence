@@ -1,0 +1,73 @@
+2025-04-09 13:46:34 - INFO - 1_Concat_Five_Attribute - Concat_main - Start concatenate five attribute
+2025-04-09 13:46:34 - INFO - 1_Concat_Five_Attribute - Concat_main - 1. load interest community
+2025-04-09 13:47:22 - INFO - 1_Concat_Five_Attribute - Concat_main - Start concatenate five attribute
+2025-04-09 13:47:22 - INFO - 1_Concat_Five_Attribute - Concat_main - 1. load interest community
+2025-04-09 13:47:22 - INFO - 1_Concat_Five_Attribute - Concat_main - 2. load trust threshold
+2025-04-09 13:47:22 - INFO - 1_Concat_Five_Attribute - Concat_main - 3. load dissemination tendency
+2025-04-09 13:47:22 - INFO - 1_Concat_Five_Attribute - Concat_main - 4. load social influence
+2025-04-09 13:47:22 - INFO - 1_Concat_Five_Attribute - Concat_main - 5. load activation time
+2025-04-09 13:47:22 - INFO - 1_Concat_Five_Attribute - Concat_main - 6. Concatenate all users
+2025-04-09 13:47:22 - INFO - 1_Concat_Five_Attribute - Concat_main - 7. Save to file
+2025-04-09 13:47:23 - INFO - 1_Concat_Five_Attribute - Concat_main - 8. Concatenate five attribute complete
+2025-04-09 14:30:40 - INFO - Concat_Five_Attribute - Concat_main - Start concatenate five attribute
+2025-04-09 14:30:40 - INFO - Concat_Five_Attribute - Concat_main - 1. load interest community
+2025-04-09 14:30:40 - INFO - Concat_Five_Attribute - Concat_main - 2. load trust threshold
+2025-04-09 14:30:40 - INFO - Concat_Five_Attribute - Concat_main - 3. load dissemination tendency
+2025-04-09 14:30:40 - INFO - Concat_Five_Attribute - Concat_main - 4. load social influence
+2025-04-09 14:30:40 - INFO - Concat_Five_Attribute - Concat_main - 5. load activation time
+2025-04-09 14:30:40 - INFO - Concat_Five_Attribute - Concat_main - 6. Concatenate all users
+2025-04-09 14:30:40 - INFO - Concat_Five_Attribute - Concat_main - 7. Save to file
+2025-04-09 14:30:41 - INFO - Concat_Five_Attribute - Concat_main - 8. Concatenate five attribute complete
+2025-04-09 17:33:18 - INFO - Concat_Five_Attribute - Concat_main - Start concatenate five attribute
+2025-04-09 17:33:18 - INFO - Concat_Five_Attribute - Concat_main - 1. load interest community
+2025-04-09 17:33:18 - INFO - Concat_Five_Attribute - Concat_main - 2. load trust threshold
+2025-04-09 17:33:18 - INFO - Concat_Five_Attribute - Concat_main - 3. load dissemination tendency
+2025-04-09 17:33:18 - INFO - Concat_Five_Attribute - Concat_main - 4. load social influence
+2025-04-09 17:33:18 - INFO - Concat_Five_Attribute - Concat_main - 5. load activation time
+2025-04-09 17:33:18 - INFO - Concat_Five_Attribute - Concat_main - 6. Concatenate all users
+2025-04-09 17:33:18 - INFO - Concat_Five_Attribute - Concat_main - 7. Save to file
+2025-04-09 17:33:19 - INFO - Concat_Five_Attribute - Concat_main - 8. Concatenate five attribute complete
+2025-04-09 18:29:24 - INFO - Concat_Five_Attribute - Concat_main - Start concatenate five attribute
+2025-04-09 18:29:24 - INFO - Concat_Five_Attribute - Concat_main - 1. load interest community
+2025-04-09 18:29:24 - INFO - Concat_Five_Attribute - Concat_main - 2. load trust threshold
+2025-04-09 18:29:24 - INFO - Concat_Five_Attribute - Concat_main - 3. load dissemination tendency
+2025-04-09 18:29:24 - INFO - Concat_Five_Attribute - Concat_main - 4. load social influence
+2025-04-09 18:29:24 - INFO - Concat_Five_Attribute - Concat_main - 5. load activation time
+2025-04-09 18:29:24 - INFO - Concat_Five_Attribute - Concat_main - 6. Concatenate all users
+2025-04-09 18:29:24 - INFO - Concat_Five_Attribute - Concat_main - 7. Save to file
+2025-04-09 18:29:24 - INFO - Concat_Five_Attribute - Concat_main - 8. Concatenate five attribute complete
+2025-04-09 22:14:02 - INFO - Concat_Five_Attribute - Concat_main - Dataset/AttributeDataset/concat_attribute_data.json file already exists, skipping...
+2025-04-09 22:14:34 - INFO - Concat_Five_Attribute - Concat_main - Start concatenate five attribute
+2025-04-09 22:14:34 - INFO - Concat_Five_Attribute - Concat_main - 1. load interest community
+2025-04-09 22:14:34 - INFO - Concat_Five_Attribute - Concat_main - 2. load trust threshold
+2025-04-09 22:14:34 - INFO - Concat_Five_Attribute - Concat_main - 3. load dissemination tendency
+2025-04-09 22:14:34 - INFO - Concat_Five_Attribute - Concat_main - 4. load social influence
+2025-04-09 22:14:34 - INFO - Concat_Five_Attribute - Concat_main - 5. load activation time
+2025-04-09 22:14:34 - INFO - Concat_Five_Attribute - Concat_main - 6. Concatenate all users
+2025-04-09 22:18:47 - INFO - Concat_Five_Attribute - Concat_main - Start concatenate five attribute
+2025-04-09 22:18:47 - INFO - Concat_Five_Attribute - Concat_main - 1. load interest community
+2025-04-09 22:18:47 - INFO - Concat_Five_Attribute - Concat_main - 2. load trust threshold
+2025-04-09 22:18:47 - INFO - Concat_Five_Attribute - Concat_main - 3. load dissemination tendency
+2025-04-09 22:18:47 - INFO - Concat_Five_Attribute - Concat_main - 4. load social influence
+2025-04-09 22:18:47 - INFO - Concat_Five_Attribute - Concat_main - 5. load activation time
+2025-04-09 22:18:47 - INFO - Concat_Five_Attribute - Concat_main - 6. Concatenate all users
+2025-04-09 22:18:47 - INFO - Concat_Five_Attribute - Concat_main - 7. Save to file
+2025-04-09 22:19:56 - INFO - Concat_Five_Attribute - Concat_main - 8. Concatenate five attribute complete
+2025-04-09 22:23:34 - INFO - Concat_Five_Attribute - Concat_main - Start concatenate five attribute
+2025-04-09 22:23:34 - INFO - Concat_Five_Attribute - Concat_main - 1. load interest community
+2025-04-09 22:23:34 - INFO - Concat_Five_Attribute - Concat_main - 2. load trust threshold
+2025-04-09 22:23:34 - INFO - Concat_Five_Attribute - Concat_main - 3. load dissemination tendency
+2025-04-09 22:23:34 - INFO - Concat_Five_Attribute - Concat_main - 4. load social influence
+2025-04-09 22:23:34 - INFO - Concat_Five_Attribute - Concat_main - 5. load activation time
+2025-04-09 22:23:34 - INFO - Concat_Five_Attribute - Concat_main - 6. Concatenate all users
+2025-04-09 22:23:34 - INFO - Concat_Five_Attribute - Concat_main - 7. Save to file
+2025-04-09 22:23:47 - INFO - Concat_Five_Attribute - Concat_main - 8. Concatenate five attribute complete
+2025-04-10 09:45:06 - INFO - Concat_Five_Attribute - Concat_main - Start concatenate five attribute
+2025-04-10 09:45:06 - INFO - Concat_Five_Attribute - Concat_main - 1. load interest community
+2025-04-10 09:45:06 - INFO - Concat_Five_Attribute - Concat_main - 2. load trust threshold
+2025-04-10 09:45:06 - INFO - Concat_Five_Attribute - Concat_main - 3. load dissemination tendency
+2025-04-10 09:45:06 - INFO - Concat_Five_Attribute - Concat_main - 4. load social influence
+2025-04-10 09:45:06 - INFO - Concat_Five_Attribute - Concat_main - 5. load activation time
+2025-04-10 09:45:06 - INFO - Concat_Five_Attribute - Concat_main - 6. Concatenate all users
+2025-04-10 09:45:06 - INFO - Concat_Five_Attribute - Concat_main - 7. Save to file
+2025-04-10 09:45:14 - INFO - Concat_Five_Attribute - Concat_main - 8. Concatenate five attribute complete

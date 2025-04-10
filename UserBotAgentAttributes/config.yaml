@@ -1,0 +1,25 @@
+paths:
+  RawDataset: "Dataset/RawDataset/"
+  InterestCommunity: "UserBotAgentAttributes/Prompts/InterestCommunity.yaml"
+  TrustThreshold: "UserBotAgentAttributes/Prompts/TrustThreshold.yaml"
+
+log:
+  IC_log_file: "UserBotAgentAttributes/Log/IC_out.log"
+  TT_log_file: "UserBotAgentAttributes/Log/TT_out.log"
+  DT_log_file: "UserBotAgentAttributes/Log/DT_out.log"
+  SI_log_file: "UserBotAgentAttributes/Log/SI_out.log"
+  AT_log_file: "UserBotAgentAttributes/Log/AT_out.log"
+  Concat_log_file: "UserBotAgentAttributes/Log/Concat_out.log"
+
+newpaths:
+  IC_Json: "UserBotAgentAttributes/MiddleStageData/ICJson/"
+  TT_Json: "UserBotAgentAttributes/MiddleStageData/TTJson/"
+  DT_Json: "UserBotAgentAttributes/MiddleStageData/DTJson/"
+  SI_Json: "UserBotAgentAttributes/MiddleStageData/SIJson/"
+  AT_Json: "UserBotAgentAttributes/MiddleStageData/ATJson/"
+
+hyparameters:
+  theta: 0.5
+
+ConcatFiles: "Dataset/AttributeDataset/concat_attribute_data.json"
+  

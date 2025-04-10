@@ -1,0 +1,68 @@
+---
+name: "Trust Threshold Prompt"
+description: "Utilize LLM to evaluate trust threshold $TT_{ij}$ for each user $i$ in community $j$"
+version: "1.0"
+template: |
+  Please evaluate the user's trust threshold when encountering disinformation across different domains based on their [User Data], including historical posts, retweets, quotes, and basic profile information. The interest domains include: Entertainment, Technology, Sports, Business, Politics, and Education. Provide a trust threshold score (0-1 scale) for each domain, where:
+  - 0.8-1.0 = Highly resilient to disinformation
+  - 0.5-0.79 = Moderately resilient
+  - 0.0-0.49 = Potentially vulnerable
+
+  [User Data]:
+  - Basic Attributes:
+    • Follower Count: {follower_count:}
+    • Following Count： {following_count}
+    • Personal Description: {personal_description}
+  - Content Data:  
+    • Historical Posts: {historical_posts}
+    • Historical Retweets: {historical_retweets}
+    • Historical Quotes: {historical_quotes}
+
+  Evaluation Guidelines:
+  1. Linguistic Style and Sentiment Tendencies: 
+    - Critical thinking markers (e.g., "requires verification", "source needed")
+    - Sentiment polarity distribution (skepticism vs. credulity markers)
+    - Hedging language frequency
+
+  2. Education Level:
+    - Technical terminology accuracy
+    - Complex sentence ratio
+    - Academic reference frequency 
+
+  3. Source Reliability: 
+    - Authoritative source citation rate (gov/academia)
+    - Low-credibility source retweets
+
+  4. Basic Attributes: 
+    - Personal descriptions, follower-to-following ratio analysis
+    - Disinformation report history
+
+
+  Output Requirements:
+  1. Strictly valid JSON format only
+  2. No additional text outside the JSON structure
+  3. All 6 domains must be included
+  4. Use double quotes for all strings
+  5. Escape special characters properly
+  6. Trust threshold (0-1 scale)
+  6. Response must strictly follow the [Output Format]
+
+  [Output Format]:
+  Required JSON Output Format:
+  {{
+    "Trust_threshold_scores": [
+      {{
+        "domain": "Entertainment",
+        "score": "score",
+        "reasoning": "brief_explanation"
+      }},
+      {{
+        "domain": "Technology",
+        "score": "score",
+        "reasoning": "brief_explanation"
+      }}
+      ...
+    ]
+  }}
+input_variables: ["follower_count", "following_count", "personal_description", "historical_posts", "historical_retweets", "historical_quotes"]
+attribute: "Trust_threshold_scores"

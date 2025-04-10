@@ -1,0 +1,33 @@
+---
+name: "Effectiveness of corrective information and the persuasiveness of disinformation Prompt"
+description: "Evaluate user information persuasiveness"
+version: "1.0"
+template: |
+  Evaluate the persuasiveness of the given [Input] information for the specified user based on their [User Data]. The evaluation must result in a normalized score between [0,1] with clear justification.
+  [Input]: {text_information}
+
+  [User Data]:
+  - Personal Description: {personal_description}
+  - Historical Posts: {historical_posts}
+  - Historical Retweets: {historical_retweets}
+  - Historical Quotes: {historical_quotes}
+
+  Evaluation Guidelines:
+  1. Assign a score of [0,1] points
+  2. Include both quantitative score and brief reasoning
+
+  Output Requirements:
+  1. Strictly valid JSON format only
+  2. No additional text outside the JSON structure
+  3. Use double quotes for all strings
+  4. Escape special characters properly
+  5. Response must strictly follow the [Output Format]
+
+  [Output Format]:
+  Required JSON Output Format:
+  {{
+    "Score": [0,1],
+    "Reasoning": "brief_explanation"
+  }}
+input_variables: ["text_information", "personal_description", "historical_posts", "historical_retweets", "historical_quotes"]
+attribute: ["Score", "Reasoning"]

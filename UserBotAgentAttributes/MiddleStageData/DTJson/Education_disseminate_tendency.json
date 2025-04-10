@@ -1,0 +1,2402 @@
+[
+    {
+        "user_id": 1322041545730662400,
+        "id": 1,
+        "interest_community": {
+            "Entertainment": 0.8,
+            "Technology": 0.1,
+            "Sports": 0.3,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.4
+        },
+        "post_num": 11,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 19905812,
+        "id": 2,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.8
+        },
+        "post_num": 1,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 2564571469,
+        "id": 3,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 1.0
+        },
+        "post_num": 104,
+        "retweet_num": 101,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1110047855769718784,
+        "id": 4,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.7,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 3,
+        "retweet_num": 3,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1381278573365985288,
+        "id": 5,
+        "interest_community": {
+            "Entertainment": 0.7,
+            "Technology": 0.3,
+            "Sports": 0.8,
+            "Business": 0.2,
+            "Politics": 0.1,
+            "Education": 0.4
+        },
+        "post_num": 13,
+        "retweet_num": 50,
+        "quote_num": 44
+    },
+    {
+        "user_id": 1381278573365985288,
+        "id": 6,
+        "interest_community": {
+            "Entertainment": 0.7,
+            "Technology": 0.3,
+            "Sports": 0.8,
+            "Business": 0.2,
+            "Politics": 0.1,
+            "Education": 0.4
+        },
+        "post_num": 13,
+        "retweet_num": 50,
+        "quote_num": 44
+    },
+    {
+        "user_id": 1489197780535070721,
+        "id": 7,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 3,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1750144477124063232,
+        "id": 8,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 1,
+        "retweet_num": 1,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1656178123048894464,
+        "id": 9,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.8,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.9
+        },
+        "post_num": 12,
+        "retweet_num": 1,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1558173897593221121,
+        "id": 10,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.8,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 7,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1743630507974242304,
+        "id": 11,
+        "interest_community": {
+            "Entertainment": 0.8,
+            "Technology": 0.7,
+            "Sports": 0.1,
+            "Business": 0.6,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 4,
+        "retweet_num": 4,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1347467476783677440,
+        "id": 12,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 0,
+        "retweet_num": 1,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1447108393164886018,
+        "id": 13,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.9,
+            "Sports": 0.1,
+            "Business": 0.8,
+            "Politics": 0.2,
+            "Education": 0.6
+        },
+        "post_num": 34,
+        "retweet_num": 0,
+        "quote_num": 5
+    },
+    {
+        "user_id": 952573756408455169,
+        "id": 14,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 2,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1840481159794311168,
+        "id": 15,
+        "interest_community": {
+            "Entertainment": 0.2,
+            "Technology": 0.3,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.9
+        },
+        "post_num": 14,
+        "retweet_num": 0,
+        "quote_num": 3
+    },
+    {
+        "user_id": 1854909924871897088,
+        "id": 16,
+        "interest_community": {
+            "Entertainment": 0.9,
+            "Technology": 0.5,
+            "Sports": 0.1,
+            "Business": 0.3,
+            "Politics": 0.2,
+            "Education": 0.1
+        },
+        "post_num": 198,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 914815520842616834,
+        "id": 17,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.9,
+            "Education": 0.1
+        },
+        "post_num": 2,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1772558858247901184,
+        "id": 18,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.7
+        },
+        "post_num": 7,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1481890665739005952,
+        "id": 19,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.3,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.5
+        },
+        "post_num": 1,
+        "retweet_num": 10,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1327772711024799744,
+        "id": 20,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 1,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1800977680663261184,
+        "id": 21,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.2,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 4,
+        "retweet_num": 0,
+        "quote_num": 2
+    },
+    {
+        "user_id": 1850942163598938113,
+        "id": 22,
+        "interest_community": {
+            "Entertainment": 0.7,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 5,
+        "retweet_num": 11,
+        "quote_num": 4
+    },
+    {
+        "user_id": 20687263,
+        "id": 23,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.6,
+            "Sports": 0.1,
+            "Business": 0.4,
+            "Politics": 0.7,
+            "Education": 0.5
+        },
+        "post_num": 128,
+        "retweet_num": 119,
+        "quote_num": 4
+    },
+    {
+        "user_id": 20687263,
+        "id": 24,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.6,
+            "Sports": 0.1,
+            "Business": 0.4,
+            "Politics": 0.7,
+            "Education": 0.5
+        },
+        "post_num": 128,
+        "retweet_num": 119,
+        "quote_num": 4
+    },
+    {
+        "user_id": 1758441231988686848,
+        "id": 25,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 9,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1842384894774632448,
+        "id": 26,
+        "interest_community": {
+            "Entertainment": 0.7,
+            "Technology": 0.6,
+            "Sports": 0.1,
+            "Business": 0.8,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 17,
+        "retweet_num": 4,
+        "quote_num": 5
+    },
+    {
+        "user_id": 1842384894774632448,
+        "id": 27,
+        "interest_community": {
+            "Entertainment": 0.7,
+            "Technology": 0.6,
+            "Sports": 0.1,
+            "Business": 0.8,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 17,
+        "retweet_num": 4,
+        "quote_num": 5
+    },
+    {
+        "user_id": 1357002247603970049,
+        "id": 28,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.9,
+            "Sports": 0.1,
+            "Business": 0.8,
+            "Politics": 0.1,
+            "Education": 0.7
+        },
+        "post_num": 8,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1402267082365014028,
+        "id": 29,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.6,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.8
+        },
+        "post_num": 2,
+        "retweet_num": 3,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1725860923913678848,
+        "id": 30,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.6,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.8,
+            "Education": 0.1
+        },
+        "post_num": 4,
+        "retweet_num": 4,
+        "quote_num": 0
+    },
+    {
+        "user_id": 16223486,
+        "id": 31,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.7,
+            "Sports": 0.1,
+            "Business": 1.0,
+            "Politics": 0.1,
+            "Education": 0.6
+        },
+        "post_num": 22,
+        "retweet_num": 0,
+        "quote_num": 3
+    },
+    {
+        "user_id": 1864938240202969088,
+        "id": 32,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.9,
+            "Sports": 0.2,
+            "Business": 0.8,
+            "Politics": 0.1,
+            "Education": 0.4
+        },
+        "post_num": 36,
+        "retweet_num": 2,
+        "quote_num": 3
+    },
+    {
+        "user_id": 1345992789729955840,
+        "id": 33,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.6,
+            "Sports": 0.1,
+            "Business": 0.9,
+            "Politics": 0.1,
+            "Education": 0.8
+        },
+        "post_num": 6,
+        "retweet_num": 5,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1345992789729955840,
+        "id": 34,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.6,
+            "Sports": 0.1,
+            "Business": 0.9,
+            "Politics": 0.1,
+            "Education": 0.8
+        },
+        "post_num": 6,
+        "retweet_num": 5,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1491157568001032192,
+        "id": 35,
+        "interest_community": {
+            "Entertainment": 0.8,
+            "Technology": 0.6,
+            "Sports": 0.7,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 0,
+        "retweet_num": 0,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1827861963688308737,
+        "id": 36,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.8,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 1,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 4247414839,
+        "id": 37,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.6,
+            "Education": 0.7
+        },
+        "post_num": 2,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1650340366737084420,
+        "id": 38,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.2,
+            "Politics": 0.1,
+            "Education": 0.9
+        },
+        "post_num": 21,
+        "retweet_num": 2,
+        "quote_num": 2
+    },
+    {
+        "user_id": 1355956416809496582,
+        "id": 39,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 1.0,
+            "Sports": 0.1,
+            "Business": 0.8,
+            "Politics": 0.3,
+            "Education": 0.1
+        },
+        "post_num": 26,
+        "retweet_num": 0,
+        "quote_num": 5
+    },
+    {
+        "user_id": 27768807,
+        "id": 40,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.2,
+            "Politics": 0.6,
+            "Education": 0.4
+        },
+        "post_num": 39,
+        "retweet_num": 0,
+        "quote_num": 4
+    },
+    {
+        "user_id": 1840371910506414080,
+        "id": 41,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 0,
+        "retweet_num": 1,
+        "quote_num": 0
+    },
+    {
+        "user_id": 242495026,
+        "id": 42,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.8,
+            "Sports": 0.1,
+            "Business": 0.4,
+            "Politics": 0.2,
+            "Education": 0.9
+        },
+        "post_num": 1,
+        "retweet_num": 11,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1434558156655546368,
+        "id": 43,
+        "interest_community": {
+            "Entertainment": 0.8,
+            "Technology": 0.3,
+            "Sports": 0.2,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.2
+        },
+        "post_num": 8,
+        "retweet_num": 39,
+        "quote_num": 12
+    },
+    {
+        "user_id": 77314340,
+        "id": 44,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 6,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 77314340,
+        "id": 45,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 6,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1293192365482496005,
+        "id": 46,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.8,
+            "Sports": 0.5,
+            "Business": 0.9,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 7,
+        "retweet_num": 1,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1479734935292420096,
+        "id": 47,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.8,
+            "Education": 0.1
+        },
+        "post_num": 2,
+        "retweet_num": 10,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1810301283762614272,
+        "id": 48,
+        "interest_community": {
+            "Entertainment": 0.7,
+            "Technology": 0.3,
+            "Sports": 0.5,
+            "Business": 0.2,
+            "Politics": 0.4,
+            "Education": 0.1
+        },
+        "post_num": 15,
+        "retweet_num": 1,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1008137667333296129,
+        "id": 49,
+        "interest_community": {
+            "Entertainment": 0.4,
+            "Technology": 0.1,
+            "Sports": 0.8,
+            "Business": 0.6,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 14,
+        "retweet_num": 13,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1008137667333296129,
+        "id": 50,
+        "interest_community": {
+            "Entertainment": 0.4,
+            "Technology": 0.1,
+            "Sports": 0.8,
+            "Business": 0.6,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 14,
+        "retweet_num": 13,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1521145184398028802,
+        "id": 51,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.2,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.8,
+            "Education": 0.3
+        },
+        "post_num": 42,
+        "retweet_num": 17,
+        "quote_num": 15
+    },
+    {
+        "user_id": 1480616458119962632,
+        "id": 52,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.7,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.1,
+            "Education": 0.3
+        },
+        "post_num": 17,
+        "retweet_num": 20,
+        "quote_num": 14
+    },
+    {
+        "user_id": 1629258976037593091,
+        "id": 53,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 4,
+        "retweet_num": 1,
+        "quote_num": 3
+    },
+    {
+        "user_id": 1629258976037593091,
+        "id": 54,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 4,
+        "retweet_num": 1,
+        "quote_num": 3
+    },
+    {
+        "user_id": 1242919308147208194,
+        "id": 55,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.3,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.5,
+            "Education": 0.1
+        },
+        "post_num": 2,
+        "retweet_num": 1,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1401343414403280897,
+        "id": 56,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.3,
+            "Sports": 0.2,
+            "Business": 0.5,
+            "Politics": 0.7,
+            "Education": 0.2
+        },
+        "post_num": 50,
+        "retweet_num": 137,
+        "quote_num": 10
+    },
+    {
+        "user_id": 1490485185468633088,
+        "id": 57,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.4,
+            "Sports": 0.1,
+            "Business": 0.7,
+            "Politics": 0.5,
+            "Education": 0.8
+        },
+        "post_num": 7,
+        "retweet_num": 29,
+        "quote_num": 6
+    },
+    {
+        "user_id": 713106161856290820,
+        "id": 58,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.8,
+            "Politics": 0.1,
+            "Education": 0.6
+        },
+        "post_num": 2,
+        "retweet_num": 6,
+        "quote_num": 3
+    },
+    {
+        "user_id": 157521526,
+        "id": 59,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.8
+        },
+        "post_num": 8,
+        "retweet_num": 26,
+        "quote_num": 0
+    },
+    {
+        "user_id": 4903807654,
+        "id": 60,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 6,
+        "retweet_num": 2,
+        "quote_num": 0
+    },
+    {
+        "user_id": 925781180024283141,
+        "id": 61,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 0,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1038431038463197184,
+        "id": 62,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.4,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.9
+        },
+        "post_num": 2,
+        "retweet_num": 2,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1858538257,
+        "id": 63,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 8,
+        "retweet_num": 4,
+        "quote_num": 0
+    },
+    {
+        "user_id": 50024924,
+        "id": 64,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.2,
+            "Education": 0.8
+        },
+        "post_num": 1,
+        "retweet_num": 9,
+        "quote_num": 1
+    },
+    {
+        "user_id": 947906444577378304,
+        "id": 65,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.8,
+            "Sports": 0.1,
+            "Business": 0.5,
+            "Politics": 0.7,
+            "Education": 0.1
+        },
+        "post_num": 2,
+        "retweet_num": 5,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1157011316210577408,
+        "id": 66,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.3,
+            "Education": 0.1
+        },
+        "post_num": 35,
+        "retweet_num": 12,
+        "quote_num": 5
+    },
+    {
+        "user_id": 1509632190119821312,
+        "id": 67,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.4,
+            "Sports": 0.1,
+            "Business": 0.3,
+            "Politics": 0.1,
+            "Education": 0.6
+        },
+        "post_num": 5,
+        "retweet_num": 6,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1520552031139897346,
+        "id": 68,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.8
+        },
+        "post_num": 2,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1280931763997437952,
+        "id": 69,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 1.0,
+            "Sports": 0.1,
+            "Business": 0.7,
+            "Politics": 0.1,
+            "Education": 0.5
+        },
+        "post_num": 12,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1108044629398544385,
+        "id": 70,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.8,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 58,
+        "retweet_num": 25,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1642978588650532869,
+        "id": 71,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.3,
+            "Business": 0.6,
+            "Politics": 0.1,
+            "Education": 0.5
+        },
+        "post_num": 8,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1714598265042472960,
+        "id": 72,
+        "interest_community": {
+            "Entertainment": 0.2,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 1.0
+        },
+        "post_num": 111,
+        "retweet_num": 25,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1714598265042472960,
+        "id": 73,
+        "interest_community": {
+            "Entertainment": 0.2,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 1.0
+        },
+        "post_num": 111,
+        "retweet_num": 25,
+        "quote_num": 0
+    },
+    {
+        "user_id": 829616494925455360,
+        "id": 74,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.8,
+            "Education": 0.7
+        },
+        "post_num": 4,
+        "retweet_num": 6,
+        "quote_num": 4
+    },
+    {
+        "user_id": 829616494925455360,
+        "id": 75,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.8,
+            "Education": 0.7
+        },
+        "post_num": 4,
+        "retweet_num": 6,
+        "quote_num": 4
+    },
+    {
+        "user_id": 877838838,
+        "id": 76,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.8
+        },
+        "post_num": 3,
+        "retweet_num": 1,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1245831967171624961,
+        "id": 77,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.7,
+            "Sports": 0.1,
+            "Business": 0.5,
+            "Politics": 0.1,
+            "Education": 0.9
+        },
+        "post_num": 76,
+        "retweet_num": 7,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1245831967171624961,
+        "id": 78,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.7,
+            "Sports": 0.1,
+            "Business": 0.5,
+            "Politics": 0.1,
+            "Education": 0.9
+        },
+        "post_num": 76,
+        "retweet_num": 7,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1245831967171624961,
+        "id": 79,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.7,
+            "Sports": 0.1,
+            "Business": 0.5,
+            "Politics": 0.1,
+            "Education": 0.9
+        },
+        "post_num": 76,
+        "retweet_num": 7,
+        "quote_num": 0
+    },
+    {
+        "user_id": 75277136,
+        "id": 80,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.3
+        },
+        "post_num": 4,
+        "retweet_num": 50,
+        "quote_num": 4
+    },
+    {
+        "user_id": 856857753465356289,
+        "id": 81,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.6,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.9
+        },
+        "post_num": 4,
+        "retweet_num": 1,
+        "quote_num": 0
+    },
+    {
+        "user_id": 21755698,
+        "id": 82,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.6,
+            "Sports": 0.2,
+            "Business": 0.4,
+            "Politics": 0.7,
+            "Education": 0.3
+        },
+        "post_num": 58,
+        "retweet_num": 0,
+        "quote_num": 100
+    },
+    {
+        "user_id": 21755698,
+        "id": 83,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.6,
+            "Sports": 0.2,
+            "Business": 0.4,
+            "Politics": 0.7,
+            "Education": 0.3
+        },
+        "post_num": 58,
+        "retweet_num": 0,
+        "quote_num": 100
+    },
+    {
+        "user_id": 1223647273369907200,
+        "id": 84,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.8,
+            "Education": 0.1
+        },
+        "post_num": 29,
+        "retweet_num": 4,
+        "quote_num": 0
+    },
+    {
+        "user_id": 899923168156143616,
+        "id": 85,
+        "interest_community": {
+            "Entertainment": 0.4,
+            "Technology": 0.6,
+            "Sports": 0.5,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.8
+        },
+        "post_num": 15,
+        "retweet_num": 3,
+        "quote_num": 4
+    },
+    {
+        "user_id": 899923168156143616,
+        "id": 86,
+        "interest_community": {
+            "Entertainment": 0.4,
+            "Technology": 0.6,
+            "Sports": 0.5,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.8
+        },
+        "post_num": 15,
+        "retweet_num": 3,
+        "quote_num": 4
+    },
+    {
+        "user_id": 43612779,
+        "id": 87,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.8
+        },
+        "post_num": 2,
+        "retweet_num": 1,
+        "quote_num": 0
+    },
+    {
+        "user_id": 3078793899,
+        "id": 88,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.1,
+            "Sports": 0.7,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.4
+        },
+        "post_num": 5,
+        "retweet_num": 1,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1010321660,
+        "id": 89,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.2,
+            "Sports": 0.1,
+            "Business": 1.0,
+            "Politics": 0.1,
+            "Education": 0.3
+        },
+        "post_num": 16,
+        "retweet_num": 6,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1010321660,
+        "id": 90,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.2,
+            "Sports": 0.1,
+            "Business": 1.0,
+            "Politics": 0.1,
+            "Education": 0.3
+        },
+        "post_num": 16,
+        "retweet_num": 6,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1010321660,
+        "id": 91,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.2,
+            "Sports": 0.1,
+            "Business": 1.0,
+            "Politics": 0.1,
+            "Education": 0.3
+        },
+        "post_num": 16,
+        "retweet_num": 6,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1679898459833348103,
+        "id": 92,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.7,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 1,
+        "retweet_num": 1,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1782804248201142275,
+        "id": 93,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.1,
+            "Sports": 0.8,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 3,
+        "retweet_num": 20,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1782804248201142275,
+        "id": 94,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.1,
+            "Sports": 0.8,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 3,
+        "retweet_num": 20,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1354409335925993474,
+        "id": 95,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.9,
+            "Sports": 0.2,
+            "Business": 1.0,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 14,
+        "retweet_num": 0,
+        "quote_num": 4
+    },
+    {
+        "user_id": 1354409335925993474,
+        "id": 96,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.9,
+            "Sports": 0.2,
+            "Business": 1.0,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 14,
+        "retweet_num": 0,
+        "quote_num": 4
+    },
+    {
+        "user_id": 1150100138892963849,
+        "id": 97,
+        "interest_community": {
+            "Entertainment": 0.8,
+            "Technology": 0.1,
+            "Sports": 0.9,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 3,
+        "retweet_num": 5,
+        "quote_num": 5
+    },
+    {
+        "user_id": 1634225563823947776,
+        "id": 98,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.3,
+            "Sports": 0.8,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.4
+        },
+        "post_num": 3,
+        "retweet_num": 9,
+        "quote_num": 3
+    },
+    {
+        "user_id": 1248009948967186433,
+        "id": 99,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 1,
+        "retweet_num": 1,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1008777209610407940,
+        "id": 100,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 0,
+        "retweet_num": 0,
+        "quote_num": 2
+    },
+    {
+        "user_id": 1008777209610407940,
+        "id": 101,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 0,
+        "retweet_num": 0,
+        "quote_num": 2
+    },
+    {
+        "user_id": 1008777209610407940,
+        "id": 102,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 0,
+        "retweet_num": 0,
+        "quote_num": 2
+    },
+    {
+        "user_id": 1008777209610407940,
+        "id": 103,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 0,
+        "retweet_num": 0,
+        "quote_num": 2
+    },
+    {
+        "user_id": 29201047,
+        "id": 104,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.6,
+            "Sports": 0.1,
+            "Business": 0.5,
+            "Politics": 1.0,
+            "Education": 0.7
+        },
+        "post_num": 9,
+        "retweet_num": 1,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1887149865563521024,
+        "id": 105,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.3,
+            "Sports": 0.1,
+            "Business": 0.7,
+            "Politics": 0.1,
+            "Education": 0.8
+        },
+        "post_num": 40,
+        "retweet_num": 3,
+        "quote_num": 2
+    },
+    {
+        "user_id": 2842281065,
+        "id": 106,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.3,
+            "Sports": 0.2,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 1.0
+        },
+        "post_num": 87,
+        "retweet_num": 13,
+        "quote_num": 0
+    },
+    {
+        "user_id": 2842281065,
+        "id": 107,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.3,
+            "Sports": 0.2,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 1.0
+        },
+        "post_num": 87,
+        "retweet_num": 13,
+        "quote_num": 0
+    },
+    {
+        "user_id": 2842281065,
+        "id": 108,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.3,
+            "Sports": 0.2,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 1.0
+        },
+        "post_num": 87,
+        "retweet_num": 13,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1713617080271204352,
+        "id": 109,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.4,
+            "Politics": 0.3,
+            "Education": 0.8
+        },
+        "post_num": 23,
+        "retweet_num": 0,
+        "quote_num": 18
+    },
+    {
+        "user_id": 1713617080271204352,
+        "id": 110,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.4,
+            "Politics": 0.3,
+            "Education": 0.8
+        },
+        "post_num": 23,
+        "retweet_num": 0,
+        "quote_num": 18
+    },
+    {
+        "user_id": 1713617080271204352,
+        "id": 111,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.4,
+            "Politics": 0.3,
+            "Education": 0.8
+        },
+        "post_num": 23,
+        "retweet_num": 0,
+        "quote_num": 18
+    },
+    {
+        "user_id": 1761712422316859392,
+        "id": 112,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 5,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1688158144139079680,
+        "id": 113,
+        "interest_community": {
+            "Entertainment": 0.8,
+            "Technology": 0.6,
+            "Sports": 0.1,
+            "Business": 0.7,
+            "Politics": 0.1,
+            "Education": 0.5
+        },
+        "post_num": 4,
+        "retweet_num": 0,
+        "quote_num": 2
+    },
+    {
+        "user_id": 1024181115798482944,
+        "id": 114,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.3
+        },
+        "post_num": 2,
+        "retweet_num": 3,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1363804937579290627,
+        "id": 115,
+        "interest_community": {
+            "Entertainment": 0.2,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.3,
+            "Politics": 0.4,
+            "Education": 0.6
+        },
+        "post_num": 11,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1363804937579290627,
+        "id": 116,
+        "interest_community": {
+            "Entertainment": 0.2,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.3,
+            "Politics": 0.4,
+            "Education": 0.6
+        },
+        "post_num": 11,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1363804937579290627,
+        "id": 117,
+        "interest_community": {
+            "Entertainment": 0.2,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.3,
+            "Politics": 0.4,
+            "Education": 0.6
+        },
+        "post_num": 11,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1682840468277673985,
+        "id": 118,
+        "interest_community": {
+            "Entertainment": 0.8,
+            "Technology": 0.1,
+            "Sports": 0.6,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.7
+        },
+        "post_num": 2,
+        "retweet_num": 1,
+        "quote_num": 3
+    },
+    {
+        "user_id": 1682840468277673985,
+        "id": 119,
+        "interest_community": {
+            "Entertainment": 0.8,
+            "Technology": 0.1,
+            "Sports": 0.6,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.7
+        },
+        "post_num": 2,
+        "retweet_num": 1,
+        "quote_num": 3
+    },
+    {
+        "user_id": 1682840468277673985,
+        "id": 120,
+        "interest_community": {
+            "Entertainment": 0.8,
+            "Technology": 0.1,
+            "Sports": 0.6,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.7
+        },
+        "post_num": 2,
+        "retweet_num": 1,
+        "quote_num": 3
+    },
+    {
+        "user_id": 1682840468277673985,
+        "id": 121,
+        "interest_community": {
+            "Entertainment": 0.8,
+            "Technology": 0.1,
+            "Sports": 0.6,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.7
+        },
+        "post_num": 2,
+        "retweet_num": 1,
+        "quote_num": 3
+    },
+    {
+        "user_id": 1448904806794399744,
+        "id": 122,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 1,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 780957176206622722,
+        "id": 123,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.3,
+            "Sports": 0.7,
+            "Business": 0.8,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "post_num": 31,
+        "retweet_num": 55,
+        "quote_num": 15
+    },
+    {
+        "user_id": 3191994615,
+        "id": 124,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 1,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1603658549783044096,
+        "id": 125,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.3,
+            "Sports": 0.1,
+            "Business": 0.4,
+            "Politics": 0.7,
+            "Education": 0.1
+        },
+        "post_num": 3,
+        "retweet_num": 25,
+        "quote_num": 35
+    },
+    {
+        "user_id": 1603658549783044096,
+        "id": 126,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.3,
+            "Sports": 0.1,
+            "Business": 0.4,
+            "Politics": 0.7,
+            "Education": 0.1
+        },
+        "post_num": 3,
+        "retweet_num": 25,
+        "quote_num": 35
+    },
+    {
+        "user_id": 1603658549783044096,
+        "id": 127,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.3,
+            "Sports": 0.1,
+            "Business": 0.4,
+            "Politics": 0.7,
+            "Education": 0.1
+        },
+        "post_num": 3,
+        "retweet_num": 25,
+        "quote_num": 35
+    },
+    {
+        "user_id": 1603658549783044096,
+        "id": 128,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.3,
+            "Sports": 0.1,
+            "Business": 0.4,
+            "Politics": 0.7,
+            "Education": 0.1
+        },
+        "post_num": 3,
+        "retweet_num": 25,
+        "quote_num": 35
+    },
+    {
+        "user_id": 1603658549783044096,
+        "id": 129,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.3,
+            "Sports": 0.1,
+            "Business": 0.4,
+            "Politics": 0.7,
+            "Education": 0.1
+        },
+        "post_num": 3,
+        "retweet_num": 25,
+        "quote_num": 35
+    },
+    {
+        "user_id": 1603658549783044096,
+        "id": 130,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.3,
+            "Sports": 0.1,
+            "Business": 0.4,
+            "Politics": 0.7,
+            "Education": 0.1
+        },
+        "post_num": 3,
+        "retweet_num": 25,
+        "quote_num": 35
+    },
+    {
+        "user_id": 1608113316316184577,
+        "id": 131,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 3,
+        "retweet_num": 0,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1645420517912969227,
+        "id": 132,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.9,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 4,
+        "retweet_num": 0,
+        "quote_num": 2
+    },
+    {
+        "user_id": 1645420517912969227,
+        "id": 133,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.9,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 4,
+        "retweet_num": 0,
+        "quote_num": 2
+    },
+    {
+        "user_id": 1478002453832478733,
+        "id": 134,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 1,
+        "retweet_num": 0,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1478002453832478733,
+        "id": 135,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 1,
+        "retweet_num": 0,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1795411704840400896,
+        "id": 136,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 1.0,
+            "Sports": 0.1,
+            "Business": 0.8,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 9,
+        "retweet_num": 0,
+        "quote_num": 3
+    },
+    {
+        "user_id": 1795411704840400896,
+        "id": 137,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 1.0,
+            "Sports": 0.1,
+            "Business": 0.8,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 9,
+        "retweet_num": 0,
+        "quote_num": 3
+    },
+    {
+        "user_id": 1736569901324660736,
+        "id": 138,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.2,
+            "Sports": 0.4,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.3
+        },
+        "post_num": 9,
+        "retweet_num": 4,
+        "quote_num": 2
+    },
+    {
+        "user_id": 1723062500000763904,
+        "id": 139,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.4
+        },
+        "post_num": 31,
+        "retweet_num": 43,
+        "quote_num": 1
+    },
+    {
+        "user_id": 1512647060771725317,
+        "id": 140,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.4,
+            "Education": 0.8
+        },
+        "post_num": 8,
+        "retweet_num": 1,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1189251347209572352,
+        "id": 141,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.3,
+            "Sports": 0.2,
+            "Business": 0.2,
+            "Politics": 0.1,
+            "Education": 0.4
+        },
+        "post_num": 29,
+        "retweet_num": 20,
+        "quote_num": 10
+    },
+    {
+        "user_id": 1189251347209572352,
+        "id": 142,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.3,
+            "Sports": 0.2,
+            "Business": 0.2,
+            "Politics": 0.1,
+            "Education": 0.4
+        },
+        "post_num": 29,
+        "retweet_num": 20,
+        "quote_num": 10
+    },
+    {
+        "user_id": 1189251347209572352,
+        "id": 143,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.3,
+            "Sports": 0.2,
+            "Business": 0.2,
+            "Politics": 0.1,
+            "Education": 0.4
+        },
+        "post_num": 29,
+        "retweet_num": 20,
+        "quote_num": 10
+    },
+    {
+        "user_id": 1189251347209572352,
+        "id": 144,
+        "interest_community": {
+            "Entertainment": 0.6,
+            "Technology": 0.3,
+            "Sports": 0.2,
+            "Business": 0.2,
+            "Politics": 0.1,
+            "Education": 0.4
+        },
+        "post_num": 29,
+        "retweet_num": 20,
+        "quote_num": 10
+    },
+    {
+        "user_id": 1585970322343432193,
+        "id": 145,
+        "interest_community": {
+            "Entertainment": 0.7,
+            "Technology": 0.8,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.3,
+            "Education": 0.1
+        },
+        "post_num": 10,
+        "retweet_num": 0,
+        "quote_num": 2
+    },
+    {
+        "user_id": 1635031184248905730,
+        "id": 146,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.9,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 29,
+        "retweet_num": 2,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1725567549071597570,
+        "id": 147,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 10,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1725567549071597570,
+        "id": 148,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 10,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1725567549071597570,
+        "id": 149,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 10,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1837928114347036677,
+        "id": 150,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.6
+        },
+        "post_num": 1,
+        "retweet_num": 1,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1218987237699923968,
+        "id": 151,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.3
+        },
+        "post_num": 2,
+        "retweet_num": 0,
+        "quote_num": 1
+    },
+    {
+        "user_id": 805160271388049408,
+        "id": 152,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.9,
+            "Sports": 0.2,
+            "Business": 0.8,
+            "Politics": 0.5,
+            "Education": 0.6
+        },
+        "post_num": 58,
+        "retweet_num": 52,
+        "quote_num": 26
+    },
+    {
+        "user_id": 1754535735510859776,
+        "id": 153,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 40,
+        "retweet_num": 2,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1754535735510859776,
+        "id": 154,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "post_num": 40,
+        "retweet_num": 2,
+        "quote_num": 0
+    },
+    {
+        "user_id": 1767504306985472000,
+        "id": 155,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.8
+        },
+        "post_num": 2,
+        "retweet_num": 0,
+        "quote_num": 0
+    },
+    {
+        "user_id": 473104576,
+        "id": 156,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.6,
+            "Sports": 0.1,
+            "Business": 0.9,
+            "Politics": 0.1,
+            "Education": 0.5
+        },
+        "post_num": 14,
+        "retweet_num": 3,
+        "quote_num": 4
+    },
+    {
+        "user_id": 1799083998410383360,
+        "id": 157,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.8,
+            "Sports": 0.1,
+            "Business": 0.7,
+            "Politics": 0.5,
+            "Education": 0.6
+        },
+        "post_num": 11,
+        "retweet_num": 7,
+        "quote_num": 6
+    },
+    {
+        "user_id": 1799083998410383360,
+        "id": 158,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.8,
+            "Sports": 0.1,
+            "Business": 0.7,
+            "Politics": 0.5,
+            "Education": 0.6
+        },
+        "post_num": 11,
+        "retweet_num": 7,
+        "quote_num": 6
+    },
+    {
+        "user_id": 1799083998410383360,
+        "id": 159,
+        "interest_community": {
+            "Entertainment": 0.1,
+            "Technology": 0.8,
+            "Sports": 0.1,
+            "Business": 0.7,
+            "Politics": 0.5,
+            "Education": 0.6
+        },
+        "post_num": 11,
+        "retweet_num": 7,
+        "quote_num": 6
+    },
+    {
+        "user_id": 1728108224946073601,
+        "id": 160,
+        "interest_community": {
+            "Entertainment": 0.3,
+            "Technology": 0.1,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.7
+        },
+        "post_num": 6,
+        "retweet_num": 1,
+        "quote_num": 0
+    }
+]

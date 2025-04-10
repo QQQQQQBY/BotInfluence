@@ -1,0 +1,34 @@
+---
+name: "Bot Action Prompt"
+description: "Select Repost or Quote"
+version: "1.0"
+template: |
+  Please read the following information:
+  [info]: {information}
+
+  You tend to trust this information. Now, you need to decide how you would like to share it.
+
+  Sharing Options:
+  Repost: Share the original information as is.
+  Quote: Share the information with your own commentary.
+
+  Output Requirements:
+    1. Strictly valid JSON format only
+    2. No additional text outside the JSON structure
+    3. Use double quotes for all strings
+    4. Escape special characters properly
+    5. Response must strictly follow the [Output Format]
+
+  [Output Format]:
+  If you choose to repost, respond in the following format:
+  {{
+    "Action": "Repost",
+    "Reason": "Your brief explanation"
+  }}
+  If you choose to quote, respond in the following format:
+  {{
+    "Action": "Quote",
+    "Comment": "Your comment or opinion"
+  }}
+input_variables: ["information"]
+attribute: ["Action", "Reason", "Comment"]

@@ -1,0 +1,46 @@
+paths:
+  SampleDataset: "Dataset/NetworkDataset/SampleDataset/sampled_human_attribute_data.json"
+
+log:
+  construct_network: "DisseminationNetwork/log/construct_network.log"
+
+newpaths:
+  MBotDataset: "Dataset/NetworkDataset/MBotDataset/MBotDataset.json"
+  EdgeIndex: "Dataset/NetworkDataset/EdgeIndex/"
+  ConcatHumanBots: "Dataset/NetworkDataset/ConcatHumanBots/concat_human_bots.json"
+
+MBotPaths:
+  MBotEdgeIndex: "Dataset/NetworkDataset/MBotHumanEdgeIndex/"
+
+MBotRatio:
+  EntertainmentBotRatio: 0.02
+  EducationBotRatio: 0.02
+  BusinessBotRatio: 0.02
+  SportsBotRatio: 0.02
+  PoliticsBotRatio: 0.02
+  TechnologyBotRatio: 0.02
+
+BotInfluenceParameter: # select x users to disseminate
+  EntertainmentBotInfluence: 4
+  EducationBotInfluence: 4
+  BusinessBotInfluence: 4
+  SportsBotInfluence: 4
+  PoliticsBotInfluence: 4
+  TechnologyBotInfluence: 4
+
+BotActivationTimeRatio:
+  EntertainmentBotTimeRatio: 0.02
+  EducationBotTimeRatio: 0.02
+  BusinessBotTimeRatio: 0.02
+  SportsBotTimeRatio: 0.02
+  PoliticsBotTimeRatio: 0.02
+  TechnologyTimeBotRatio: 0.02
+
+parameters:
+  m: 5
+  m1: 3
+  MaxActivationTimes: 6
+  numbers_1: 1
+  numbers_2: 7
+  weights_1: 0.8
+  weights_2: 0.2

@@ -1,0 +1,8 @@
+DisinformationDescribeList: ["Michael Jordan said that “any athlete who kneels for our national anthem should lose their medal.”"]
+
+DisinformationPlausibility: [0.2]
+
+CorrectiveInformation: 
+  FactBased: ["\"any athlete who kneels for our national anthem should lose their medal.\" This quote appeared on a blog site that referred to \"a rare interview\" but included no details about where, when or to whom this interview was given.", "No news reports, interviews or statements from the basketball star calling for athletes’ medals to be taken away."]
+  NarrativeBased: ["Michael Jordan has spoken out in support of athletes who kneel during the national anthem as their right to protest."]
+  LiteracyBased: ["Media Literacy Tips: ✔ Verify \"interviews\" — Real ones cite specific media outlets/dates. ✔ Check the byline — Anonymous or suspicious authors often signal fake content. ✔ Spot emotional hooks — Claims that a celebrity \"sparks controversy\" are frequently fabricated. ✔ Cross-check with primary sources — Jordan’s actual quotes are archived in reputable papers like the Observer."]
