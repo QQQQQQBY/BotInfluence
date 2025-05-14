@@ -3,15 +3,15 @@ from utils import load_config, load_prompt, llm, convert, process
 import yaml
 
 
-def disinformation_plausibility_main():
-    BusinessDisinformation = config['paths']['BusinessDisinformation']
-    EducationDisinformation = config['paths']['EducationDisinformation']
-    EntertainmentDisinformation = config['paths']['EntertainmentDisinformation']
+def disinformation_plausibility_main(config):
+    # BusinessDisinformation = config['paths']['BusinessDisinformation']
+    # EducationDisinformation = config['paths']['EducationDisinformation']
+    # EntertainmentDisinformation = config['paths']['EntertainmentDisinformation']
     PoliticsDisinformation = config['paths']['PoliticsDisinformation']
-    SportsDisinformation = config['paths']['SportsDisinformation']
-    TechnologyDisinformation = config['paths']['TechnologyDisinformation']
-    Comm_Paths = [BusinessDisinformation, EducationDisinformation, EntertainmentDisinformation, PoliticsDisinformation, SportsDisinformation, TechnologyDisinformation]
-    Comms = ["Business", "Education","Entertainment", "Politics", "Sports", "Technology"]
+    # SportsDisinformation = config['paths']['SportsDisinformation']
+    # TechnologyDisinformation = config['paths']['TechnologyDisinformation']
+    Comm_Paths = [PoliticsDisinformation]
+    Comms = ["Politics"]
 
     for index, input_file in enumerate(Comm_Paths):
         prompt,input_variables = load_prompt(config['paths']['DisinformationPlausibilityPrompt'])

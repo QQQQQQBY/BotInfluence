@@ -1,0 +1,1844 @@
+{
+    "275272657025026860": {
+        "id": 658,
+        "user_id": "275272657025026860",
+        "community": {},
+        "interest_community": [
+            "Entertainment"
+        ],
+        "early_correction_activation_time": [
+            28,
+            34,
+            31,
+            15,
+            27
+        ],
+        "middle_correction_activation_time": [
+            44,
+            47,
+            45,
+            37,
+            43
+        ],
+        "late_correction_activation_time": [
+            48,
+            60,
+            66,
+            49,
+            53
+        ],
+        "sharetimes": 5,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 160,
+        "label": "LBot"
+    },
+    "791823377083896055": {
+        "id": 659,
+        "user_id": "791823377083896055",
+        "community": {},
+        "interest_community": [
+            "Entertainment"
+        ],
+        "early_correction_activation_time": [
+            32,
+            22,
+            13,
+            42,
+            45,
+            31,
+            21,
+            63
+        ],
+        "middle_correction_activation_time": [
+            46,
+            41,
+            36,
+            52,
+            54,
+            45,
+            40,
+            67
+        ],
+        "late_correction_activation_time": [
+            59,
+            70,
+            51,
+            53,
+            57,
+            68,
+            58,
+            64
+        ],
+        "sharetimes": 8,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 775,
+        "label": "LBot"
+    },
+    "052827783996241189": {
+        "id": 660,
+        "user_id": "052827783996241189",
+        "community": {},
+        "interest_community": [
+            "Entertainment"
+        ],
+        "early_correction_activation_time": [
+            21,
+            71,
+            55,
+            27,
+            69,
+            35,
+            33,
+            29,
+            23,
+            28,
+            26,
+            52
+        ],
+        "middle_correction_activation_time": [
+            40,
+            71,
+            61,
+            43,
+            70,
+            47,
+            46,
+            44,
+            41,
+            59,
+            51,
+            37
+        ],
+        "late_correction_activation_time": [
+            61,
+            67,
+            66,
+            56,
+            62,
+            57,
+            53,
+            69,
+            52,
+            55,
+            58,
+            48
+        ],
+        "sharetimes": 12,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 1039,
+        "label": "LBot"
+    },
+    "912935053273804383": {
+        "id": 661,
+        "user_id": "912935053273804383",
+        "community": {},
+        "interest_community": [
+            "Entertainment"
+        ],
+        "early_correction_activation_time": [
+            13,
+            18,
+            27,
+            30,
+            31,
+            38,
+            32,
+            22,
+            35,
+            65
+        ],
+        "middle_correction_activation_time": [
+            36,
+            39,
+            43,
+            45,
+            49,
+            46,
+            41,
+            47,
+            68,
+            37
+        ],
+        "late_correction_activation_time": [
+            63,
+            48,
+            61,
+            51,
+            57,
+            52,
+            50,
+            59,
+            70,
+            66
+        ],
+        "sharetimes": 10,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 577,
+        "label": "LBot"
+    },
+    "320603677662495042": {
+        "id": 662,
+        "user_id": "320603677662495042",
+        "community": {},
+        "interest_community": [
+            "Entertainment"
+        ],
+        "early_correction_activation_time": [
+            27,
+            22,
+            26,
+            24,
+            29,
+            18
+        ],
+        "middle_correction_activation_time": [
+            43,
+            41,
+            42,
+            44,
+            38,
+            47
+        ],
+        "late_correction_activation_time": [
+            55,
+            64,
+            56,
+            58,
+            72,
+            54
+        ],
+        "sharetimes": 6,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 1011,
+        "label": "LBot"
+    },
+    "255997722293651987": {
+        "id": 663,
+        "user_id": "255997722293651987",
+        "community": {},
+        "interest_community": [
+            "Entertainment"
+        ],
+        "early_correction_activation_time": [
+            21,
+            18,
+            64,
+            23,
+            67
+        ],
+        "middle_correction_activation_time": [
+            40,
+            39,
+            67,
+            42,
+            69
+        ],
+        "late_correction_activation_time": [
+            71,
+            70,
+            63,
+            49,
+            62
+        ],
+        "sharetimes": 5,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 455,
+        "label": "LBot"
+    },
+    "594591321472908984": {
+        "id": 664,
+        "user_id": "594591321472908984",
+        "community": {},
+        "interest_community": [
+            "Education"
+        ],
+        "early_correction_activation_time": [
+            28,
+            22,
+            14,
+            17,
+            13,
+            16,
+            18,
+            21,
+            27
+        ],
+        "middle_correction_activation_time": [
+            44,
+            41,
+            37,
+            38,
+            36,
+            39,
+            40,
+            43,
+            46
+        ],
+        "late_correction_activation_time": [
+            54,
+            53,
+            59,
+            56,
+            55,
+            68,
+            60,
+            52,
+            69
+        ],
+        "sharetimes": 9,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 437,
+        "label": "LBot"
+    },
+    "928180399098935877": {
+        "id": 665,
+        "user_id": "928180399098935877",
+        "community": {},
+        "interest_community": [
+            "Education"
+        ],
+        "early_correction_activation_time": [
+            33,
+            44,
+            32,
+            64,
+            12,
+            24,
+            13,
+            14,
+            28
+        ],
+        "middle_correction_activation_time": [
+            46,
+            53,
+            66,
+            36,
+            42,
+            37,
+            44,
+            40,
+            48
+        ],
+        "late_correction_activation_time": [
+            65,
+            59,
+            70,
+            69,
+            68,
+            63,
+            48,
+            51,
+            67
+        ],
+        "sharetimes": 9,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 458,
+        "label": "LBot"
+    },
+    "147357553504193152": {
+        "id": 666,
+        "user_id": "147357553504193152",
+        "community": {},
+        "interest_community": [
+            "Education"
+        ],
+        "early_correction_activation_time": [
+            26,
+            17,
+            27,
+            23,
+            35,
+            20,
+            22
+        ],
+        "middle_correction_activation_time": [
+            43,
+            38,
+            41,
+            47,
+            40,
+            45,
+            39
+        ],
+        "late_correction_activation_time": [
+            62,
+            65,
+            64,
+            66,
+            53,
+            60,
+            71
+        ],
+        "sharetimes": 7,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 622,
+        "label": "LBot"
+    },
+    "942580214920494179": {
+        "id": 667,
+        "user_id": "942580214920494179",
+        "community": {},
+        "interest_community": [
+            "Education"
+        ],
+        "early_correction_activation_time": [
+            33,
+            26,
+            18,
+            24,
+            22,
+            34,
+            14
+        ],
+        "middle_correction_activation_time": [
+            46,
+            43,
+            39,
+            42,
+            41,
+            47,
+            36
+        ],
+        "late_correction_activation_time": [
+            49,
+            71,
+            57,
+            63,
+            69,
+            72,
+            53
+        ],
+        "sharetimes": 7,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 292,
+        "label": "LBot"
+    },
+    "803539703970040862": {
+        "id": 668,
+        "user_id": "803539703970040862",
+        "community": {},
+        "interest_community": [
+            "Education"
+        ],
+        "early_correction_activation_time": [
+            29,
+            32,
+            23,
+            14,
+            20
+        ],
+        "middle_correction_activation_time": [
+            44,
+            46,
+            41,
+            37,
+            40
+        ],
+        "late_correction_activation_time": [
+            49,
+            59,
+            61,
+            67,
+            71
+        ],
+        "sharetimes": 5,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 594,
+        "label": "LBot"
+    },
+    "230011305399677663": {
+        "id": 669,
+        "user_id": "230011305399677663",
+        "community": {},
+        "interest_community": [
+            "Business"
+        ],
+        "early_correction_activation_time": [
+            13,
+            12,
+            16,
+            17,
+            32,
+            29,
+            26,
+            18,
+            25,
+            55,
+            58,
+            30
+        ],
+        "middle_correction_activation_time": [
+            36,
+            38,
+            46,
+            44,
+            43,
+            39,
+            42,
+            61,
+            63,
+            45,
+            40,
+            56
+        ],
+        "late_correction_activation_time": [
+            50,
+            61,
+            63,
+            69,
+            70,
+            51,
+            58,
+            68,
+            67,
+            53,
+            57,
+            62
+        ],
+        "sharetimes": 12,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 860,
+        "label": "LBot"
+    },
+    "587694572370639738": {
+        "id": 670,
+        "user_id": "587694572370639738",
+        "community": {},
+        "interest_community": [
+            "Business"
+        ],
+        "early_correction_activation_time": [
+            34,
+            23,
+            57,
+            25,
+            24,
+            54,
+            35,
+            27,
+            29,
+            17,
+            36,
+            13
+        ],
+        "middle_correction_activation_time": [
+            47,
+            41,
+            62,
+            42,
+            60,
+            43,
+            44,
+            38,
+            52,
+            36,
+            40,
+            67
+        ],
+        "late_correction_activation_time": [
+            54,
+            55,
+            71,
+            69,
+            72,
+            66,
+            70,
+            62,
+            58,
+            59,
+            53,
+            60
+        ],
+        "sharetimes": 12,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 769,
+        "label": "LBot"
+    },
+    "618190402693788501": {
+        "id": 671,
+        "user_id": "618190402693788501",
+        "community": {},
+        "interest_community": [
+            "Business"
+        ],
+        "early_correction_activation_time": [
+            41,
+            33,
+            34,
+            25,
+            13,
+            20,
+            35,
+            17
+        ],
+        "middle_correction_activation_time": [
+            51,
+            46,
+            47,
+            42,
+            36,
+            40,
+            38,
+            39
+        ],
+        "late_correction_activation_time": [
+            56,
+            54,
+            68,
+            58,
+            50,
+            63,
+            60,
+            57
+        ],
+        "sharetimes": 8,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 814,
+        "label": "LBot"
+    },
+    "600244621444135355": {
+        "id": 672,
+        "user_id": "600244621444135355",
+        "community": {},
+        "interest_community": [
+            "Business"
+        ],
+        "early_correction_activation_time": [
+            17,
+            13,
+            12,
+            35,
+            28
+        ],
+        "middle_correction_activation_time": [
+            38,
+            36,
+            47,
+            44,
+            40
+        ],
+        "late_correction_activation_time": [
+            62,
+            65,
+            55,
+            53,
+            49
+        ],
+        "sharetimes": 5,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 894,
+        "label": "LBot"
+    },
+    "412514274229352261": {
+        "id": 673,
+        "user_id": "412514274229352261",
+        "community": {},
+        "interest_community": [
+            "Business"
+        ],
+        "early_correction_activation_time": [
+            20,
+            33,
+            26,
+            19,
+            30,
+            28
+        ],
+        "middle_correction_activation_time": [
+            40,
+            46,
+            43,
+            39,
+            45,
+            44
+        ],
+        "late_correction_activation_time": [
+            64,
+            62,
+            69,
+            68,
+            48,
+            53
+        ],
+        "sharetimes": 6,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 301,
+        "label": "LBot"
+    },
+    "969435981931551571": {
+        "id": 674,
+        "user_id": "969435981931551571",
+        "community": {},
+        "interest_community": [
+            "Sports"
+        ],
+        "early_correction_activation_time": [
+            27,
+            30,
+            33,
+            19,
+            12,
+            58,
+            26,
+            23,
+            29
+        ],
+        "middle_correction_activation_time": [
+            43,
+            45,
+            46,
+            39,
+            36,
+            63,
+            41,
+            44,
+            49
+        ],
+        "late_correction_activation_time": [
+            63,
+            59,
+            65,
+            53,
+            55,
+            71,
+            66,
+            58,
+            69
+        ],
+        "sharetimes": 9,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 762,
+        "label": "LBot"
+    },
+    "296920768667184245": {
+        "id": 675,
+        "user_id": "296920768667184245",
+        "community": {},
+        "interest_community": [
+            "Sports"
+        ],
+        "early_correction_activation_time": [
+            72,
+            30,
+            60,
+            20,
+            16,
+            33,
+            22,
+            18,
+            44,
+            34,
+            31
+        ],
+        "middle_correction_activation_time": [
+            72,
+            45,
+            64,
+            40,
+            38,
+            46,
+            41,
+            39,
+            53,
+            47,
+            43
+        ],
+        "late_correction_activation_time": [
+            60,
+            49,
+            52,
+            53,
+            55,
+            65,
+            69,
+            51,
+            64,
+            54,
+            48
+        ],
+        "sharetimes": 11,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 692,
+        "label": "LBot"
+    },
+    "712725608917825320": {
+        "id": 676,
+        "user_id": "712725608917825320",
+        "community": {},
+        "interest_community": [
+            "Sports"
+        ],
+        "early_correction_activation_time": [
+            19,
+            17,
+            20,
+            44,
+            29,
+            31,
+            55,
+            16
+        ],
+        "middle_correction_activation_time": [
+            39,
+            38,
+            40,
+            53,
+            44,
+            45,
+            61,
+            37
+        ],
+        "late_correction_activation_time": [
+            68,
+            72,
+            67,
+            71,
+            69,
+            62,
+            63,
+            57
+        ],
+        "sharetimes": 8,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 221,
+        "label": "LBot"
+    },
+    "588412639938366684": {
+        "id": 677,
+        "user_id": "588412639938366684",
+        "community": {},
+        "interest_community": [
+            "Sports"
+        ],
+        "early_correction_activation_time": [
+            27,
+            28,
+            33,
+            21,
+            14,
+            55,
+            50,
+            22
+        ],
+        "middle_correction_activation_time": [
+            43,
+            44,
+            46,
+            40,
+            37,
+            61,
+            57,
+            41
+        ],
+        "late_correction_activation_time": [
+            61,
+            63,
+            72,
+            66,
+            68,
+            59,
+            60,
+            49
+        ],
+        "sharetimes": 8,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 566,
+        "label": "LBot"
+    },
+    "485733557878793002": {
+        "id": 678,
+        "user_id": "485733557878793002",
+        "community": {},
+        "interest_community": [
+            "Sports"
+        ],
+        "early_correction_activation_time": [
+            68,
+            19,
+            32,
+            34,
+            16,
+            22,
+            30
+        ],
+        "middle_correction_activation_time": [
+            69,
+            39,
+            46,
+            47,
+            38,
+            41,
+            45
+        ],
+        "late_correction_activation_time": [
+            59,
+            56,
+            67,
+            68,
+            64,
+            51,
+            72
+        ],
+        "sharetimes": 7,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 841,
+        "label": "LBot"
+    },
+    "825791599286570517": {
+        "id": 679,
+        "user_id": "825791599286570517",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "early_correction_activation_time": [
+            26,
+            34,
+            18,
+            13,
+            23,
+            21,
+            62,
+            15
+        ],
+        "middle_correction_activation_time": [
+            43,
+            47,
+            39,
+            36,
+            41,
+            40,
+            67,
+            38
+        ],
+        "late_correction_activation_time": [
+            67,
+            68,
+            58,
+            63,
+            53,
+            61,
+            70,
+            65
+        ],
+        "sharetimes": 8,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 1107,
+        "label": "LBot"
+    },
+    "151787317776355448": {
+        "id": 680,
+        "user_id": "151787317776355448",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "early_correction_activation_time": [
+            15,
+            34,
+            53,
+            29,
+            25,
+            13,
+            32,
+            26
+        ],
+        "middle_correction_activation_time": [
+            37,
+            47,
+            59,
+            44,
+            42,
+            36,
+            46,
+            43
+        ],
+        "late_correction_activation_time": [
+            48,
+            58,
+            49,
+            61,
+            50,
+            70,
+            52,
+            53
+        ],
+        "sharetimes": 8,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 667,
+        "label": "LBot"
+    },
+    "828494204154508092": {
+        "id": 681,
+        "user_id": "828494204154508092",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "early_correction_activation_time": [
+            24,
+            23,
+            21,
+            16,
+            30,
+            68,
+            41,
+            13,
+            22,
+            12,
+            32,
+            27
+        ],
+        "middle_correction_activation_time": [
+            42,
+            41,
+            40,
+            38,
+            45,
+            69,
+            51,
+            36,
+            47,
+            44,
+            56,
+            62
+        ],
+        "late_correction_activation_time": [
+            49,
+            69,
+            55,
+            70,
+            65,
+            58,
+            60,
+            71,
+            62,
+            72,
+            50,
+            68
+        ],
+        "sharetimes": 12,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 1103,
+        "label": "LBot"
+    },
+    "517260375294185013": {
+        "id": 682,
+        "user_id": "517260375294185013",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "early_correction_activation_time": [
+            19,
+            22,
+            12,
+            30,
+            68,
+            14,
+            15,
+            34,
+            23
+        ],
+        "middle_correction_activation_time": [
+            39,
+            41,
+            36,
+            45,
+            70,
+            37,
+            47,
+            40,
+            44
+        ],
+        "late_correction_activation_time": [
+            48,
+            61,
+            58,
+            56,
+            57,
+            60,
+            64,
+            51,
+            63
+        ],
+        "sharetimes": 9,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 651,
+        "label": "LBot"
+    },
+    "498632318641504264": {
+        "id": 683,
+        "user_id": "498632318641504264",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "early_correction_activation_time": [
+            34,
+            24,
+            21,
+            45,
+            60,
+            44,
+            27
+        ],
+        "middle_correction_activation_time": [
+            47,
+            42,
+            40,
+            54,
+            64,
+            53,
+            43
+        ],
+        "late_correction_activation_time": [
+            67,
+            65,
+            54,
+            52,
+            63,
+            48,
+            61
+        ],
+        "sharetimes": 7,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 463,
+        "label": "LBot"
+    },
+    "478159391823494534": {
+        "id": 684,
+        "user_id": "478159391823494534",
+        "community": {},
+        "interest_community": [
+            "Technology"
+        ],
+        "early_correction_activation_time": [
+            29,
+            34,
+            16,
+            32,
+            54,
+            50,
+            17,
+            14,
+            35
+        ],
+        "middle_correction_activation_time": [
+            44,
+            47,
+            38,
+            46,
+            60,
+            57,
+            37,
+            49,
+            48
+        ],
+        "late_correction_activation_time": [
+            49,
+            61,
+            51,
+            53,
+            71,
+            64,
+            72,
+            55,
+            70
+        ],
+        "sharetimes": 9,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 178,
+        "label": "LBot"
+    },
+    "419476968885958857": {
+        "id": 685,
+        "user_id": "419476968885958857",
+        "community": {},
+        "interest_community": [
+            "Technology"
+        ],
+        "early_correction_activation_time": [
+            21,
+            13,
+            15,
+            29,
+            39,
+            24,
+            71
+        ],
+        "middle_correction_activation_time": [
+            40,
+            36,
+            37,
+            44,
+            50,
+            42,
+            71
+        ],
+        "late_correction_activation_time": [
+            68,
+            50,
+            72,
+            63,
+            53,
+            66,
+            56
+        ],
+        "sharetimes": 7,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 1028,
+        "label": "LBot"
+    },
+    "922404923008420786": {
+        "id": 686,
+        "user_id": "922404923008420786",
+        "community": {},
+        "interest_community": [
+            "Technology"
+        ],
+        "early_correction_activation_time": [
+            15,
+            12,
+            16,
+            37,
+            28,
+            18,
+            19
+        ],
+        "middle_correction_activation_time": [
+            37,
+            36,
+            38,
+            49,
+            44,
+            39,
+            41
+        ],
+        "late_correction_activation_time": [
+            55,
+            51,
+            52,
+            58,
+            49,
+            59,
+            71
+        ],
+        "sharetimes": 7,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 1097,
+        "label": "LBot"
+    },
+    "818867394260423595": {
+        "id": 687,
+        "user_id": "818867394260423595",
+        "community": {},
+        "interest_community": [
+            "Technology"
+        ],
+        "early_correction_activation_time": [
+            32,
+            19,
+            18,
+            15,
+            25
+        ],
+        "middle_correction_activation_time": [
+            46,
+            39,
+            37,
+            42,
+            66
+        ],
+        "late_correction_activation_time": [
+            51,
+            55,
+            66,
+            62,
+            57
+        ],
+        "sharetimes": 5,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 855,
+        "label": "LBot"
+    },
+    "614114831999171177": {
+        "id": 688,
+        "user_id": "614114831999171177",
+        "community": {},
+        "interest_community": [
+            "Technology"
+        ],
+        "early_correction_activation_time": [
+            20,
+            33,
+            12,
+            48,
+            59,
+            16,
+            17,
+            31,
+            25
+        ],
+        "middle_correction_activation_time": [
+            40,
+            46,
+            36,
+            56,
+            64,
+            38,
+            45,
+            42,
+            54
+        ],
+        "late_correction_activation_time": [
+            70,
+            60,
+            63,
+            52,
+            64,
+            54,
+            51,
+            67,
+            48
+        ],
+        "sharetimes": 9,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 463,
+        "label": "LBot"
+    },
+    "769173786593823186": {
+        "id": 689,
+        "user_id": "769173786593823186",
+        "community": {},
+        "interest_community": [
+            "Technology"
+        ],
+        "early_correction_activation_time": [
+            30,
+            35,
+            32,
+            17,
+            65,
+            21,
+            19,
+            36,
+            31,
+            14,
+            23,
+            20
+        ],
+        "middle_correction_activation_time": [
+            45,
+            47,
+            46,
+            38,
+            68,
+            40,
+            39,
+            48,
+            36,
+            42,
+            41,
+            56
+        ],
+        "late_correction_activation_time": [
+            64,
+            56,
+            65,
+            50,
+            66,
+            55,
+            48,
+            49,
+            60,
+            68,
+            67,
+            61
+        ],
+        "sharetimes": 12,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 1010,
+        "label": "LBot"
+    }
+}

@@ -1,7 +1,7 @@
 # Agent Attributes
 
 <p align="center">
-  <img src="/Users/boyuqiao/Downloads/BotInfluence/UserBotAgentAttributes/Figure/GPT4oGeneratedFigure.png" 
+  <img src="/Users/boyuqiao/Desktop/BotInfluence-main/BotInfluence/UserBotAgentAttributes/Figure/GPT4oGeneratedFigure.png" 
        alt="Agent Attributes"
        width="60%" 
        style="border: 1px solid #eee; box-shadow: 2px 2px 5px rgba(0,0,0,0.1)">

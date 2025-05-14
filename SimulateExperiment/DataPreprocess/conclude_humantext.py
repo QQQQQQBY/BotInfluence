@@ -10,7 +10,7 @@ def summarize_humantext(config):
     llm = ChatOpenAI(
             model="deepseek-v3",
             temperature=0.2,
-            api_key="sk-eECpiAchfppU3086eIYaqrG6mRUJtp3AsFhqZS0Zpv0JebCu",
+            api_key="",
             base_url='https://api.chatanywhere.org/#/',
         )
 

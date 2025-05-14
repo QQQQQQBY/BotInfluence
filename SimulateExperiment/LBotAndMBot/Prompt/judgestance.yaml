@@ -1,0 +1,28 @@
+---
+name: "Judge stance Prompt"
+description: "Evaluate users' stance"
+version: "1.0"
+template: |
+  Perform binary consistency evaluation between two information units: [disinfo] (reference information) and [info] (questionable information). Output must be a strict binary value with justification. Response must strictly follow the [Output Format].
+
+  [disinfo]: {original_info}
+  [info]: {current_info}
+
+  Evaluation Criteria:
+  1. Core Claim Alignment:
+    Compare the central assertions/claims of both texts
+    Ignore stylistic differences and focus on factual propositions
+  2. Contextual Consistency:
+    Consider if [info] takes [disinfo] out of context
+
+  Output Requirements:
+  1. Pure JSON format (no Markdown, no additional text)
+
+  [Output Format]:
+  Required JSON Output Format:
+  {{"consistency_score":Output 1 if consistent (supported), output 0 if opposed, 
+  "reasoning": "brief_explanation"
+  }}
+
+input_variables: ["original_info", "current_info"]
+attribute: ["consistency_score", "reasoning"]

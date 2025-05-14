@@ -1,0 +1,104 @@
+paths:
+  textinfo: "Dataset/RawDataset/concathumantext.json"
+  sharenumfile: "Dataset/SimulateDataset/share_num.json"
+  human_ids_Education: "Dataset/NetworkDataset/CommunityID/Education_community_human.npy"
+  mbot_ids_Education: "Dataset/NetworkDataset/CommunityID/Education_community_mbot.npy"
+  lbot_ids_Education: "Dataset/NetworkDataset/CommunityID/Education_community_lbot.npy"
+  human_ids_Entertainment: "Dataset/NetworkDataset/CommunityID/Entertainment_community_human.npy"
+  mbot_ids_Entertainment: "Dataset/NetworkDataset/CommunityID/Entertainment_community_mbot.npy"
+  lbot_ids_Entertainment: "Dataset/NetworkDataset/CommunityID/Entertainment_community_lbot.npy"  
+  human_ids_Sports: "Dataset/NetworkDataset/CommunityID/Sports_community_human.npy"
+  mbot_ids_Sports: "Dataset/NetworkDataset/CommunityID/Sports_community_mbot.npy"
+  lbot_ids_Sports: "Dataset/NetworkDataset/CommunityID/Sports_community_lbot.npy"
+  human_ids_Politics: "Dataset/NetworkDataset/CommunityID/Politics_community_human.npy"
+  mbot_ids_Politics: "Dataset/NetworkDataset/CommunityID/Politics_community_mbot.npy"
+  lbot_ids_Politics: "Dataset/NetworkDataset/CommunityID/Politics_community_lbot.npy"
+  human_ids_Technology: "Dataset/NetworkDataset/CommunityID/Technology_community_human.npy"
+  mbot_ids_Technology: "Dataset/NetworkDataset/CommunityID/Technology_community_mbot.npy"
+  lbot_ids_Technology: "Dataset/NetworkDataset/CommunityID/Technology_community_lbot.npy"
+  human_ids_Business: "Dataset/NetworkDataset/CommunityID/Business_community_human.npy"
+  mbot_ids_Business: "Dataset/NetworkDataset/CommunityID/Business_community_mbot.npy"
+  lbot_ids_Business: "Dataset/NetworkDataset/CommunityID/Business_community_lbot.npy"
+  edge_index: "Dataset/NetworkDataset/EdgeIndex/mbot_human_lbot_edge_index.npy"
+  edge_index_Education: "Dataset/NetworkDataset/EdgeIndex/mbot_human_lbot_edge_index_community_Education.npy"
+  edge_index_Business: "Dataset/NetworkDataset/EdgeIndex/mbot_human_lbot_edge_index_community_Business.npy"
+  edge_index_Entertainment: "Dataset/NetworkDataset/EdgeIndex/mbot_human_lbot_edge_index_community_Entertainment.npy"
+  edge_index_Sports: "Dataset/NetworkDataset/EdgeIndex/mbot_human_lbot_edge_index_community_Sports.npy"
+  edge_index_Politics: "Dataset/NetworkDataset/EdgeIndex/mbot_human_lbot_edge_index_community_Politics.npy"
+  edge_index_Technology: "Dataset/NetworkDataset/EdgeIndex/mbot_human_lbot_edge_index_community_Technology.npy"
+  HumanMBotLBotData: "Dataset/NetworkDataset/ConcatHumanMBotLBot/concat_human_mbot_lbot_DT.json"
+  HumanSummerizeText: "Dataset/SimulateDataset/humantextsummary.json"
+  HumanMBotLBotDataBusiness: "Dataset/NetworkDataset/ConcatHumanMBotLBot/concat_human_mbot_lbot_business.json"
+  HumanMBotLBotDataEntertainment: "Dataset/NetworkDataset/ConcatHumanMBotLBot/concat_human_mbot_lbot_entertainment.json"
+  HumanMBotLBotDataSports: "Dataset/NetworkDataset/ConcatHumanMBotLBot/concat_human_mbot_lbot_sports.json"
+  HumanMBotLBotDataEducation: "Dataset/NetworkDataset/ConcatHumanMBotLBot/concat_human_mbot_lbot_education.json"
+  HumanMBotLBotDataPolitics: "Dataset/NetworkDataset/ConcatHumanMBotLBot/concat_human_mbot_lbot_politics.json"
+  HumanMBotLBotDataTechnology: "Dataset/NetworkDataset/ConcatHumanMBotLBot/concat_human_mbot_lbot_technology.json"
+
+newpaths:
+  BusinessSimulationResult: "SimulateExperiment/MBotAndHuman/SimulateResult/BusinessSimulationResult.yaml"
+  SportsSimulationResult: "SimulateExperiment/MBotAndHuman/SimulateResult/SportsSimulationResult.yaml"
+  TechnologySimulationResult: "SimulateExperiment/MBotAndHuman/SimulateResult/TechnologySimulationResult.yaml"
+  EntertainmentSimulationResult: "SimulateExperiment/MBotAndHuman/SimulateResult/EntertainmentSimulationResult.yaml"
+  EducationSimulationResult: "SimulateExperiment/MBotAndHuman/SimulateResult/EducationSimulationResult.yaml"
+  PoliticsSimulationResult: "SimulateExperiment/MBotAndHuman/SimulateResult/PoliticsSimulationResult.yaml"
+
+History:
+  HumanHistricalInfoEntertainment: "SimulateExperiment/MBotAndHuman/History/Entertainment/HumanHistricalInfosEntertainment.json"
+  MBotHistricalInfoEntertainment: "SimulateExperiment/MBotAndHuman/History/Entertainment/MBotHistricalInfosEntertainment.json"
+  LBotHistricalInfoEntertainment: "SimulateExperiment/MBotAndHuman/History/Entertainment/LBotHistricalInfosEntertainment.json"
+  HumanHistricalInfoSports: "SimulateExperiment/MBotAndHuman/History/Sports/HumanHistricalInfosSports.json"
+  MBotHistricalInfoSports: "SimulateExperiment/MBotAndHuman/History/Sports/MBotHistricalInfosSports.json"
+  LBotHistricalInfoSports: "SimulateExperiment/MBotAndHuman/History/Sports/LBotHistricalInfosSports.json"
+  HumanHistricalInfoEducation: "SimulateExperiment/MBotAndHuman/History/Education/HumanHistricalInfosEducation.json"
+  MBotHistricalInfoEducation: "SimulateExperiment/MBotAndHuman/History/Education/MBotHistricalInfosEducation.json"
+  LBotHistricalInfoEducation: "SimulateExperiment/MBotAndHuman/History/Education/LBotHistricalInfosEducation.json"
+  HumanHistricalInfoPolitics: "SimulateExperiment/MBotAndHuman/History/Politics/HumanHistricalInfosPolitics.json"
+  MBotHistricalInfoPolitics: "SimulateExperiment/MBotAndHuman/History/Politics/MBotHistricalInfosPolitics.json"
+  LBotHistricalInfoPolitics: "SimulateExperiment/MBotAndHuman/History/Politics/LBotHistricalInfosPolitics.json"
+  HumanHistricalInfoTechnology: "SimulateExperiment/MBotAndHuman/History/Technology/HumanHistricalInfosTechnology.json"
+  MBotHistricalInfoTechnology: "SimulateExperiment/MBotAndHuman/History/Technology/MBotHistricalInfosTechnology.json"
+  LBotHistricalInfoTechnology: "SimulateExperiment/MBotAndHuman/History/Technology/LBotHistricalInfosTechnology.json"
+  HumanHistricalInfoBusiness: "SimulateExperiment/MBotAndHuman/History/Business/HumanHistricalInfosBusiness.json"
+  MBotHistricalInfoBusiness: "SimulateExperiment/MBotAndHuman/History/Business/MBotHistricalInfosBusiness.json"
+  LBotHistricalInfoBusiness: "SimulateExperiment/MBotAndHuman/History/Business/LBotHistricalInfosBusiness.json"
+
+Parameters:
+  ordernum: 1
+  xi: 0.1
+  gamma: 0.5
+  beta: 1
+  botpostsratio: 0.2
+  BeginNodeNumber: 5
+  delta: 1
+  n0: 5
+  correctstrategy: "FactBased"
+  inferenece_time: "early_correction_activation_time"
+
+disinfopaths:
+  Business: "Dataset/Disinformation/BusinessDisinformation.yaml"
+  Education: "Dataset/Disinformation/EducationDisinformation.yaml"
+  Entertainment: "Dataset/Disinformation/EntertainmentDisinformation.yaml"
+  Politics: "Dataset/Disinformation/PoliticsDisinformation.yaml"
+  Sports: "Dataset/Disinformation/SportsDisinformation.yaml"
+  Technology: "Dataset/Disinformation/TechnologyDisinformation.yaml"
+
+promptpaths:
+  CalculateInfoScore: "SimulateExperiment/Prompt/F_j.yaml"
+  JudgeStance: "SimulateExperiment/Prompt/judgestance.yaml"
+  TrustPrompt: "SimulateExperiment/Prompt/believeaction.yaml"
+  UnbelievePrompt: "SimulateExperiment/Prompt/unbelieveaction.yaml"
+  BotactionPrompt: "SimulateExperiment/Prompt/botaction.yaml"
+  InformationPlausibility: "SimulateExperiment/Prompt/informationplausibility.yaml"
+  RewriteDisinformation: "SimulateExperiment/Prompt/rewrite.yaml"
+
+log:
+  Disseminate_log_file: "CorrectExperiment/WOLBOT/Log/Disseminate_log.txt"
+
+DisinfoClaim:
+  Business: "Tariff policy is a tax reduction for the American people."
+  Education: "People can get student debt 'erased' by filing Family Educational Rights and Privacy Act complaints because the Department of Government Efficiency accessed federal student loan databases."
+  Entertainment: "Country singer Chris Stapleton filed an official objection after Beyoncé's 'Cowboy Carter' won the 2025 Grammy award for best country album."
+  Politics: "The U.S. House Select Committee that investigated the Jan. 6, 2021, attack on the U.S. Capitol 'deleted and destroyed all of the information that they collected over two years.'"
+  Sports: "Michael Jordan said that 'any athlete who kneels for our national anthem should lose their medal'"
+  Technology: "There will be more plastic than fish in the world's oceans by 2050"

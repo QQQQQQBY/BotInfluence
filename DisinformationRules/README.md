@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="/Users/boyuqiao/Downloads/BotInfluence/DisinformationRules/Figure/GPT4oGenerateFigure.png" alt="Disinformation Generation and Evaluation by Bot" height="275">
+  <img src="/Users/boyuqiao/Desktop/BotInfluence-main/BotInfluence/DisinformationRules/Figure/GPT4oGenerateFigure.png" alt="Disinformation Generation and Evaluation by Bot" height="275">
 </div>
 
 <p align="center">
@@ -14,7 +14,7 @@ We collect fake news from multiple fact-checking platforms such as **[PolitiFact
 
 Based on the characteristics of the three main correction strategies of disinformation, we combined the relevant evidence provided by the fact-checking website to construct a corresponding overview of correction strategies.
 
-The above **Disinformation and its corresponding correction content** can be obtained in `Dataset/Disinformation/*yaml`.
+The above **Disinformation and its corresponding correction content** can be obtained in `Dataset/Disinformation/*.yaml`.
 
 ## 🎮 Persuasive Assessment of Disinformation
 

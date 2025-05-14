@@ -1,0 +1,23 @@
+---
+name: "Rewrite Disinformation Prompt"
+description: "Rewrite Disinformation"
+version: "1.0"
+template: |
+  Please rewrite the following piece of [Disinformation] in a different way, using varied sentence structure, vocabulary, and phrasing, while preserving its core message and deceptive intent. The rewritten version must appear linguistically original, yet it should still effectively convey the same underlying false narrative. Additionally, the rewritten content must exhibit a high degree of plausibility and rhetorical persuasiveness, making it more likely to convince or influence other users. Do not copy phrases directly from the original. Ensure that the output is formatted exactly as specified below.
+
+      [Disinformation]: {disinformation}
+
+  Output Requirements:
+    1. Strictly valid JSON format only
+    2. No additional text outside the JSON structure
+    3. Use double quotes for all strings
+    4. Escape special characters properly
+    5. Response must strictly follow the [Output Format]
+
+  [Output Format]:
+  Required JSON Output Format:
+  {{
+    "NewDisinformation": "Your rewritten disinformation"
+  }}
+input_variables: ["disinformation"]
+attribute: ["NewDisinformation"]

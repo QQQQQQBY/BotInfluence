@@ -1,0 +1,1737 @@
+2025-04-09 15:01:19 - INFO - 1_construct_network - SBModel - Start Stochastic Block Model
+2025-04-09 15:01:19 - INFO - 1_construct_network - SBModel - Load User Data from ConcatFile
+2025-04-09 15:02:13 - INFO - 1_construct_network - SBModel - Start Stochastic Block Model
+2025-04-09 15:02:13 - INFO - 1_construct_network - SBModel - Load User Data from ConcatFile
+2025-04-09 15:02:49 - INFO - 1_construct_network - SBModel - Finish Stochastic Block Model
+2025-04-09 15:02:49 - INFO - 1_construct_network - SBModel - Return Community Data
+2025-04-09 15:02:59 - INFO - 1_construct_network - BAModel - Start BAModel
+2025-04-09 15:03:12 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 15:03:59 - INFO - 1_construct_network - SBModel - Start Stochastic Block Model
+2025-04-09 15:03:59 - INFO - 1_construct_network - SBModel - Load User Data from ConcatFile
+2025-04-09 15:03:59 - INFO - 1_construct_network - SBModel - Finish Stochastic Block Model
+2025-04-09 15:03:59 - INFO - 1_construct_network - SBModel - Return Community Data
+2025-04-09 15:04:33 - INFO - 1_construct_network - BAModel - Start BAModel
+2025-04-09 15:04:39 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 15:05:01 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 15:05:12 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 15:05:16 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 15:05:16 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 15:05:16 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 15:05:20 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 15:05:20 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 15:05:20 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 15:05:24 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 15:05:24 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 15:05:24 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 15:05:28 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 15:05:28 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 15:05:28 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 15:05:32 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 15:05:32 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 15:05:32 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 15:05:51 - INFO - 1_construct_network - BAModel - Finish BAModel
+2025-04-09 17:12:54 - INFO - 1_construct_network - SBModel - Start Stochastic Block Model
+2025-04-09 17:12:54 - INFO - 1_construct_network - SBModel - Load User Data from ConcatFile
+2025-04-09 17:13:55 - INFO - 1_construct_network - SBModel - Start Stochastic Block Model
+2025-04-09 17:13:55 - INFO - 1_construct_network - SBModel - Load User Data from ConcatFile
+2025-04-09 17:15:57 - INFO - 1_construct_network - SBModel - Finish Stochastic Block Model
+2025-04-09 17:15:57 - INFO - 1_construct_network - SBModel - Return Community Data
+2025-04-09 17:16:12 - INFO - 1_construct_network - BAModel - Start BAModel
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 17:16:13 - INFO - 1_construct_network - BAModel - Finish BAModel
+2025-04-09 17:36:25 - INFO - 1_construct_network - SBModel - Start Stochastic Block Model
+2025-04-09 17:36:25 - INFO - 1_construct_network - SBModel - Load User Data from ConcatFile
+2025-04-09 17:36:25 - INFO - 1_construct_network - SBModel - Finish Stochastic Block Model
+2025-04-09 17:36:25 - INFO - 1_construct_network - SBModel - Return Community Data
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - Start BAModel
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 17:36:25 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 17:36:26 - INFO - 1_construct_network - BAModel - Finish BAModel
+2025-04-09 18:36:37 - INFO - 3_Concat_Human_Bots - Concat_Human_Bots - Load human data
+2025-04-09 18:36:40 - INFO - 3_Concat_Human_Bots - Concat_Human_Bots - Load bot data
+2025-04-09 18:40:31 - INFO - 1_construct_network - SBModel - Start Stochastic Block Model
+2025-04-09 18:40:31 - INFO - 1_construct_network - SBModel - Load User Data from ConcatFile
+2025-04-09 18:40:31 - INFO - 1_construct_network - SBModel - Finish Stochastic Block Model
+2025-04-09 18:40:31 - INFO - 1_construct_network - SBModel - Return Community Data
+2025-04-09 18:42:08 - INFO - 1_construct_network - BAModel - Start BAModel
+2025-04-09 18:42:32 - INFO - 1_construct_network - SBModel - Start Stochastic Block Model
+2025-04-09 18:42:32 - INFO - 1_construct_network - SBModel - Load User Data from ConcatFile
+2025-04-09 18:42:32 - INFO - 1_construct_network - SBModel - Finish Stochastic Block Model
+2025-04-09 18:42:32 - INFO - 1_construct_network - SBModel - Return Community Data
+2025-04-09 18:42:34 - INFO - 1_construct_network - BAModel - Start BAModel
+2025-04-09 18:42:34 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 18:42:34 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 18:42:34 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 18:42:34 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 18:42:34 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 18:42:34 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 18:42:34 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 18:42:34 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 18:42:34 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 18:42:35 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 18:42:35 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 18:42:35 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 18:42:35 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 18:42:35 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 18:42:35 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 18:42:35 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 18:42:35 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 18:42:35 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 18:42:35 - INFO - 1_construct_network - BAModel - Finish BAModel
+2025-04-09 18:43:08 - INFO - 1_construct_network - SBModel - Start Stochastic Block Model
+2025-04-09 18:43:08 - INFO - 1_construct_network - SBModel - Load User Data from ConcatFile
+2025-04-09 18:43:08 - INFO - 1_construct_network - SBModel - Finish Stochastic Block Model
+2025-04-09 18:43:08 - INFO - 1_construct_network - SBModel - Return Community Data
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - Start BAModel
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - m nodes completed
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - Finish BAModel
+2025-04-09 18:43:08 - INFO - 1_construct_network - BAModel - Save edge_index to file
+2025-04-09 22:25:22 - INFO - Concat_Human_Bots - Concat_Human_Bots - Load human data
+2025-04-09 22:25:22 - INFO - Concat_Human_Bots - Concat_Human_Bots - Load bot data
+2025-04-09 22:26:05 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-09 22:26:05 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-09 22:26:05 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-09 22:26:05 - INFO - construct_network - SBModel - Return Community Data
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - Start BAModel
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-09 22:26:05 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-09 22:26:16 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-09 22:26:16 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-09 22:26:16 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-09 22:26:16 - INFO - construct_network - SBModel - Return Community Data
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - Start BAModel
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - m nodes completed
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - m nodes completed
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - m nodes completed
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - m nodes completed
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - m nodes completed
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - m nodes completed
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-09 22:26:30 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-10 10:01:45 - INFO - Concat_Human_Bots - Concat_Human_Bots - Load human data
+2025-04-10 10:01:45 - INFO - Concat_Human_Bots - Concat_Human_Bots - Load bot data
+2025-04-10 10:02:33 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-10 10:02:33 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-10 10:02:33 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-10 10:02:33 - INFO - construct_network - SBModel - Return Community Data
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - Start BAModel
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-10 10:03:31 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-13 21:26:42 - INFO - Concat_Human_MBot_LBot - Concat_Human_MBot_LBot - Load human data
+2025-04-13 21:26:42 - INFO - Concat_Human_MBot_LBot - Concat_Human_MBot_LBot - Load bot data
+2025-04-13 21:26:42 - INFO - Concat_Human_MBot_LBot - Concat_Human_MBot_LBot - Load LBot data
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - SBModel - Start Stochastic Block Model
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - SBModel - Load User Data from ConcatFile
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - SBModel - Finish Stochastic Block Model
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - SBModel - Return Community Data
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-13 21:38:58 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - SBModel - Start Stochastic Block Model
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - SBModel - Load User Data from ConcatFile
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - SBModel - Finish Stochastic Block Model
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - SBModel - Return Community Data
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - Finish BAModel
+2025-04-13 21:39:49 - INFO - construct_network_mbot_lbot - BAModel - Save edge_index to file
+2025-04-17 14:04:17 - INFO - Concat_Human_Bots - Concat_Human_Bots - Load human data
+2025-04-17 14:04:17 - INFO - Concat_Human_Bots - Concat_Human_Bots - Load bot data
+2025-04-17 14:05:18 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-17 14:05:18 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-17 14:05:18 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-17 14:05:18 - INFO - construct_network - SBModel - Return Community Data
+2025-04-17 14:05:18 - INFO - construct_network - BAModel - Start BAModel
+2025-04-17 14:05:18 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-17 14:05:18 - INFO - construct_network - BAModel - m nodes completed
+2025-04-17 14:05:18 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 14:05:18 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-17 14:05:18 - INFO - construct_network - BAModel - m nodes completed
+2025-04-17 14:05:18 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 14:05:18 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-17 14:05:18 - INFO - construct_network - BAModel - m nodes completed
+2025-04-17 14:05:18 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 14:05:19 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-17 14:05:19 - INFO - construct_network - BAModel - m nodes completed
+2025-04-17 14:05:19 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 14:05:19 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-17 14:05:19 - INFO - construct_network - BAModel - m nodes completed
+2025-04-17 14:05:19 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 14:05:19 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-17 14:05:19 - INFO - construct_network - BAModel - m nodes completed
+2025-04-17 14:05:19 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 14:05:19 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-17 14:05:19 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-17 14:06:01 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-17 14:06:01 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-17 14:06:01 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-17 14:06:01 - INFO - construct_network - SBModel - Return Community Data
+2025-04-17 14:06:01 - INFO - construct_network - BAModel - Start BAModel
+2025-04-17 14:06:01 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-17 14:06:01 - INFO - construct_network - BAModel - m nodes completed
+2025-04-17 14:06:01 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 14:06:01 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-17 14:06:01 - INFO - construct_network - BAModel - m nodes completed
+2025-04-17 14:06:01 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 14:06:01 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-17 14:06:01 - INFO - construct_network - BAModel - m nodes completed
+2025-04-17 14:06:01 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 14:06:02 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-17 14:06:02 - INFO - construct_network - BAModel - m nodes completed
+2025-04-17 14:06:02 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 14:06:02 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-17 14:06:02 - INFO - construct_network - BAModel - m nodes completed
+2025-04-17 14:06:02 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 14:06:02 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-17 14:06:02 - INFO - construct_network - BAModel - m nodes completed
+2025-04-17 14:06:02 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 14:06:02 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-17 14:06:02 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-17 14:11:55 - INFO - Concat_Human_Bots - Concat_Human_Bots - Load human data
+2025-04-17 14:11:55 - INFO - Concat_Human_Bots - Concat_Human_Bots - Load bot data
+2025-04-17 14:12:05 - INFO - Concat_Human_Bots - Concat_Human_Bots - Load human data
+2025-04-17 14:12:05 - INFO - Concat_Human_Bots - Concat_Human_Bots - Load bot data
+2025-04-17 14:17:06 - INFO - Concat_Human_Bots - Concat_Human_Bots - Load human data
+2025-04-17 14:17:06 - INFO - Concat_Human_Bots - Concat_Human_Bots - Load bot data
+2025-04-17 14:17:54 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-17 14:17:54 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-17 14:18:05 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-17 14:18:05 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-17 15:50:15 - INFO - Concat_Human_MBot_LBot - Concat_Human_MBot_LBot - Load human data
+2025-04-17 15:50:15 - INFO - Concat_Human_MBot_LBot - Concat_Human_MBot_LBot - Load bot data
+2025-04-17 15:50:15 - INFO - Concat_Human_MBot_LBot - Concat_Human_MBot_LBot - Load LBot data
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - SBModel - Start Stochastic Block Model
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - SBModel - Load User Data from ConcatFile
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - SBModel - Finish Stochastic Block Model
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - SBModel - Return Community Data
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Add m nodes
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - m nodes completed
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - Start BAModel: Process remaining nodes
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - Finish BAModel
+2025-04-17 15:52:02 - INFO - construct_network_mbot_lbot - BAModel - Save edge_index to file
+2025-04-19 14:58:23 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 14:58:23 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 14:59:32 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 14:59:32 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 15:00:35 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 15:00:35 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 15:00:50 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 15:00:50 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 15:00:50 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 15:00:50 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 15:00:53 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 15:01:29 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 15:01:29 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 15:01:29 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 15:01:29 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 15:01:30 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 15:39:31 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 15:39:31 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 15:39:31 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 15:39:31 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 15:39:31 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 15:39:31 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 15:39:31 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 15:40:14 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 15:40:14 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 15:40:15 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 15:40:15 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 15:40:15 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 15:40:15 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 15:40:15 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 15:55:38 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 15:55:38 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 15:55:38 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 15:55:38 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 15:55:38 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 15:55:38 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 15:55:38 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:00:20 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:00:20 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:00:20 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:00:20 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:00:20 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:00:20 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:00:20 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:02:38 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:02:38 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:02:38 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:02:38 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:02:38 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:02:38 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:02:38 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:06:56 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:06:56 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:06:56 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:06:56 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:06:56 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:06:56 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:06:56 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:10:04 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:10:04 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:10:04 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:10:04 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:10:04 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:10:04 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:10:04 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:11:07 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:11:07 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:11:07 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:11:07 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:11:07 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:11:07 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:11:07 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:12:52 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:12:52 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:12:52 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:12:52 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:12:52 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:12:52 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:12:52 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:13:40 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:13:40 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:13:40 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:13:40 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:13:40 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:13:40 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:13:40 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:18:29 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:18:29 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:18:29 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:18:29 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:18:29 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:18:29 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:18:29 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:20:21 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:20:21 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:20:21 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:20:21 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:20:21 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:20:21 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:20:21 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:20:22 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:20:22 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:20:44 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:20:44 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:20:45 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:20:45 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:20:45 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:20:45 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:20:45 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:22:50 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:22:50 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:22:50 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:22:50 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:22:50 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:22:50 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:22:50 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:23:10 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:23:10 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:23:10 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:23:10 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:23:10 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:23:10 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:23:10 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:25:05 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:25:05 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:25:05 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:25:05 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:25:05 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:25:05 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:25:05 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:27:19 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:27:19 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:27:19 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:27:19 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:27:19 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:27:19 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:27:19 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:28:02 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:28:02 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:28:02 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:28:02 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:28:02 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:28:02 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:28:02 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:29:31 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:29:31 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:29:31 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:29:31 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:29:31 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:29:31 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:29:31 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:32:12 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:32:12 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:32:12 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:32:12 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:32:12 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:32:12 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:32:12 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:32:40 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:32:40 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:32:41 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:32:41 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:32:41 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:32:41 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:32:41 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:33:55 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:33:55 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:33:56 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:33:56 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:33:56 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:33:56 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:33:56 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:34:42 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:34:42 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:34:42 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:34:42 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:34:42 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:34:42 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:34:42 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:36:47 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:36:47 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:36:47 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:36:47 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:36:47 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:36:47 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:36:47 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:39:14 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:39:14 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:39:14 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:39:14 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:39:14 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:39:14 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:39:14 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:40:20 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:40:20 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:40:20 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:40:20 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:40:20 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:40:20 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:40:20 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:46:16 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:46:16 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:46:17 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:46:17 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:46:17 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:46:17 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:46:17 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:48:08 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:48:08 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:48:09 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:48:09 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:48:09 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:48:09 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:48:09 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:49:38 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:49:38 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:49:38 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:49:38 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:49:38 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:49:38 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:49:38 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:50:08 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:50:08 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:50:08 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:50:08 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:50:08 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:50:08 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:50:08 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 16:52:09 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 16:52:09 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 16:52:09 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 16:52:09 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 16:52:09 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 16:52:09 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 16:52:09 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 21:09:05 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 21:09:05 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 21:09:05 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 21:09:05 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 21:09:05 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 21:09:05 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 21:09:05 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 22:39:08 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 22:39:08 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 22:39:09 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 22:39:09 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 22:39:09 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 22:39:09 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 22:39:09 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-19 22:42:04 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-19 22:42:04 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-19 22:42:04 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-19 22:42:04 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-19 22:42:04 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-19 22:42:04 - INFO - construct_network - SBModel - Return Community Data
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - Start BAModel
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-19 22:42:04 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-21 09:21:04 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-21 09:21:04 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-21 09:21:04 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-21 09:21:04 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-21 09:21:04 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-21 09:21:04 - INFO - construct_network - SBModel - Return Community Data
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - Start BAModel
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-21 09:21:04 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-21 09:22:29 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-21 09:22:29 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-21 09:22:29 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-21 09:22:29 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-21 09:22:29 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-21 09:22:29 - INFO - construct_network - SBModel - Return Community Data
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - Start BAModel
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-21 09:22:29 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-21 09:23:06 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-21 09:23:06 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-21 09:23:06 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-21 09:23:06 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-21 09:23:06 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-21 09:23:06 - INFO - construct_network - SBModel - Return Community Data
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - Start BAModel
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-21 09:23:06 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-21 09:23:44 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-21 09:23:44 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-21 09:23:44 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-21 09:23:44 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-21 09:23:44 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-21 09:23:44 - INFO - construct_network - SBModel - Return Community Data
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - Start BAModel
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-21 09:23:44 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-21 09:24:51 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-21 09:24:51 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-21 09:24:51 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-21 09:24:51 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-21 09:24:51 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-21 09:24:51 - INFO - construct_network - SBModel - Return Community Data
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - Start BAModel
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-21 09:24:51 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-21 09:25:43 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-21 09:25:43 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-21 09:25:43 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-21 09:25:43 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-21 09:25:43 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-21 09:25:43 - INFO - construct_network - SBModel - Return Community Data
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - Start BAModel
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-21 09:25:43 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-21 09:41:49 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-21 09:41:49 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-21 09:41:49 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-21 09:41:49 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-21 09:41:49 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-21 09:41:49 - INFO - construct_network - SBModel - Return Community Data
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - Start BAModel
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-21 09:41:49 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-21 09:45:03 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-21 09:45:03 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-21 09:45:03 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-21 09:45:03 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-21 09:45:03 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-21 09:45:03 - INFO - construct_network - SBModel - Return Community Data
+2025-04-21 09:45:03 - INFO - construct_network - BAModel - Start BAModel
+2025-04-21 09:45:03 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:03 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:03 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:03 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:03 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:03 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:03 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:03 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:03 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:03 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:03 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:03 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:04 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:04 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:04 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:04 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-21 09:45:04 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-21 09:45:42 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-21 09:45:42 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-21 09:45:42 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-21 09:45:42 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-21 09:45:42 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-21 09:45:42 - INFO - construct_network - SBModel - Return Community Data
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - Start BAModel
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-21 09:45:42 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-21 09:45:58 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-21 09:45:58 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-21 09:45:58 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-21 09:45:58 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-21 09:45:58 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-21 09:45:58 - INFO - construct_network - SBModel - Return Community Data
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - Start BAModel
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-21 09:45:58 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-21 09:46:27 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-21 09:46:27 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-21 09:46:27 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-21 09:46:27 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-21 09:46:27 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-21 09:46:27 - INFO - construct_network - SBModel - Return Community Data
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - Start BAModel
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-21 09:46:27 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-21 09:46:40 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-21 09:46:40 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-21 09:46:40 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-21 09:46:40 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-21 09:46:40 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-21 09:46:40 - INFO - construct_network - SBModel - Return Community Data
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - Start BAModel
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-21 09:46:40 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-21 09:47:24 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-21 09:47:24 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-21 09:47:24 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-21 09:47:24 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-21 09:47:24 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-21 09:47:24 - INFO - construct_network - SBModel - Return Community Data
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - Start BAModel
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-21 09:47:24 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-21 09:47:45 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-21 09:47:45 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-21 09:47:45 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-21 09:47:45 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-21 09:47:45 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-21 09:47:45 - INFO - construct_network - SBModel - Return Community Data
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - Start BAModel
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - m nodes completed
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-21 09:47:45 - INFO - construct_network - BAModel - Save edge_index to file
+2025-04-22 16:42:29 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load human data
+2025-04-22 16:42:29 - INFO - Concat_Human_MBots - Concat_Human_Bots - Load bot data
+2025-04-22 16:46:45 - INFO - construct_network - SBModel - Start Stochastic Block Model
+2025-04-22 16:46:45 - INFO - construct_network - SBModel - Load User Data from ConcatFile
+2025-04-22 16:47:28 - INFO - construct_network - SBModel - Finish Stochastic Block Model
+2025-04-22 16:47:28 - INFO - construct_network - SBModel - Return Community Data
+2025-04-22 16:47:28 - INFO - construct_network - BAModel - Start BAModel
+2025-04-22 16:48:06 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-22 16:48:16 - INFO - construct_network - BAModel - m nodes completed
+2025-04-22 16:48:16 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-22 16:49:58 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-22 16:49:58 - INFO - construct_network - BAModel - m nodes completed
+2025-04-22 16:49:58 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-22 16:49:58 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-22 16:49:58 - INFO - construct_network - BAModel - m nodes completed
+2025-04-22 16:49:58 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-22 16:49:58 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-22 16:49:58 - INFO - construct_network - BAModel - m nodes completed
+2025-04-22 16:49:58 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-22 16:49:58 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-22 16:49:58 - INFO - construct_network - BAModel - m nodes completed
+2025-04-22 16:49:58 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-22 16:49:58 - INFO - construct_network - BAModel - Start BAModel: Add m nodes
+2025-04-22 16:49:58 - INFO - construct_network - BAModel - m nodes completed
+2025-04-22 16:49:58 - INFO - construct_network - BAModel - Start BAModel: Process remaining nodes
+2025-04-22 16:50:14 - INFO - construct_network - BAModel - Finish BAModel
+2025-04-22 16:50:14 - INFO - construct_network - BAModel - Save edge_index to file

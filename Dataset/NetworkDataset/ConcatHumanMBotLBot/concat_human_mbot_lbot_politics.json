@@ -1,0 +1,6987 @@
+{
+    "1384261120639176710": {
+        "user_id": "1384261120639176710",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 8.0,
+            "Education": 9.0
+        },
+        "interest_community": [
+            "Politics",
+            "Education"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.45,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.21150115673806658
+        },
+        "social_influence": 178,
+        "activation_time": [
+            64,
+            1,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            62,
+            63
+        ],
+        "sharetimes": 39,
+        "label": "Human",
+        "id": 89
+    },
+    "1367396160563007514": {
+        "user_id": "1367396160563007514",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 1,
+            "Sports": 3.0,
+            "Business": 5.0,
+            "Politics": 8.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.6,
+            "Sports": 0.25,
+            "Business": 0.2,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.15,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.1664943137890217
+        },
+        "social_influence": 20933,
+        "activation_time": [
+            3,
+            4,
+            5,
+            35,
+            59,
+            11,
+            51,
+            52,
+            53,
+            27,
+            28,
+            29
+        ],
+        "sharetimes": 17,
+        "label": "Human",
+        "id": 96
+    },
+    "1587489825237733377": {
+        "user_id": "1587489825237733377",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 7.0,
+            "Sports": 1,
+            "Business": 5.0,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.1,
+            "Business": 0.1,
+            "Politics": 0.1,
+            "Education": 0.3
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.4,
+            "Sports": 0.05,
+            "Business": 0.45,
+            "Education": 0.3,
+            "Politics": 0.1850110265084218
+        },
+        "social_influence": 339,
+        "activation_time": [
+            1,
+            2,
+            4,
+            5,
+            6,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            28,
+            29,
+            30,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            49,
+            50,
+            52,
+            53,
+            54,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71
+        ],
+        "sharetimes": 21,
+        "label": "Human",
+        "id": 97
+    },
+    "1699727757385572352": {
+        "user_id": "1699727757385572352",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 5.0,
+            "Sports": 3.0,
+            "Business": 6.0,
+            "Politics": 9.0,
+            "Education": 2.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.3,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.5,
+            "Technology": 0.15,
+            "Sports": 0.1,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.27907179059629345
+        },
+        "social_influence": 1147,
+        "activation_time": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            13,
+            14,
+            16,
+            17,
+            18,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            37,
+            38,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            61,
+            62,
+            64,
+            65,
+            66,
+            68,
+            69,
+            70,
+            71,
+            72
+        ],
+        "sharetimes": 70,
+        "label": "Human",
+        "id": 98
+    },
+    "1157011316210577408": {
+        "user_id": "1157011316210577408",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 3.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.7,
+            "Technology": 0.6,
+            "Sports": 0.4,
+            "Business": 0.45,
+            "Politics": 0.5,
+            "Education": 0.8
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4891210978136652,
+            "Technology": 0.3391210978136652,
+            "Sports": 0.28912109781366524,
+            "Business": 0.28912109781366524,
+            "Education": 0.3891210978136652,
+            "Politics": 0.2391210978136652
+        },
+        "social_influence": 23813,
+        "activation_time": [
+            2,
+            3,
+            4,
+            66,
+            6,
+            69,
+            72,
+            18,
+            21,
+            24,
+            26,
+            27,
+            28,
+            30,
+            42,
+            45,
+            48,
+            50,
+            51,
+            52,
+            54
+        ],
+        "sharetimes": 12,
+        "label": "Human",
+        "id": 99
+    },
+    "1818525469832364032": {
+        "user_id": "1818525469832364032",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 6.0,
+            "Sports": 1,
+            "Business": 8.0,
+            "Politics": 9.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Business",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.6,
+            "Technology": 0.8,
+            "Sports": 0.4,
+            "Business": 0.7,
+            "Politics": 0.5,
+            "Education": 0.6
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.2586072089670466,
+            "Technology": 0.4086072089670466,
+            "Sports": 0.5086072089670466,
+            "Business": 0.3586072089670466,
+            "Education": 0.1586072089670466,
+            "Politics": 0.1586072089670466
+        },
+        "social_influence": 31673,
+        "activation_time": [
+            1,
+            2,
+            3,
+            65,
+            67,
+            70,
+            71,
+            72,
+            17,
+            19,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            41,
+            43,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51
+        ],
+        "sharetimes": 15,
+        "label": "Human",
+        "id": 100
+    },
+    "1565471830793756673": {
+        "user_id": "1565471830793756673",
+        "community": {
+            "Entertainment": 1.0,
+            "Technology": 3.0,
+            "Sports": 1,
+            "Business": 2.0,
+            "Politics": 10.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.2,
+            "Education": 0.25
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 2123,
+        "activation_time": [
+            31,
+            55,
+            7
+        ],
+        "sharetimes": 1,
+        "label": "Human",
+        "id": 101
+    },
+    "1746886664075489280": {
+        "user_id": "1746886664075489280",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.5,
+            "Sports": 0.2,
+            "Business": 0.6,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.3,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.12872958372561183
+        },
+        "social_influence": 120488,
+        "activation_time": [
+            1,
+            2,
+            4,
+            5,
+            6,
+            70,
+            72,
+            11,
+            12,
+            13,
+            14,
+            15,
+            22,
+            24,
+            25,
+            26,
+            28,
+            29,
+            30,
+            35,
+            36,
+            37,
+            38,
+            39,
+            46,
+            48,
+            49,
+            50,
+            52,
+            53,
+            54,
+            59,
+            60,
+            61,
+            62,
+            63
+        ],
+        "sharetimes": 23,
+        "label": "Human",
+        "id": 102
+    },
+    "1208294893585620992": {
+        "user_id": "1208294893585620992",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 7.0,
+            "Sports": 1,
+            "Business": 5.0,
+            "Politics": 8.0,
+            "Education": 4.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.5,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.5,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.15335506595321946
+        },
+        "social_influence": 506,
+        "activation_time": [
+            65,
+            3,
+            4,
+            5,
+            67,
+            69,
+            70,
+            72,
+            14,
+            17,
+            19,
+            21,
+            22,
+            24,
+            27,
+            28,
+            29,
+            38,
+            41,
+            43,
+            45,
+            46,
+            48,
+            51,
+            52,
+            53,
+            62
+        ],
+        "sharetimes": 24,
+        "label": "Human",
+        "id": 103
+    },
+    "1822629598439305216": {
+        "user_id": "1822629598439305216",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 4.0,
+            "Sports": 1,
+            "Business": 6.0,
+            "Politics": 10.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.5,
+            "Sports": 0.55,
+            "Business": 0.5,
+            "Politics": 0.3,
+            "Education": 0.45
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.45,
+            "Technology": 0.05,
+            "Sports": 0.15,
+            "Business": 0.1,
+            "Education": 0.05,
+            "Politics": 0.18123342709608473
+        },
+        "social_influence": 6899,
+        "activation_time": [
+            64,
+            1,
+            2,
+            3,
+            5,
+            69,
+            14,
+            16,
+            21,
+            25,
+            26,
+            27,
+            29,
+            38,
+            40,
+            45,
+            49,
+            50,
+            51,
+            53,
+            62
+        ],
+        "sharetimes": 20,
+        "label": "Human",
+        "id": 104
+    },
+    "1779912146987704320": {
+        "user_id": "1779912146987704320",
+        "community": {
+            "Entertainment": 6.0,
+            "Technology": 3.0,
+            "Sports": 2.0,
+            "Business": 4.0,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.25,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.8279271742005538,
+            "Technology": 0.4279271742005539,
+            "Sports": 0.5279271742005539,
+            "Business": 0.4279271742005539,
+            "Education": 0.4279271742005539,
+            "Politics": 0.47792717420055386
+        },
+        "social_influence": 66,
+        "activation_time": [
+            45,
+            69,
+            21
+        ],
+        "sharetimes": 1,
+        "label": "Human",
+        "id": 105
+    },
+    "21755698": {
+        "user_id": "21755698",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 6.0,
+            "Sports": 2.0,
+            "Business": 4.0,
+            "Politics": 7.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.5,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 1684,
+        "activation_time": [
+            1,
+            2,
+            3,
+            4,
+            67,
+            68,
+            69,
+            15,
+            19,
+            20,
+            21,
+            25,
+            26,
+            27,
+            28,
+            39,
+            43,
+            44,
+            45,
+            49,
+            50,
+            51,
+            52,
+            63
+        ],
+        "sharetimes": 14,
+        "label": "Human",
+        "id": 106
+    },
+    "1854621002505797637": {
+        "user_id": "1854621002505797637",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 7.0,
+            "Sports": 1,
+            "Business": 6.0,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.45,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.45
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.3,
+            "Sports": 0.15,
+            "Business": 0.45,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 210,
+        "activation_time": [
+            33,
+            3,
+            4,
+            5,
+            36,
+            37,
+            9,
+            12,
+            13,
+            60,
+            51,
+            52,
+            53,
+            61,
+            57,
+            27,
+            28,
+            29
+        ],
+        "sharetimes": 9,
+        "label": "Human",
+        "id": 107
+    },
+    "1176160476650180608": {
+        "user_id": "1176160476650180608",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 5.0,
+            "Sports": 1,
+            "Business": 4.0,
+            "Politics": 8.0,
+            "Education": 2.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.15,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 3492,
+        "activation_time": [
+            66,
+            70,
+            71,
+            42,
+            46,
+            47,
+            18,
+            22,
+            23
+        ],
+        "sharetimes": 5,
+        "label": "Human",
+        "id": 108
+    },
+    "1669413095834304539": {
+        "user_id": "1669413095834304539",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 3.0,
+            "Sports": 2.0,
+            "Business": 5.0,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.5,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.35,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 191,
+        "activation_time": [
+            1,
+            69,
+            70,
+            45,
+            46,
+            49,
+            21,
+            22,
+            25
+        ],
+        "sharetimes": 3,
+        "label": "Human",
+        "id": 109
+    },
+    "74839195": {
+        "user_id": "74839195",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 4.0,
+            "Sports": 2.0,
+            "Business": 6.0,
+            "Politics": 9.0,
+            "Education": 5.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.5181639772081146,
+            "Technology": 0.11816397720811456,
+            "Sports": 0.11816397720811456,
+            "Business": 0.11816397720811456,
+            "Education": 0.11816397720811456,
+            "Politics": 0.11816397720811456
+        },
+        "social_influence": 3908,
+        "activation_time": [
+            1,
+            2,
+            3,
+            4,
+            6,
+            8,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            30,
+            32,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            54,
+            56,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+        ],
+        "sharetimes": 46,
+        "label": "Human",
+        "id": 110
+    },
+    "2419737084": {
+        "user_id": "2419737084",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 4.0,
+            "Sports": 1,
+            "Business": 2.0,
+            "Politics": 8.0,
+            "Education": 1.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.3,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.45,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.15,
+            "Politics": 0.18759369407908644
+        },
+        "social_influence": 420,
+        "activation_time": [
+            64,
+            1,
+            2,
+            66,
+            67,
+            5,
+            69,
+            70,
+            8,
+            14,
+            15,
+            16,
+            18,
+            19,
+            21,
+            22,
+            25,
+            26,
+            29,
+            32,
+            38,
+            39,
+            40,
+            42,
+            43,
+            45,
+            46,
+            49,
+            50,
+            53,
+            56,
+            62,
+            63
+        ],
+        "sharetimes": 24,
+        "label": "Human",
+        "id": 111
+    },
+    "1873501395283832832": {
+        "user_id": "1873501395283832832",
+        "community": {
+            "Entertainment": 6.0,
+            "Technology": 3.0,
+            "Sports": 4.0,
+            "Business": 1,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.25,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.7926006424571876,
+            "Technology": 0.5426006424571875,
+            "Sports": 0.4926006424571876,
+            "Business": 0.5926006424571876,
+            "Education": 0.4926006424571876,
+            "Politics": 0.44260064245718755
+        },
+        "social_influence": 4199,
+        "activation_time": [
+            1,
+            2,
+            3,
+            4,
+            65,
+            6,
+            66,
+            67,
+            68,
+            71,
+            72,
+            17,
+            18,
+            19,
+            20,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            30,
+            41,
+            42,
+            43,
+            44,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            54
+        ],
+        "sharetimes": 46,
+        "label": "Human",
+        "id": 112
+    },
+    "1010007451234545666": {
+        "user_id": "1010007451234545666",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.9102725881648603,
+            "Technology": 0.4602725881648603,
+            "Sports": 0.4602725881648603,
+            "Business": 0.4602725881648603,
+            "Education": 0.4602725881648603,
+            "Politics": 0.4602725881648603
+        },
+        "social_influence": 2099,
+        "activation_time": [
+            2,
+            3,
+            4,
+            5,
+            69,
+            70,
+            71,
+            72,
+            11,
+            14,
+            21,
+            22,
+            23,
+            24,
+            26,
+            27,
+            28,
+            29,
+            35,
+            38,
+            45,
+            46,
+            47,
+            48,
+            50,
+            51,
+            52,
+            53,
+            59,
+            62
+        ],
+        "sharetimes": 20,
+        "label": "Human",
+        "id": 113
+    },
+    "1860276511409860608": {
+        "user_id": "1860276511409860608",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 1.0,
+            "Sports": 1,
+            "Business": 3.0,
+            "Politics": 10.0,
+            "Education": 4.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 2384,
+        "activation_time": [
+            65,
+            2,
+            68,
+            71,
+            41,
+            44,
+            47,
+            17,
+            50,
+            20,
+            23,
+            26
+        ],
+        "sharetimes": 8,
+        "label": "Human",
+        "id": 114
+    },
+    "1779960751366852608": {
+        "user_id": "1779960751366852608",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 1.0,
+            "Sports": 3.0,
+            "Business": 2.0,
+            "Politics": 9.0,
+            "Education": 4.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.5,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.38652966781327736,
+            "Technology": 0.08652966781327735,
+            "Sports": 0.48652966781327733,
+            "Business": 0.08652966781327735,
+            "Education": 0.08652966781327735,
+            "Politics": 0.08652966781327735
+        },
+        "social_influence": 971,
+        "activation_time": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            69,
+            70,
+            71,
+            72
+        ],
+        "sharetimes": 70,
+        "label": "Human",
+        "id": 115
+    },
+    "1634438948947902464": {
+        "user_id": "1634438948947902464",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 4.0,
+            "Sports": 1,
+            "Business": 6.0,
+            "Politics": 10.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.3,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.502886160134161,
+            "Technology": 0.15288616013416104,
+            "Sports": 0.10288616013416103,
+            "Business": 0.10288616013416103,
+            "Education": 0.20288616013416103,
+            "Politics": 0.10288616013416103
+        },
+        "social_influence": 56,
+        "activation_time": [
+            32,
+            66,
+            8,
+            72,
+            42,
+            48,
+            18,
+            24,
+            56
+        ],
+        "sharetimes": 4,
+        "label": "Human",
+        "id": 116
+    },
+    "1828151509541900289": {
+        "user_id": "1828151509541900289",
+        "community": {
+            "Entertainment": 8.0,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Entertainment",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.55,
+            "Business": 0.5,
+            "Politics": 0.1,
+            "Education": 0.45
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.35,
+            "Sports": 0.05,
+            "Business": 0.3,
+            "Education": 0.25,
+            "Politics": 0.05
+        },
+        "social_influence": 667684,
+        "activation_time": [
+            65,
+            66,
+            67,
+            69,
+            41,
+            42,
+            43,
+            45,
+            17,
+            18,
+            19,
+            21
+        ],
+        "sharetimes": 5,
+        "label": "Human",
+        "id": 117
+    },
+    "1518678647762214917": {
+        "user_id": "1518678647762214917",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 3.0,
+            "Sports": 1.0,
+            "Business": 4.0,
+            "Politics": 10.0,
+            "Education": 1.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.15,
+            "Education": 0.2,
+            "Politics": 0.3
+        },
+        "social_influence": 1193,
+        "activation_time": [
+            66,
+            36,
+            38,
+            7,
+            39,
+            42,
+            12,
+            14,
+            15,
+            18,
+            55,
+            60,
+            63,
+            62,
+            31
+        ],
+        "sharetimes": 8,
+        "label": "Human",
+        "id": 118
+    },
+    "68454527": {
+        "user_id": "68454527",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 4.0,
+            "Sports": 1,
+            "Business": 5.0,
+            "Politics": 10.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.7421593355583058,
+            "Technology": 0.39215933555830584,
+            "Sports": 0.5921593355583058,
+            "Business": 0.4421593355583058,
+            "Education": 0.3421593355583058,
+            "Politics": 0.3421593355583058
+        },
+        "social_influence": 493,
+        "activation_time": [
+            64,
+            1,
+            2,
+            3,
+            4,
+            5,
+            68,
+            69,
+            70,
+            71,
+            13,
+            16,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            28,
+            29,
+            37,
+            40,
+            44,
+            45,
+            46,
+            47,
+            49,
+            50,
+            51,
+            52,
+            53,
+            61
+        ],
+        "sharetimes": 81,
+        "label": "Human",
+        "id": 119
+    },
+    "1518711756385918979": {
+        "user_id": "1518711756385918979",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 1.0,
+            "Sports": 1,
+            "Business": 3.0,
+            "Politics": 10.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.3,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.2,
+            "Education": 0.2
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.45,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 3478,
+        "activation_time": [
+            64,
+            36,
+            40,
+            72,
+            12,
+            16,
+            48,
+            24,
+            60
+        ],
+        "sharetimes": 5,
+        "label": "Human",
+        "id": 120
+    },
+    "1600711801641000960": {
+        "user_id": "1600711801641000960",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 5.0,
+            "Sports": 1,
+            "Business": 6.0,
+            "Politics": 7.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.45,
+            "Business": 0.5,
+            "Politics": 0.45,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.3,
+            "Technology": 0.5,
+            "Sports": 0.15,
+            "Business": 0.4,
+            "Education": 0.35,
+            "Politics": 0.23745785946506984
+        },
+        "social_influence": 52412,
+        "activation_time": [
+            64,
+            1,
+            65,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            13,
+            15,
+            16,
+            17,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            37,
+            39,
+            40,
+            41,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            61,
+            63
+        ],
+        "sharetimes": 64,
+        "label": "Human",
+        "id": 121
+    },
+    "961092166461337602": {
+        "user_id": "961092166461337602",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.45,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.1486800956196773
+        },
+        "social_influence": 81,
+        "activation_time": [
+            2,
+            3,
+            69,
+            6,
+            7,
+            8,
+            70,
+            10,
+            72,
+            21,
+            22,
+            24,
+            26,
+            27,
+            30,
+            31,
+            32,
+            34,
+            45,
+            46,
+            48,
+            50,
+            51,
+            54,
+            55,
+            56,
+            58
+        ],
+        "sharetimes": 17,
+        "label": "Human",
+        "id": 122
+    },
+    "1602368323920232448": {
+        "user_id": "1602368323920232448",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.5,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.15,
+            "Sports": 0.05,
+            "Business": 0.2,
+            "Education": 0.05,
+            "Politics": 0.17286205118205922
+        },
+        "social_influence": 713,
+        "activation_time": [
+            65,
+            66,
+            3,
+            67,
+            68,
+            72,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            24,
+            27,
+            37,
+            38,
+            39,
+            41,
+            42,
+            43,
+            44,
+            48,
+            51,
+            61,
+            62,
+            63
+        ],
+        "sharetimes": 15,
+        "label": "Human",
+        "id": 123
+    },
+    "1497682424372744194": {
+        "user_id": "1497682424372744194",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 6.0,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.5,
+            "Technology": 0.6,
+            "Sports": 0.4,
+            "Business": 0.7,
+            "Politics": 0.5,
+            "Education": 0.6
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.3,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 5330,
+        "activation_time": [
+            2,
+            69,
+            7,
+            45,
+            50,
+            21,
+            55,
+            26,
+            31
+        ],
+        "sharetimes": 3,
+        "label": "Human",
+        "id": 124
+    },
+    "255610294": {
+        "user_id": "255610294",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 3.0,
+            "Sports": 7.0,
+            "Business": 2.0,
+            "Politics": 8.0,
+            "Education": 1.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.55,
+            "Sports": 0.6,
+            "Business": 0.4,
+            "Politics": 0.1,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.15,
+            "Technology": 0.4,
+            "Sports": 0.2,
+            "Business": 0.35,
+            "Education": 0.3,
+            "Politics": 0.05
+        },
+        "social_influence": 45448,
+        "activation_time": [
+            32,
+            33,
+            34,
+            8,
+            9,
+            10,
+            56,
+            57,
+            58
+        ],
+        "sharetimes": 14,
+        "label": "Human",
+        "id": 125
+    },
+    "1559888523574087681": {
+        "user_id": "1559888523574087681",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 5.0,
+            "Sports": 1,
+            "Business": 6.0,
+            "Politics": 10.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4824797003106033,
+            "Technology": 0.13247970031060327,
+            "Sports": 0.43247970031060323,
+            "Business": 0.13247970031060327,
+            "Education": 0.13247970031060327,
+            "Politics": 0.13247970031060327
+        },
+        "social_influence": 1663,
+        "activation_time": [],
+        "sharetimes": 0,
+        "label": "Human",
+        "id": 126
+    },
+    "1860652539118559232": {
+        "user_id": "1860652539118559232",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 4.0,
+            "Sports": 1,
+            "Business": 5.0,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.45,
+            "Technology": 0.4,
+            "Sports": 0.45,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.45,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.14430009534622193
+        },
+        "social_influence": 2712,
+        "activation_time": [
+            64,
+            1,
+            2,
+            5,
+            6,
+            72,
+            14,
+            16,
+            24,
+            25,
+            26,
+            29,
+            30,
+            38,
+            40,
+            48,
+            49,
+            50,
+            53,
+            54,
+            62
+        ],
+        "sharetimes": 20,
+        "label": "Human",
+        "id": 127
+    },
+    "1320917783597625349": {
+        "user_id": "1320917783597625349",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 4.0,
+            "Sports": 1,
+            "Business": 6.0,
+            "Politics": 9.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.3,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.33644205692158774
+        },
+        "social_influence": 1285,
+        "activation_time": [
+            1,
+            2,
+            3,
+            12,
+            13,
+            14,
+            16,
+            17,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            36,
+            37,
+            38,
+            40,
+            41,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            60,
+            61,
+            62,
+            64,
+            65,
+            68,
+            69,
+            70,
+            71,
+            72
+        ],
+        "sharetimes": 58,
+        "label": "Human",
+        "id": 128
+    },
+    "1642363123888791553": {
+        "user_id": "1642363123888791553",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 1,
+            "Sports": 2.0,
+            "Business": 1,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.5,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.35,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.25,
+            "Politics": 0.05
+        },
+        "social_influence": 2550,
+        "activation_time": [
+            36,
+            6,
+            60,
+            54,
+            12,
+            30
+        ],
+        "sharetimes": 2,
+        "label": "Human",
+        "id": 129
+    },
+    "1759295601852768256": {
+        "user_id": "1759295601852768256",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 1.0,
+            "Sports": 1,
+            "Business": 3.0,
+            "Politics": 10.0,
+            "Education": 4.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.45,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.3,
+            "Technology": 0.05,
+            "Sports": 0.4,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.13913627962840522
+        },
+        "social_influence": 343,
+        "activation_time": [
+            65,
+            3,
+            5,
+            6,
+            7,
+            69,
+            70,
+            12,
+            14,
+            15,
+            17,
+            21,
+            22,
+            27,
+            29,
+            30,
+            31,
+            36,
+            38,
+            39,
+            41,
+            45,
+            46,
+            51,
+            53,
+            54,
+            55,
+            60,
+            62,
+            63
+        ],
+        "sharetimes": 15,
+        "label": "Human",
+        "id": 130
+    },
+    "1330649883011928064": {
+        "user_id": "1330649883011928064",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 2.0,
+            "Sports": 1,
+            "Business": 4.0,
+            "Politics": 9.0,
+            "Education": 2.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.6,
+            "Sports": 0.6,
+            "Business": 0.7,
+            "Politics": 0.4,
+            "Education": 0.6
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.8275853761487308,
+            "Technology": 0.3775853761487308,
+            "Sports": 0.6775853761487307,
+            "Business": 0.3775853761487308,
+            "Education": 0.3775853761487308,
+            "Politics": 0.3775853761487308
+        },
+        "social_influence": 20231,
+        "activation_time": [
+            66,
+            3,
+            4,
+            5,
+            6,
+            7,
+            11,
+            14,
+            15,
+            18,
+            27,
+            28,
+            29,
+            30,
+            31,
+            35,
+            38,
+            39,
+            42,
+            51,
+            52,
+            53,
+            54,
+            55,
+            59,
+            62,
+            63
+        ],
+        "sharetimes": 15,
+        "label": "Human",
+        "id": 131
+    },
+    "1677753286722748416": {
+        "user_id": "1677753286722748416",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.5,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 82,
+        "activation_time": [
+            45,
+            69,
+            21
+        ],
+        "sharetimes": 1,
+        "label": "Human",
+        "id": 132
+    },
+    "2561961876": {
+        "user_id": "2561961876",
+        "community": {
+            "Entertainment": 6.0,
+            "Technology": 5.0,
+            "Sports": 9.0,
+            "Business": 7.0,
+            "Politics": 8.0,
+            "Education": 4.0
+        },
+        "interest_community": [
+            "Sports",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.5,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.6964184585292501,
+            "Technology": 0.6464184585292502,
+            "Sports": 0.5964184585292502,
+            "Business": 0.7464184585292502,
+            "Education": 0.5964184585292502,
+            "Politics": 0.5464184585292502
+        },
+        "social_influence": 2993,
+        "activation_time": [
+            64,
+            3,
+            38,
+            7,
+            40,
+            71,
+            14,
+            47,
+            16,
+            51,
+            55,
+            23,
+            27,
+            62,
+            31
+        ],
+        "sharetimes": 5,
+        "label": "Human",
+        "id": 133
+    },
+    "193413454": {
+        "user_id": "193413454",
+        "community": {
+            "Entertainment": 6.0,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.45,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.15,
+            "Politics": 0.11803412210638298
+        },
+        "social_influence": 1425,
+        "activation_time": [
+            64,
+            1,
+            2,
+            66,
+            69,
+            70,
+            71,
+            72,
+            13,
+            14,
+            15,
+            16,
+            18,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            37,
+            38,
+            39,
+            40,
+            42,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            61,
+            62,
+            63
+        ],
+        "sharetimes": 26,
+        "label": "Human",
+        "id": 134
+    },
+    "50772918": {
+        "user_id": "50772918",
+        "community": {
+            "Entertainment": 8.0,
+            "Technology": 6.0,
+            "Sports": 9.0,
+            "Business": 7.0,
+            "Politics": 10.0,
+            "Education": 4.0
+        },
+        "interest_community": [
+            "Entertainment",
+            "Sports",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4071084864338288,
+            "Technology": 0.30710848643382876,
+            "Sports": 0.7571084864338288,
+            "Business": 0.30710848643382876,
+            "Education": 0.35710848643382875,
+            "Politics": 0.30710848643382876
+        },
+        "social_influence": 282,
+        "activation_time": [
+            64,
+            2,
+            3,
+            66,
+            68,
+            69,
+            71,
+            72,
+            13,
+            15,
+            16,
+            18,
+            20,
+            21,
+            23,
+            24,
+            26,
+            27,
+            37,
+            39,
+            40,
+            42,
+            44,
+            45,
+            47,
+            48,
+            50,
+            51,
+            61,
+            63
+        ],
+        "sharetimes": 22,
+        "label": "Human",
+        "id": 135
+    },
+    "1856102440279461888": {
+        "user_id": "1856102440279461888",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 7.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.6,
+            "Technology": 0.7,
+            "Sports": 0.5,
+            "Business": 0.8,
+            "Politics": 0.4,
+            "Education": 0.6
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.7876178295381357,
+            "Technology": 0.3376178295381357,
+            "Sports": 0.3376178295381357,
+            "Business": 0.43761782953813566,
+            "Education": 0.3376178295381357,
+            "Politics": 0.3376178295381357
+        },
+        "social_influence": 19768,
+        "activation_time": [
+            4,
+            5,
+            6,
+            7,
+            68,
+            44,
+            20,
+            52,
+            53,
+            54,
+            55,
+            28,
+            29,
+            30,
+            31
+        ],
+        "sharetimes": 6,
+        "label": "Human",
+        "id": 136
+    },
+    "1692898427787440129": {
+        "user_id": "1692898427787440129",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 1,
+            "Sports": 3.0,
+            "Business": 2.0,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.45,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.5205772904776701,
+            "Technology": 0.17057729047767006,
+            "Sports": 0.2705772904776701,
+            "Business": 0.17057729047767006,
+            "Education": 0.17057729047767006,
+            "Politics": 0.42057729047767006
+        },
+        "social_influence": 1356,
+        "activation_time": [
+            64,
+            2,
+            66,
+            67,
+            71,
+            72,
+            13,
+            14,
+            16,
+            18,
+            19,
+            23,
+            24,
+            26,
+            37,
+            38,
+            40,
+            42,
+            43,
+            47,
+            48,
+            50,
+            61,
+            62
+        ],
+        "sharetimes": 14,
+        "label": "Human",
+        "id": 137
+    },
+    "4769536303": {
+        "user_id": "4769536303",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 3.0,
+            "Sports": 1,
+            "Business": 4.0,
+            "Politics": 10.0,
+            "Education": 2.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.5,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 1464,
+        "activation_time": [
+            47,
+            71,
+            23
+        ],
+        "sharetimes": 1,
+        "label": "Human",
+        "id": 138
+    },
+    "1499928539365359618": {
+        "user_id": "1499928539365359618",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 5.0,
+            "Sports": 2.0,
+            "Business": 4.0,
+            "Politics": 10.0,
+            "Education": 1.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.3,
+            "Business": 0.5,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.5,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.10539613635091227
+        },
+        "social_influence": 70,
+        "activation_time": [
+            1,
+            2,
+            3,
+            4,
+            66,
+            67,
+            68,
+            69,
+            70,
+            72,
+            13,
+            18,
+            19,
+            20,
+            21,
+            22,
+            24,
+            25,
+            26,
+            27,
+            28,
+            37,
+            42,
+            43,
+            44,
+            45,
+            46,
+            48,
+            49,
+            50,
+            51,
+            52,
+            61
+        ],
+        "sharetimes": 15,
+        "label": "Human",
+        "id": 139
+    },
+    "617853906": {
+        "user_id": "617853906",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4189561855099746,
+            "Technology": 0.16895618550997457,
+            "Sports": 0.06895618550997457,
+            "Business": 0.11895618550997457,
+            "Education": 0.06895618550997457,
+            "Politics": 0.2189561855099746
+        },
+        "social_influence": 1130,
+        "activation_time": [
+            64,
+            66,
+            3,
+            4,
+            5,
+            67,
+            68,
+            69,
+            70,
+            71,
+            15,
+            16,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            27,
+            28,
+            29,
+            39,
+            40,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            51,
+            52,
+            53,
+            63
+        ],
+        "sharetimes": 21,
+        "label": "Human",
+        "id": 140
+    },
+    "1671324198629785600": {
+        "user_id": "1671324198629785600",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 7.0,
+            "Sports": 5.0,
+            "Business": 8.0,
+            "Politics": 9.0,
+            "Education": 6.0
+        },
+        "interest_community": [
+            "Business",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.9070065295178953,
+            "Technology": 0.4570065295178953,
+            "Sports": 0.4570065295178953,
+            "Business": 0.5570065295178953,
+            "Education": 0.4570065295178953,
+            "Politics": 0.5070065295178953
+        },
+        "social_influence": 1130,
+        "activation_time": [
+            46,
+            70,
+            22
+        ],
+        "sharetimes": 1,
+        "label": "Human",
+        "id": 141
+    },
+    "489733246": {
+        "user_id": "489733246",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 8.0,
+            "Sports": 1,
+            "Business": 7.0,
+            "Politics": 9.0,
+            "Education": 2.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.45,
+            "Technology": 0.25,
+            "Sports": 0.1,
+            "Business": 0.4,
+            "Politics": 0.1,
+            "Education": 0.1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.05,
+            "Sports": 0.4,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.15
+        },
+        "social_influence": 581,
+        "activation_time": [
+            64,
+            65,
+            36,
+            5,
+            40,
+            41,
+            12,
+            16,
+            17,
+            53,
+            60,
+            29
+        ],
+        "sharetimes": 6,
+        "label": "Human",
+        "id": 142
+    },
+    "1123312514178199552": {
+        "user_id": "1123312514178199552",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.5,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 688,
+        "activation_time": [
+            2,
+            18,
+            42,
+            50,
+            66,
+            26
+        ],
+        "sharetimes": 2,
+        "label": "Human",
+        "id": 143
+    },
+    "1853097205403652098": {
+        "user_id": "1853097205403652098",
+        "community": {
+            "Entertainment": 6.0,
+            "Technology": 7.0,
+            "Sports": 5.0,
+            "Business": 4.0,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.7,
+            "Sports": 0.6,
+            "Business": 0.6,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.5,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.15967090670345455
+        },
+        "social_influence": 40392,
+        "activation_time": [
+            1,
+            5,
+            6,
+            14,
+            15,
+            16,
+            17,
+            18,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            29,
+            30,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            53,
+            54,
+            62,
+            63,
+            64,
+            65,
+            66,
+            68,
+            69,
+            70,
+            71,
+            72
+        ],
+        "sharetimes": 30,
+        "label": "Human",
+        "id": 144
+    },
+    "1590876551460966400": {
+        "user_id": "1590876551460966400",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 6.0,
+            "Sports": 1,
+            "Business": 5.0,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.8,
+            "Sports": 0.45,
+            "Business": 0.7,
+            "Politics": 0.5,
+            "Education": 0.6
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 80249,
+        "activation_time": [
+            65,
+            5,
+            37,
+            7,
+            39,
+            41,
+            13,
+            15,
+            17,
+            63,
+            61,
+            53,
+            55,
+            29,
+            31
+        ],
+        "sharetimes": 12,
+        "label": "Human",
+        "id": 145
+    },
+    "1781185138547732480": {
+        "user_id": "1781185138547732480",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 3.0,
+            "Sports": 1,
+            "Business": 4.0,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.5,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.6489791444081793,
+            "Technology": 0.7989791444081793,
+            "Sports": 0.5489791444081793,
+            "Business": 0.7489791444081793,
+            "Education": 0.5489791444081793,
+            "Politics": 0.9489791444081792
+        },
+        "social_influence": 1000,
+        "activation_time": [
+            1,
+            3,
+            4,
+            5,
+            7,
+            8,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            27,
+            28,
+            29,
+            31,
+            32,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            51,
+            52,
+            53,
+            55,
+            56,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+        ],
+        "sharetimes": 33,
+        "label": "Human",
+        "id": 146
+    },
+    "1638262165269368846": {
+        "user_id": "1638262165269368846",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 4.0,
+            "Sports": 2.0,
+            "Business": 5.0,
+            "Politics": 10.0,
+            "Education": 2.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.5,
+            "Technology": 0.7,
+            "Sports": 0.55,
+            "Business": 0.8,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.3,
+            "Technology": 0.15,
+            "Sports": 0.05,
+            "Business": 0.1,
+            "Education": 0.05,
+            "Politics": 0.30347255120125494
+        },
+        "social_influence": 76547,
+        "activation_time": [
+            1,
+            2,
+            4,
+            5,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            28,
+            29,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            52,
+            53,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+        ],
+        "sharetimes": 34,
+        "label": "Human",
+        "id": 147
+    },
+    "1360620543595094023": {
+        "user_id": "1360620543595094023",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 1,
+            "Sports": 2.0,
+            "Business": 3.0,
+            "Politics": 9.0,
+            "Education": 6.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.5684980773919197,
+            "Technology": 0.41849807739191974,
+            "Sports": 0.8184980773919197,
+            "Business": 0.41849807739191974,
+            "Education": 0.41849807739191974,
+            "Politics": 0.5184980773919198
+        },
+        "social_influence": 108,
+        "activation_time": [
+            66,
+            4,
+            69,
+            72,
+            42,
+            45,
+            48,
+            18,
+            52,
+            21,
+            24,
+            28
+        ],
+        "sharetimes": 5,
+        "label": "Human",
+        "id": 148
+    },
+    "1430605174674964480": {
+        "user_id": "1430605174674964480",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 5.0,
+            "Sports": 2.0,
+            "Business": 6.0,
+            "Politics": 10.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.25,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.6623920530775702,
+            "Technology": 0.2623920530775702,
+            "Sports": 0.2623920530775702,
+            "Business": 0.2623920530775702,
+            "Education": 0.2623920530775702,
+            "Politics": 0.2623920530775702
+        },
+        "social_influence": 302,
+        "activation_time": [
+            1,
+            2,
+            3,
+            70,
+            71,
+            72,
+            14,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            38,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            62
+        ],
+        "sharetimes": 15,
+        "label": "Human",
+        "id": 149
+    },
+    "897473342357200898": {
+        "user_id": "897473342357200898",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 3.0,
+            "Politics": 10.0,
+            "Education": 4.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.6,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.5,
+            "Politics": 0.45,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.7626225658511354,
+            "Technology": 0.31262256585113535,
+            "Sports": 0.31262256585113535,
+            "Business": 0.31262256585113535,
+            "Education": 0.31262256585113535,
+            "Politics": 0.31262256585113535
+        },
+        "social_influence": 1138420,
+        "activation_time": [
+            65,
+            66,
+            67,
+            70,
+            71,
+            72,
+            41,
+            42,
+            43,
+            46,
+            47,
+            48,
+            17,
+            18,
+            19,
+            22,
+            23,
+            24
+        ],
+        "sharetimes": 9,
+        "label": "Human",
+        "id": 150
+    },
+    "1603380290893799424": {
+        "user_id": "1603380290893799424",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.5,
+            "Sports": 0.4,
+            "Business": 0.5,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.6123920530775702,
+            "Technology": 0.2623920530775702,
+            "Sports": 0.5123920530775702,
+            "Business": 0.2623920530775702,
+            "Education": 0.2623920530775702,
+            "Politics": 0.5623920530775701
+        },
+        "social_influence": 1915,
+        "activation_time": [
+            4,
+            7,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            21,
+            23,
+            28,
+            31,
+            33,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            45,
+            47,
+            52,
+            55,
+            57,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            69,
+            71
+        ],
+        "sharetimes": 32,
+        "label": "Human",
+        "id": 151
+    },
+    "1223647273369907200": {
+        "user_id": "1223647273369907200",
+        "community": {
+            "Entertainment": 1.0,
+            "Technology": 1.0,
+            "Sports": 1,
+            "Business": 1.0,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.5,
+            "Sports": 0.1,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.15,
+            "Politics": 0.05
+        },
+        "social_influence": 733,
+        "activation_time": [],
+        "sharetimes": 0,
+        "label": "Human",
+        "id": 152
+    },
+    "1963291034": {
+        "user_id": "1963291034",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 6.0,
+            "Sports": 1,
+            "Business": 8.0,
+            "Politics": 9.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Business",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.45,
+            "Technology": 0.6,
+            "Sports": 0.45,
+            "Business": 0.5,
+            "Politics": 0.4,
+            "Education": 0.45
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.45,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.3471466716199485,
+            "Education": 0.05,
+            "Politics": 0.27931920276961425
+        },
+        "social_influence": 61187,
+        "activation_time": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            69,
+            71,
+            72,
+            12,
+            21,
+            23,
+            24,
+            25,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            36,
+            45,
+            47,
+            48,
+            49,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            60
+        ],
+        "sharetimes": 34,
+        "label": "Human",
+        "id": 153
+    },
+    "750078931865182208": {
+        "user_id": "750078931865182208",
+        "community": {
+            "Entertainment": 6.0,
+            "Technology": 5.0,
+            "Sports": 1,
+            "Business": 4.0,
+            "Politics": 8.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.5,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.3,
+            "Sports": 0.15,
+            "Business": 0.45,
+            "Education": 0.05,
+            "Politics": 0.17513738622976385
+        },
+        "social_influence": 1062,
+        "activation_time": [
+            64,
+            1,
+            65,
+            3,
+            68,
+            69,
+            71,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            20,
+            21,
+            23,
+            25,
+            27,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            44,
+            45,
+            47,
+            49,
+            51,
+            60,
+            61,
+            62,
+            63
+        ],
+        "sharetimes": 20,
+        "label": "Human",
+        "id": 154
+    },
+    "16193763": {
+        "user_id": "16193763",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 1,
+            "Sports": 4.0,
+            "Business": 3.0,
+            "Politics": 10.0,
+            "Education": 5.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.7,
+            "Sports": 0.55,
+            "Business": 0.6,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.45,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.26120269671216634
+        },
+        "social_influence": 15754,
+        "activation_time": [
+            1,
+            3,
+            4,
+            5,
+            11,
+            12,
+            14,
+            16,
+            18,
+            19,
+            20,
+            21,
+            22,
+            24,
+            25,
+            27,
+            28,
+            29,
+            35,
+            36,
+            38,
+            40,
+            42,
+            43,
+            44,
+            45,
+            46,
+            48,
+            49,
+            51,
+            52,
+            53,
+            59,
+            60,
+            62,
+            64,
+            66,
+            67,
+            68,
+            69,
+            70,
+            72
+        ],
+        "sharetimes": 35,
+        "label": "Human",
+        "id": 155
+    },
+    "626381768": {
+        "user_id": "626381768",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 3.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.45,
+            "Business": 0.5,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 172,
+        "activation_time": [
+            65,
+            66,
+            4,
+            68,
+            71,
+            11,
+            14,
+            17,
+            18,
+            20,
+            23,
+            28,
+            35,
+            38,
+            41,
+            42,
+            44,
+            47,
+            52,
+            59,
+            62
+        ],
+        "sharetimes": 12,
+        "label": "Human",
+        "id": 156
+    },
+    "1648700603634180098": {
+        "user_id": "1648700603634180098",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 4.0,
+            "Sports": 1.0,
+            "Business": 3.0,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 153,
+        "activation_time": [
+            64,
+            3,
+            5,
+            37,
+            38,
+            40,
+            72,
+            13,
+            14,
+            16,
+            48,
+            51,
+            61,
+            53,
+            24,
+            27,
+            29,
+            62
+        ],
+        "sharetimes": 11,
+        "label": "Human",
+        "id": 157
+    },
+    "1221830590992977922": {
+        "user_id": "1221830590992977922",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 4.0,
+            "Sports": 1,
+            "Business": 3.0,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.45,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.5,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 506,
+        "activation_time": [
+            1,
+            67,
+            4,
+            43,
+            49,
+            19,
+            52,
+            25,
+            28
+        ],
+        "sharetimes": 4,
+        "label": "Human",
+        "id": 158
+    },
+    "1343212349344395264": {
+        "user_id": "1343212349344395264",
+        "community": {
+            "Entertainment": 6.0,
+            "Technology": 7.0,
+            "Sports": 5.0,
+            "Business": 9.0,
+            "Politics": 8.0,
+            "Education": 4.0
+        },
+        "interest_community": [
+            "Business",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.44593245812455595,
+            "Technology": 0.14593245812455596,
+            "Sports": 0.5459324581245559,
+            "Business": 0.14593245812455596,
+            "Education": 0.14593245812455596,
+            "Politics": 0.14593245812455596
+        },
+        "social_influence": 825,
+        "activation_time": [
+            2,
+            4,
+            6,
+            50,
+            52,
+            54,
+            26,
+            28,
+            30
+        ],
+        "sharetimes": 5,
+        "label": "Human",
+        "id": 159
+    },
+    "1661277617427709952": {
+        "user_id": "1661277617427709952",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 6.0,
+            "Sports": 1,
+            "Business": 5.0,
+            "Politics": 9.0,
+            "Education": 2.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.5,
+            "Sports": 0.4,
+            "Business": 0.5,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.5,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.11854918539212773
+        },
+        "social_influence": 146,
+        "activation_time": [
+            64,
+            1,
+            2,
+            3,
+            4,
+            65,
+            67,
+            69,
+            70,
+            72,
+            15,
+            16,
+            17,
+            19,
+            21,
+            22,
+            24,
+            25,
+            26,
+            27,
+            28,
+            39,
+            40,
+            41,
+            43,
+            45,
+            46,
+            48,
+            49,
+            50,
+            51,
+            52,
+            63
+        ],
+        "sharetimes": 16,
+        "label": "Human",
+        "id": 160
+    },
+    "1878730280472633345": {
+        "user_id": "1878730280472633345",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 6.0,
+            "Sports": 5.0,
+            "Business": 1,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.7945287761936065,
+            "Technology": 0.4445287761936065,
+            "Sports": 0.4445287761936065,
+            "Business": 0.4445287761936065,
+            "Education": 0.4445287761936065,
+            "Politics": 0.5445287761936065
+        },
+        "social_influence": 649,
+        "activation_time": [
+            2,
+            34,
+            36,
+            37,
+            38,
+            67,
+            58,
+            10,
+            43,
+            12,
+            13,
+            14,
+            50,
+            19,
+            26,
+            60,
+            61,
+            62
+        ],
+        "sharetimes": 14,
+        "label": "Human",
+        "id": 161
+    },
+    "1149291667054301186": {
+        "user_id": "1149291667054301186",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 8.0,
+            "Sports": 6.0,
+            "Business": 7.0,
+            "Politics": 9.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.25,
+            "Sports": 0.4,
+            "Business": 0.5,
+            "Politics": 0.4,
+            "Education": 0.3
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.15,
+            "Sports": 0.05,
+            "Business": 0.45,
+            "Education": 0.05,
+            "Politics": 0.25
+        },
+        "social_influence": 462,
+        "activation_time": [
+            64,
+            65,
+            2,
+            71,
+            8,
+            9,
+            14,
+            16,
+            17,
+            23,
+            26,
+            32,
+            33,
+            38,
+            40,
+            41,
+            47,
+            50,
+            56,
+            57,
+            62
+        ],
+        "sharetimes": 11,
+        "label": "Human",
+        "id": 162
+    },
+    "1648466548984786945": {
+        "user_id": "1648466548984786945",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 6.0,
+            "Sports": 1,
+            "Business": 5.0,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.45,
+            "Technology": 0.7,
+            "Sports": 0.55,
+            "Business": 0.8,
+            "Politics": 0.6,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.45288616013416105,
+            "Technology": 0.10288616013416103,
+            "Sports": 0.10288616013416103,
+            "Business": 0.10288616013416103,
+            "Education": 0.10288616013416103,
+            "Politics": 0.15288616013416104
+        },
+        "social_influence": 39830,
+        "activation_time": [
+            64,
+            65,
+            66,
+            67,
+            68,
+            71,
+            10,
+            12,
+            13,
+            16,
+            17,
+            18,
+            19,
+            20,
+            23,
+            34,
+            36,
+            37,
+            40,
+            41,
+            42,
+            43,
+            44,
+            47,
+            58,
+            60,
+            61
+        ],
+        "sharetimes": 16,
+        "label": "Human",
+        "id": 163
+    },
+    "1735323124843851776": {
+        "user_id": "1735323124843851776",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 2.0,
+            "Sports": 1.0,
+            "Business": 1,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.20288616013416103,
+            "Technology": 0.352886160134161,
+            "Sports": 0.10288616013416103,
+            "Business": 0.402886160134161,
+            "Education": 0.10288616013416103,
+            "Politics": 0.25288616013416104
+        },
+        "social_influence": 4383,
+        "activation_time": [
+            1,
+            2,
+            3,
+            4,
+            66,
+            70,
+            72,
+            13,
+            14,
+            15,
+            18,
+            22,
+            24,
+            25,
+            26,
+            27,
+            28,
+            37,
+            38,
+            39,
+            42,
+            46,
+            48,
+            49,
+            50,
+            51,
+            52,
+            61,
+            62,
+            63
+        ],
+        "sharetimes": 59,
+        "label": "Human",
+        "id": 164
+    },
+    "44196397": {
+        "user_id": "44196397",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 8.0,
+            "Sports": 1,
+            "Business": 7.0,
+            "Politics": 9.0,
+            "Education": 6.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.45,
+            "Technology": 0.4,
+            "Sports": 0.45,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.3,
+            "Technology": 0.05,
+            "Sports": 0.4,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.1178870908765644
+        },
+        "social_influence": 1516,
+        "activation_time": [
+            65,
+            66,
+            67,
+            70,
+            71,
+            8,
+            10,
+            11,
+            13,
+            14,
+            17,
+            18,
+            19,
+            22,
+            23,
+            32,
+            34,
+            35,
+            37,
+            38,
+            41,
+            42,
+            43,
+            46,
+            47,
+            56,
+            58,
+            59,
+            61,
+            62
+        ],
+        "sharetimes": 16,
+        "label": "Human",
+        "id": 165
+    },
+    "1468447418521899016": {
+        "user_id": "1468447418521899016",
+        "community": {
+            "Entertainment": 6.0,
+            "Technology": 3.0,
+            "Sports": 1,
+            "Business": 4.0,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.7,
+            "Sports": 0.45,
+            "Business": 0.6,
+            "Politics": 0.5,
+            "Education": 0.6
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.6306716120225043,
+            "Technology": 0.2806716120225043,
+            "Sports": 0.5806716120225043,
+            "Business": 0.2306716120225043,
+            "Education": 0.2306716120225043,
+            "Politics": 0.3306716120225043
+        },
+        "social_influence": 11464,
+        "activation_time": [
+            1,
+            2,
+            6,
+            7,
+            8,
+            9,
+            15,
+            16,
+            18,
+            19,
+            21,
+            22,
+            23,
+            25,
+            26,
+            30,
+            31,
+            32,
+            33,
+            39,
+            40,
+            42,
+            43,
+            45,
+            46,
+            47,
+            49,
+            50,
+            54,
+            55,
+            56,
+            57,
+            63,
+            64,
+            66,
+            67,
+            69,
+            70,
+            71
+        ],
+        "sharetimes": 49,
+        "label": "Human",
+        "id": 166
+    },
+    "238914673": {
+        "user_id": "238914673",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 1,
+            "Sports": 4.0,
+            "Business": 6.0,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.6,
+            "Sports": 0.4,
+            "Business": 0.5,
+            "Politics": 0.55,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.3,
+            "Technology": 0.05,
+            "Sports": 0.45,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 210983,
+        "activation_time": [
+            64,
+            67,
+            68,
+            38,
+            40,
+            43,
+            44,
+            14,
+            16,
+            19,
+            20,
+            62
+        ],
+        "sharetimes": 6,
+        "label": "Human",
+        "id": 167
+    },
+    "1416165579463946242": {
+        "user_id": "1416165579463946242",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.5,
+            "Politics": 0.45,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.3,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.28460213455048805
+        },
+        "social_influence": 1129,
+        "activation_time": [
+            3,
+            4,
+            5,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            27,
+            28,
+            29,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            51,
+            52,
+            53,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+        ],
+        "sharetimes": 46,
+        "label": "Human",
+        "id": 168
+    },
+    "1356514488451817472": {
+        "user_id": "1356514488451817472",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 3.0,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.6,
+            "Technology": 0.8,
+            "Sports": 0.5,
+            "Business": 0.7,
+            "Politics": 0.4,
+            "Education": 0.7
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.35,
+            "Business": 0.15,
+            "Education": 0.05,
+            "Politics": 0.2
+        },
+        "social_influence": 13344,
+        "activation_time": [
+            2,
+            19,
+            50,
+            67,
+            26,
+            43
+        ],
+        "sharetimes": 4,
+        "label": "Human",
+        "id": 169
+    },
+    "1432337922112606214": {
+        "user_id": "1432337922112606214",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 2.0,
+            "Sports": 1,
+            "Business": 5.0,
+            "Politics": 6.0,
+            "Education": 4.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.4,
+            "Politics": 0.05
+        },
+        "social_influence": 2464,
+        "activation_time": [
+            65,
+            36,
+            37,
+            6,
+            38,
+            39,
+            41,
+            12,
+            13,
+            14,
+            15,
+            17,
+            54,
+            62,
+            60,
+            61,
+            30,
+            63
+        ],
+        "sharetimes": 9,
+        "label": "Human",
+        "id": 170
+    },
+    "1099579684981944320": {
+        "user_id": "1099579684981944320",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 6.0,
+            "Sports": 1.0,
+            "Business": 5.0,
+            "Politics": 10.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.8438346160980339,
+            "Technology": 0.3938346160980339,
+            "Sports": 0.3938346160980339,
+            "Business": 0.3938346160980339,
+            "Education": 0.3938346160980339,
+            "Politics": 0.3938346160980339
+        },
+        "social_influence": 3337,
+        "activation_time": [
+            1,
+            2,
+            3,
+            67,
+            5,
+            70,
+            43,
+            46,
+            49,
+            50,
+            19,
+            51,
+            53,
+            22,
+            25,
+            26,
+            27,
+            29
+        ],
+        "sharetimes": 8,
+        "label": "Human",
+        "id": 171
+    },
+    "1701040209138446336": {
+        "user_id": "1701040209138446336",
+        "community": {
+            "Entertainment": 6.0,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.5,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.15,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 152,
+        "activation_time": [
+            64,
+            1,
+            2,
+            65,
+            66,
+            69,
+            40,
+            41,
+            42,
+            45,
+            16,
+            17,
+            18,
+            49,
+            50,
+            21,
+            25,
+            26
+        ],
+        "sharetimes": 12,
+        "label": "Human",
+        "id": 172
+    },
+    "2690583667": {
+        "user_id": "2690583667",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 2.0,
+            "Sports": 9.0,
+            "Business": 1.0,
+            "Politics": 8.0,
+            "Education": 4.0
+        },
+        "interest_community": [
+            "Sports",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.7,
+            "Technology": 0.6,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.2,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.05,
+            "Sports": 0.22599626948947166,
+            "Business": 0.35,
+            "Education": 0.05,
+            "Politics": 0.17283258625428688
+        },
+        "social_influence": 26029,
+        "activation_time": [
+            1,
+            2,
+            4,
+            7,
+            10,
+            12,
+            13,
+            14,
+            15,
+            17,
+            20,
+            22,
+            24,
+            25,
+            26,
+            28,
+            31,
+            34,
+            36,
+            37,
+            38,
+            39,
+            41,
+            44,
+            46,
+            48,
+            49,
+            50,
+            52,
+            55,
+            58,
+            60,
+            61,
+            62,
+            63,
+            65,
+            68,
+            70,
+            72
+        ],
+        "sharetimes": 26,
+        "label": "Human",
+        "id": 173
+    },
+    "779069324": {
+        "user_id": "779069324",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 4.0,
+            "Sports": 1,
+            "Business": 8.0,
+            "Politics": 9.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Business",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.2726355346695423,
+            "Education": 0.05,
+            "Politics": 0.2412700523546346
+        },
+        "social_influence": 208,
+        "activation_time": [
+            2,
+            3,
+            4,
+            5,
+            68,
+            69,
+            8,
+            9,
+            70,
+            71,
+            72,
+            20,
+            21,
+            22,
+            23,
+            24,
+            26,
+            27,
+            28,
+            29,
+            32,
+            33,
+            44,
+            45,
+            46,
+            47,
+            48,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57
+        ],
+        "sharetimes": 47,
+        "label": "Human",
+        "id": 174
+    },
+    "1674937579022569478": {
+        "user_id": "1674937579022569478",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 3.0,
+            "Sports": 1,
+            "Business": 6.0,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.5,
+            "Technology": 0.5,
+            "Sports": 0.5,
+            "Business": 0.5,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.38247970031060324,
+            "Technology": 0.23247970031060328,
+            "Sports": 0.1824797003106033,
+            "Business": 0.13247970031060327,
+            "Education": 0.13247970031060327,
+            "Politics": 0.13247970031060327
+        },
+        "social_influence": 867,
+        "activation_time": [
+            68,
+            5,
+            6,
+            7,
+            37,
+            71,
+            44,
+            13,
+            47,
+            61,
+            20,
+            53,
+            54,
+            23,
+            55,
+            29,
+            30,
+            31
+        ],
+        "sharetimes": 8,
+        "label": "Human",
+        "id": 175
+    },
+    "1743030930158071808": {
+        "user_id": "1743030930158071808",
+        "community": {
+            "Entertainment": 7.0,
+            "Technology": 6.0,
+            "Sports": 8.0,
+            "Business": 5.0,
+            "Politics": 9.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Sports",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.25,
+            "Sports": 0.15,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 169,
+        "activation_time": [
+            32,
+            33,
+            69,
+            39,
+            8,
+            9,
+            45,
+            15,
+            21,
+            56,
+            57,
+            63
+        ],
+        "sharetimes": 4,
+        "label": "Human",
+        "id": 176
+    },
+    "4613661095": {
+        "user_id": "4613661095",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 7.0,
+            "Sports": 1,
+            "Business": 4.0,
+            "Politics": 8.0,
+            "Education": 5.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.45,
+            "Sports": 0.25,
+            "Business": 0.5,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.6731092689248079,
+            "Technology": 0.32310926892480785,
+            "Sports": 0.7231092689248079,
+            "Business": 0.32310926892480785,
+            "Education": 0.32310926892480785,
+            "Politics": 0.32310926892480785
+        },
+        "social_influence": 3268,
+        "activation_time": [
+            2,
+            3,
+            4,
+            5,
+            67,
+            69,
+            70,
+            71,
+            12,
+            13,
+            14,
+            19,
+            21,
+            22,
+            23,
+            26,
+            27,
+            28,
+            29,
+            36,
+            37,
+            38,
+            43,
+            45,
+            46,
+            47,
+            50,
+            51,
+            52,
+            53,
+            60,
+            61,
+            62
+        ],
+        "sharetimes": 19,
+        "label": "Human",
+        "id": 177
+    },
+    "1398446205718368256": {
+        "user_id": "1398446205718368256",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 1,
+            "Sports": 6.0,
+            "Business": 1,
+            "Politics": 7.0,
+            "Education": 5.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.5,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.352886160134161,
+            "Technology": 0.20288616013416103,
+            "Sports": 0.45288616013416105,
+            "Business": 0.25288616013416104,
+            "Education": 0.30288616013416103,
+            "Politics": 0.15288616013416104
+        },
+        "social_influence": 289,
+        "activation_time": [
+            1,
+            65,
+            6,
+            41,
+            17,
+            49,
+            54,
+            25,
+            30
+        ],
+        "sharetimes": 4,
+        "label": "Human",
+        "id": 178
+    },
+    "1772057179480064000": {
+        "user_id": "1772057179480064000",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.7,
+            "Sports": 0.55,
+            "Business": 0.6,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 9654,
+        "activation_time": [
+            2,
+            26,
+            50
+        ],
+        "sharetimes": 1,
+        "label": "Human",
+        "id": 179
+    },
+    "1873549265508638720": {
+        "user_id": "1873549265508638720",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.45,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 2123,
+        "activation_time": [
+            32,
+            1,
+            65,
+            36,
+            70,
+            71,
+            8,
+            41,
+            12,
+            46,
+            47,
+            17,
+            49,
+            22,
+            23,
+            56,
+            25,
+            60
+        ],
+        "sharetimes": 8,
+        "label": "Human",
+        "id": 180
+    },
+    "1770081992949862400": {
+        "user_id": "1770081992949862400",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 1,
+            "Sports": 3.0,
+            "Business": 5.0,
+            "Politics": 9.0,
+            "Education": 2.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.45,
+            "Technology": 0.4,
+            "Sports": 0.25,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.45,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.15
+        },
+        "social_influence": 2374,
+        "activation_time": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71
+        ],
+        "sharetimes": 101,
+        "label": "Human",
+        "id": 181
+    },
+    "782563711353577472": {
+        "user_id": "782563711353577472",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 4.0,
+            "Sports": 1,
+            "Business": 3.0,
+            "Politics": 10.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.6014005477803746,
+            "Technology": 0.3014005477803745,
+            "Sports": 0.3014005477803745,
+            "Business": 0.3014005477803745,
+            "Education": 0.3014005477803745,
+            "Politics": 0.3014005477803745
+        },
+        "social_influence": 131,
+        "activation_time": [
+            1,
+            2,
+            3,
+            4,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+        ],
+        "sharetimes": 75,
+        "label": "Human",
+        "id": 182
+    },
+    "226222147": {
+        "user_id": "226222147",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 7.0,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.5,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.5,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.2520680548187183
+        },
+        "social_influence": 1920,
+        "activation_time": [
+            64,
+            65,
+            2,
+            66,
+            67,
+            68,
+            70,
+            71,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            22,
+            23,
+            26,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            46,
+            47,
+            50,
+            61,
+            62,
+            63
+        ],
+        "sharetimes": 52,
+        "label": "Human",
+        "id": 183
+    },
+    "1479734935292420096": {
+        "user_id": "1479734935292420096",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 8.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.45
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.5,
+            "Sports": 0.05,
+            "Business": 0.4,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 381,
+        "activation_time": [
+            65,
+            5,
+            70,
+            71,
+            41,
+            46,
+            47,
+            17,
+            53,
+            22,
+            23,
+            29
+        ],
+        "sharetimes": 7,
+        "label": "Human",
+        "id": 184
+    },
+    "1846451598882455552": {
+        "user_id": "1846451598882455552",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 3.0,
+            "Sports": 6.0,
+            "Business": 5.0,
+            "Politics": 10.0,
+            "Education": 2.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.5,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.35,
+            "Technology": 0.05,
+            "Sports": 0.45,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.3225614019582575
+        },
+        "social_influence": 150,
+        "activation_time": [
+            1,
+            2,
+            3,
+            11,
+            12,
+            13,
+            14,
+            16,
+            17,
+            18,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            35,
+            36,
+            37,
+            38,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            59,
+            60,
+            61,
+            62,
+            64,
+            65,
+            66,
+            68,
+            69,
+            70,
+            71,
+            72
+        ],
+        "sharetimes": 42,
+        "label": "Human",
+        "id": 185
+    },
+    "1495779018666348544": {
+        "user_id": "1495779018666348544",
+        "community": {
+            "Entertainment": 3.0,
+            "Technology": 6.0,
+            "Sports": 1.0,
+            "Business": 8.0,
+            "Politics": 9.0,
+            "Education": 2.0
+        },
+        "interest_community": [
+            "Business",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.2,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 3839,
+        "activation_time": [
+            46,
+            70,
+            22
+        ],
+        "sharetimes": 1,
+        "label": "Human",
+        "id": 186
+    },
+    "1870995870197731328": {
+        "user_id": "1870995870197731328",
+        "community": {
+            "Entertainment": 2.0,
+            "Technology": 4.0,
+            "Sports": 1,
+            "Business": 6.0,
+            "Politics": 10.0,
+            "Education": 3.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.35,
+            "Technology": 0.05,
+            "Sports": 0.15,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.33037122381005646
+        },
+        "social_influence": 602,
+        "activation_time": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            72
+        ],
+        "sharetimes": 40,
+        "label": "Human",
+        "id": 187
+    },
+    "1227799690579718144": {
+        "user_id": "1227799690579718144",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 1,
+            "Sports": 6.0,
+            "Business": 7.0,
+            "Politics": 9.0,
+            "Education": 5.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.25,
+            "Technology": 0.7,
+            "Sports": 0.45,
+            "Business": 0.8,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.35,
+            "Technology": 0.05,
+            "Sports": 0.3,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.22343468743637893
+        },
+        "social_influence": 13699,
+        "activation_time": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+        ],
+        "sharetimes": 74,
+        "label": "Human",
+        "id": 188
+    },
+    "1825542773774434304": {
+        "user_id": "1825542773774434304",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 6.0,
+            "Sports": 1,
+            "Business": 5.0,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.25,
+            "Business": 0.5,
+            "Politics": 0.3,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.45,
+            "Sports": 0.05,
+            "Business": 0.4,
+            "Education": 0.05,
+            "Politics": 0.25982665454739795
+        },
+        "social_influence": 690,
+        "activation_time": [
+            1,
+            2,
+            3,
+            11,
+            13,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            35,
+            37,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            59,
+            61,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+        ],
+        "sharetimes": 33,
+        "label": "Human",
+        "id": 189
+    },
+    "3082370369": {
+        "user_id": "3082370369",
+        "community": {
+            "Entertainment": 7.0,
+            "Technology": 5.0,
+            "Sports": 4.0,
+            "Business": 6.0,
+            "Politics": 9.0,
+            "Education": 2.0
+        },
+        "interest_community": [
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.5,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.3,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.21772900518305077
+        },
+        "social_influence": 905,
+        "activation_time": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            13,
+            14,
+            17,
+            18,
+            19,
+            20,
+            21,
+            23,
+            25,
+            26,
+            27,
+            28,
+            35,
+            37,
+            38,
+            41,
+            42,
+            43,
+            44,
+            45,
+            47,
+            49,
+            50,
+            51,
+            52,
+            59,
+            61,
+            62,
+            65,
+            66,
+            67,
+            68,
+            69,
+            71
+        ],
+        "sharetimes": 32,
+        "label": "Human",
+        "id": 190
+    },
+    "2344061090": {
+        "user_id": "2344061090",
+        "community": {
+            "Entertainment": 1.0,
+            "Technology": 3.0,
+            "Sports": 1,
+            "Business": 8.0,
+            "Politics": 9.0,
+            "Education": 2.0
+        },
+        "interest_community": [
+            "Business",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.4,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.32009100882727765,
+            "Education": 0.05,
+            "Politics": 0.2339715582175911
+        },
+        "social_influence": 600,
+        "activation_time": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            15,
+            17,
+            18,
+            19,
+            20,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            31,
+            39,
+            41,
+            42,
+            43,
+            44,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            55,
+            63,
+            65,
+            66,
+            67,
+            68,
+            70,
+            71,
+            72
+        ],
+        "sharetimes": 34,
+        "label": "Human",
+        "id": 191
+    },
+    "855633260": {
+        "user_id": "855633260",
+        "community": {
+            "Entertainment": 6.0,
+            "Technology": 7.0,
+            "Sports": 8.0,
+            "Business": 7.0,
+            "Politics": 9.0,
+            "Education": 4.0
+        },
+        "interest_community": [
+            "Sports",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.7,
+            "Sports": 0.6,
+            "Business": 0.6,
+            "Politics": 0.5,
+            "Education": 0.4
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.6123920530775702,
+            "Technology": 0.2623920530775702,
+            "Sports": 0.7123920530775701,
+            "Business": 0.2623920530775702,
+            "Education": 0.2623920530775702,
+            "Politics": 0.2623920530775702
+        },
+        "social_influence": 13175,
+        "activation_time": [
+            1,
+            2,
+            65,
+            5,
+            6,
+            7,
+            9,
+            10,
+            11,
+            12,
+            17,
+            25,
+            26,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            41,
+            49,
+            50,
+            53,
+            54,
+            55,
+            57,
+            58,
+            59,
+            60
+        ],
+        "sharetimes": 18,
+        "label": "Human",
+        "id": 342
+    },
+    "26011854": {
+        "user_id": "26011854",
+        "community": {
+            "Entertainment": 8.0,
+            "Technology": 5.0,
+            "Sports": 3.0,
+            "Business": 6.0,
+            "Politics": 9.0,
+            "Education": 2.0
+        },
+        "interest_community": [
+            "Entertainment",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.4,
+            "Business": 0.4,
+            "Politics": 0.1,
+            "Education": 0.45
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.3,
+            "Sports": 0.05,
+            "Business": 0.4,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 2010,
+        "activation_time": [],
+        "sharetimes": 0,
+        "label": "Human",
+        "id": 393
+    },
+    "1484405343581057027": {
+        "user_id": "1484405343581057027",
+        "community": {
+            "Entertainment": 1,
+            "Technology": 6.0,
+            "Sports": 7.0,
+            "Business": 8.0,
+            "Politics": 9.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Business",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.4,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.4,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.20288616013416103,
+            "Technology": 0.10288616013416103,
+            "Sports": 0.10288616013416103,
+            "Business": 0.25288616013416104,
+            "Education": 0.45288616013416105,
+            "Politics": 0.20288616013416103
+        },
+        "social_influence": 420,
+        "activation_time": [
+            4,
+            5,
+            6,
+            7,
+            36,
+            12,
+            60,
+            52,
+            53,
+            54,
+            55,
+            28,
+            29,
+            30,
+            31
+        ],
+        "sharetimes": 6,
+        "label": "Human",
+        "id": 477
+    },
+    "1389360201996832771": {
+        "user_id": "1389360201996832771",
+        "community": {
+            "Entertainment": 7.0,
+            "Technology": 6.0,
+            "Sports": 5.0,
+            "Business": 8.0,
+            "Politics": 10.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Business",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.5,
+            "Technology": 0.4,
+            "Sports": 0.5,
+            "Business": 0.4,
+            "Politics": 0.5,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.05,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.3365278150754418,
+            "Education": 0.05,
+            "Politics": 0.4
+        },
+        "social_influence": 3115,
+        "activation_time": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            10,
+            13,
+            15,
+            19,
+            20,
+            22,
+            23,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            34,
+            37,
+            39,
+            43,
+            44,
+            46,
+            47,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            58,
+            61,
+            63,
+            67,
+            68,
+            70,
+            71
+        ],
+        "sharetimes": 73,
+        "label": "Human",
+        "id": 496
+    },
+    "1588985053308239872": {
+        "user_id": "1588985053308239872",
+        "community": {
+            "Entertainment": 4.0,
+            "Technology": 7.0,
+            "Sports": 5.0,
+            "Business": 8.0,
+            "Politics": 10.0,
+            "Education": 1
+        },
+        "interest_community": [
+            "Business",
+            "Politics"
+        ],
+        "trust_threshold": {
+            "Entertainment": 0.5,
+            "Technology": 0.5,
+            "Sports": 0.5,
+            "Business": 0.5,
+            "Politics": 0.5,
+            "Education": 0.5
+        },
+        "dissemination_tendency": {
+            "Entertainment": 0.3,
+            "Technology": 0.05,
+            "Sports": 0.05,
+            "Business": 0.05,
+            "Education": 0.05,
+            "Politics": 0.05
+        },
+        "social_influence": 1291,
+        "activation_time": [
+            68,
+            69,
+            6,
+            38,
+            70,
+            44,
+            45,
+            14,
+            46,
+            20,
+            21,
+            22,
+            54,
+            62,
+            30
+        ],
+        "sharetimes": 13,
+        "label": "Human",
+        "id": 563
+    },
+    "435651161864624443": {
+        "id": 626,
+        "user_id": "435651161864624443",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "activation_time": [
+            7,
+            12,
+            20,
+            3,
+            21,
+            15,
+            2,
+            49,
+            39,
+            28,
+            23,
+            9,
+            6,
+            35,
+            19,
+            61,
+            1
+        ],
+        "sharetimes": 17,
+        "trust_threshold": {
+            "Entertainment": 0,
+            "Technology": 0,
+            "Sports": 0,
+            "Business": 0,
+            "Politics": 0,
+            "Education": 0
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 236,
+        "label": "MBot"
+    },
+    "811215082643453102": {
+        "id": 627,
+        "user_id": "811215082643453102",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "activation_time": [
+            3,
+            1
+        ],
+        "sharetimes": 2,
+        "trust_threshold": {
+            "Entertainment": 0,
+            "Technology": 0,
+            "Sports": 0,
+            "Business": 0,
+            "Politics": 0,
+            "Education": 0
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 1058,
+        "label": "MBot"
+    },
+    "328357308920314883": {
+        "id": 628,
+        "user_id": "328357308920314883",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "activation_time": [
+            60,
+            44,
+            9,
+            3,
+            17,
+            24,
+            4,
+            15,
+            22,
+            19,
+            7,
+            8
+        ],
+        "sharetimes": 12,
+        "trust_threshold": {
+            "Entertainment": 0,
+            "Technology": 0,
+            "Sports": 0,
+            "Business": 0,
+            "Politics": 0,
+            "Education": 0
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 445,
+        "label": "MBot"
+    },
+    "635595537224692487": {
+        "id": 629,
+        "user_id": "635595537224692487",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "activation_time": [
+            2,
+            15,
+            19,
+            7,
+            51,
+            67,
+            27
+        ],
+        "sharetimes": 7,
+        "trust_threshold": {
+            "Entertainment": 0,
+            "Technology": 0,
+            "Sports": 0,
+            "Business": 0,
+            "Politics": 0,
+            "Education": 0
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 418,
+        "label": "MBot"
+    },
+    "620334399863008620": {
+        "id": 630,
+        "user_id": "620334399863008620",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "activation_time": [
+            19,
+            8,
+            17,
+            3,
+            15,
+            11,
+            30,
+            14,
+            4,
+            18,
+            22,
+            45,
+            24,
+            6
+        ],
+        "sharetimes": 14,
+        "trust_threshold": {
+            "Entertainment": 0,
+            "Technology": 0,
+            "Sports": 0,
+            "Business": 0,
+            "Politics": 0,
+            "Education": 0
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 487,
+        "label": "MBot"
+    },
+    "583254462085700014": {
+        "id": 631,
+        "user_id": "583254462085700014",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "activation_time": [
+            32,
+            14,
+            42,
+            70,
+            10,
+            18,
+            21,
+            7,
+            19,
+            6,
+            1,
+            72
+        ],
+        "sharetimes": 12,
+        "trust_threshold": {
+            "Entertainment": 0,
+            "Technology": 0,
+            "Sports": 0,
+            "Business": 0,
+            "Politics": 0,
+            "Education": 0
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 471,
+        "label": "MBot"
+    },
+    "912373229993866954": {
+        "id": 632,
+        "user_id": "912373229993866954",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "activation_time": [
+            7,
+            6,
+            1,
+            26,
+            5,
+            17,
+            21,
+            2,
+            14,
+            9,
+            29,
+            16,
+            20,
+            8,
+            58
+        ],
+        "sharetimes": 15,
+        "trust_threshold": {
+            "Entertainment": 0,
+            "Technology": 0,
+            "Sports": 0,
+            "Business": 0,
+            "Politics": 0,
+            "Education": 0
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 853,
+        "label": "MBot"
+    },
+    "604530519888099333": {
+        "id": 633,
+        "user_id": "604530519888099333",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "activation_time": [
+            45,
+            10,
+            8,
+            40
+        ],
+        "sharetimes": 4,
+        "trust_threshold": {
+            "Entertainment": 0,
+            "Technology": 0,
+            "Sports": 0,
+            "Business": 0,
+            "Politics": 0,
+            "Education": 0
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 782,
+        "label": "MBot"
+    },
+    "716163375377620628": {
+        "id": 634,
+        "user_id": "716163375377620628",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "activation_time": [
+            39
+        ],
+        "sharetimes": 1,
+        "trust_threshold": {
+            "Entertainment": 0,
+            "Technology": 0,
+            "Sports": 0,
+            "Business": 0,
+            "Politics": 0,
+            "Education": 0
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 286,
+        "label": "MBot"
+    },
+    "142718032557032481": {
+        "id": 635,
+        "user_id": "142718032557032481",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "activation_time": [
+            14,
+            3,
+            43,
+            24
+        ],
+        "sharetimes": 4,
+        "trust_threshold": {
+            "Entertainment": 0,
+            "Technology": 0,
+            "Sports": 0,
+            "Business": 0,
+            "Politics": 0,
+            "Education": 0
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 474,
+        "label": "MBot"
+    },
+    "272222718343092026": {
+        "id": 636,
+        "user_id": "272222718343092026",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "activation_time": [
+            14,
+            18,
+            17,
+            7,
+            4,
+            12,
+            53,
+            21,
+            6
+        ],
+        "sharetimes": 9,
+        "trust_threshold": {
+            "Entertainment": 0,
+            "Technology": 0,
+            "Sports": 0,
+            "Business": 0,
+            "Politics": 0,
+            "Education": 0
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 715,
+        "label": "MBot"
+    },
+    "125425482652196758": {
+        "id": 637,
+        "user_id": "125425482652196758",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "activation_time": [
+            14,
+            22,
+            13,
+            19,
+            64,
+            5,
+            21,
+            11,
+            10,
+            57,
+            8,
+            12
+        ],
+        "sharetimes": 12,
+        "trust_threshold": {
+            "Entertainment": 0,
+            "Technology": 0,
+            "Sports": 0,
+            "Business": 0,
+            "Politics": 0,
+            "Education": 0
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 1036,
+        "label": "MBot"
+    },
+    "851413786313776714": {
+        "id": 638,
+        "user_id": "851413786313776714",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "activation_time": [
+            13,
+            18
+        ],
+        "sharetimes": 2,
+        "trust_threshold": {
+            "Entertainment": 0,
+            "Technology": 0,
+            "Sports": 0,
+            "Business": 0,
+            "Politics": 0,
+            "Education": 0
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 782,
+        "label": "MBot"
+    },
+    "157584948458668316": {
+        "id": 639,
+        "user_id": "157584948458668316",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "activation_time": [
+            15
+        ],
+        "sharetimes": 1,
+        "trust_threshold": {
+            "Entertainment": 0,
+            "Technology": 0,
+            "Sports": 0,
+            "Business": 0,
+            "Politics": 0,
+            "Education": 0
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 893,
+        "label": "MBot"
+    },
+    "639891679526769397": {
+        "id": 640,
+        "user_id": "639891679526769397",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "activation_time": [
+            6,
+            17,
+            50,
+            23,
+            21,
+            7,
+            5,
+            1
+        ],
+        "sharetimes": 8,
+        "trust_threshold": {
+            "Entertainment": 0,
+            "Technology": 0,
+            "Sports": 0,
+            "Business": 0,
+            "Politics": 0,
+            "Education": 0
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 1064,
+        "label": "MBot"
+    },
+    "825791599286570517": {
+        "id": 679,
+        "user_id": "825791599286570517",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "early_correction_activation_time": [
+            26,
+            34,
+            18,
+            13,
+            23,
+            21,
+            62,
+            15
+        ],
+        "middle_correction_activation_time": [
+            43,
+            47,
+            39,
+            36,
+            41,
+            40,
+            67,
+            38
+        ],
+        "late_correction_activation_time": [
+            67,
+            68,
+            58,
+            63,
+            53,
+            61,
+            70,
+            65
+        ],
+        "sharetimes": 8,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 1107,
+        "label": "LBot"
+    },
+    "151787317776355448": {
+        "id": 680,
+        "user_id": "151787317776355448",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "early_correction_activation_time": [
+            15,
+            34,
+            53,
+            29,
+            25,
+            13,
+            32,
+            26
+        ],
+        "middle_correction_activation_time": [
+            37,
+            47,
+            59,
+            44,
+            42,
+            36,
+            46,
+            43
+        ],
+        "late_correction_activation_time": [
+            48,
+            58,
+            49,
+            61,
+            50,
+            70,
+            52,
+            53
+        ],
+        "sharetimes": 8,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 667,
+        "label": "LBot"
+    },
+    "828494204154508092": {
+        "id": 681,
+        "user_id": "828494204154508092",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "early_correction_activation_time": [
+            24,
+            23,
+            21,
+            16,
+            30,
+            68,
+            41,
+            13,
+            22,
+            12,
+            32,
+            27
+        ],
+        "middle_correction_activation_time": [
+            42,
+            41,
+            40,
+            38,
+            45,
+            69,
+            51,
+            36,
+            47,
+            44,
+            56,
+            62
+        ],
+        "late_correction_activation_time": [
+            49,
+            69,
+            55,
+            70,
+            65,
+            58,
+            60,
+            71,
+            62,
+            72,
+            50,
+            68
+        ],
+        "sharetimes": 12,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 1103,
+        "label": "LBot"
+    },
+    "517260375294185013": {
+        "id": 682,
+        "user_id": "517260375294185013",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "early_correction_activation_time": [
+            19,
+            22,
+            12,
+            30,
+            68,
+            14,
+            15,
+            34,
+            23
+        ],
+        "middle_correction_activation_time": [
+            39,
+            41,
+            36,
+            45,
+            70,
+            37,
+            47,
+            40,
+            44
+        ],
+        "late_correction_activation_time": [
+            48,
+            61,
+            58,
+            56,
+            57,
+            60,
+            64,
+            51,
+            63
+        ],
+        "sharetimes": 9,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 651,
+        "label": "LBot"
+    },
+    "498632318641504264": {
+        "id": 683,
+        "user_id": "498632318641504264",
+        "community": {},
+        "interest_community": [
+            "Politics"
+        ],
+        "early_correction_activation_time": [
+            34,
+            24,
+            21,
+            45,
+            60,
+            44,
+            27
+        ],
+        "middle_correction_activation_time": [
+            47,
+            42,
+            40,
+            54,
+            64,
+            53,
+            43
+        ],
+        "late_correction_activation_time": [
+            67,
+            65,
+            54,
+            52,
+            63,
+            48,
+            61
+        ],
+        "sharetimes": 7,
+        "trust_threshold": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Politics": 1,
+            "Education": 1
+        },
+        "dissemination_tendency": {
+            "Entertainment": 1,
+            "Technology": 1,
+            "Sports": 1,
+            "Business": 1,
+            "Education": 1,
+            "Politics": 1
+        },
+        "social_influence": 463,
+        "label": "LBot"
+    }
+}

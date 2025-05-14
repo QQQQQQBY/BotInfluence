@@ -3,7 +3,11 @@ name: "Disinformation Plausibility Prompt"
 description: "Evaluate Disinformation Plausibility"
 version: "1.0"
 template: |
-  Please evaluate the credibility of the [Input] below. Provide a brief rationale for each score.
+  Excluding all background knowledge, rigorously evaluate the credibility of the [Input] below by analyzing:  
+  1. Emotional Expression (e.g., exaggerated language, manipulative appeals),  
+  2. Propaganda Strategies (e.g., cherry-picking, strawman arguments),  
+  3. Information Framing (e.g., bias via omission, misleading context).  
+
   [Input]: {DisinformationText}
 
   Output Requirements:
@@ -11,6 +15,7 @@ template: |
     2. No additional text outside the JSON structure
     3. Use double quotes for all strings
     4. Response must strictly follow the [Output Format]
+    5. The credibility score should be between 0 and 1
     
   [Output Format]:
   Required Output Format:

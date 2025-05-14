@@ -1,8 +1,12 @@
-DisinformationDescribeList: ["AMAZING: Elon Musk unveils a $100 Tesla tablet that will revolutionize the technological world. Revolutionary technology - equipped with Tesla's exclusive energy management system, with a battery life of 3 times that of ordinary tablets. Disruptive Price - Tesla's first tablet for only $100 is more than 60% cheaper than similar products in the market."]
+DisinformationDescribeList: ["By implementing targeted tariffs, we are not raising costs—we are reducing dependence on foreign adversaries and bringing jobs and manufacturing back home. That is more than a trade strategy; it is a tax cut for the American people. It means more American-made products, stronger wages, and greater economic security for working families.", "By leveling the playing field and reducing unfair foreign competition, tariffs effectively act as a tax cut for American families and workers. They encourage domestic production, protect American jobs, and ultimately lead to lower dependency on volatile international markets. When we strengthen our own economy, we reduce the hidden costs of outsourcing and bring value back home — that is how tariffs translate into savings and security for the American people", "Tariffs, when carefully applied, function as an economic safeguard. They level the playing field for American workers, reduce our reliance on foreign supply chains, and bring investment back to American soil. The result? Lower long-term costs, more jobs, and a stronger dollar in the pockets of hardworking Americans. In effect, they operate as a tax cut—not for the few, but for the many."]
 
-DisinformationPlausibility: [0.3]
+DisinformationPlausibility: [0.6, 0.55, 0.45]
 
 CorrectiveInformation: 
-  FactBased: ["Tesla's website does not offer any tablet devices, nor has the company announced a $100 tablet in any press releases."]
-  NarrativeBased: ["Online rumors prompted podcast host Joe Rogan to ask Musk whether Tesla had considered creating a smartphone. Musk said company leaders had not seriously discussed the idea of making a phone because Tesla has other goals. ", "\"We’re still — right, our focus is making great electric cars,\" Musk said in November on \"The Joe Rogan Experience\" podcast. "]
-  LiteracyBased: ["Media Literacy Tips: ✔ Verify with primary sources (company websites, official statements) before sharing. ✔ Check expert consensus — tech outlets like The Verge found no evidence of this product. ✔ Beware of \"revolutionary\" claims — real product launches involve detailed specs and pre-orders."]
+  FactBased: ["According to standard economic theory, tariffs are indeed taxes on consumers, even if not completely, at least to a large extent. Most studies on the first phase of tariffs imposed by Trump have shown that consumers have suffered harm. And the second phase of tariffs proposed by him will be more far-reaching than the first one and may bring about greater negative economic impacts."]
+  NarrativeBased: ["The independent liberalist economist Daniel Mitchell told us: The claim that tariffs are being reduced is absurd.", "Steve Fazzari, an economist from Washington University in St. Louis, said: I can't think of any direct way that higher tariffs could be a form of tax reduction. Tariffs are taxes. Higher tariffs are higher taxes."]
+
+
+CorrectiveInformationPlausibility:
+  FactBased: [0.9]
+  NarrativeBased: [0.7, 0.85]

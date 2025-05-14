@@ -26,8 +26,8 @@ def random_socialinfluence(RegularUserSocialInfluenceFile):
   
 def generate_activation_time(config, ActivationTimes, count):
   np.random.seed(count)
-  numbers_1 = list(range(config['parameters']['numbers_1'], config['parameters']['numbers_2']))    # 1 to 10
-  numbers_2 = list(range(config['parameters']['numbers_2'], 25))  # 11 to 24
+  numbers_1 = list(range(config['parameters']['numbers_1'], config['parameters']['numbers_2']))   
+  numbers_2 = list(range(config['parameters']['numbers_2'], 73))  
   weights_1 = [config['parameters']['weights_1'] / len(numbers_1)] * len(numbers_1)
   weights_2 = [config['parameters']['weights_2'] / len(numbers_2)] * len(numbers_2)
   all_numbers = numbers_1 + numbers_2
@@ -77,7 +77,7 @@ def generate_bots(config, logger):
   MaxActivationTimes = config['parameters']['MaxActivationTimes']
   MBots = {}
   MBot_id_list = []
-  count = 668
+  count = len(user_data_batch)
   for num_key in tqdm(list(MBotNum.keys())):
     for i in range(MBotNum[num_key]):
       user_id = random_user_id(MBot_id_list)
@@ -90,7 +90,7 @@ def generate_bots(config, logger):
         MBots[user_id]['user_id'] = user_id
         MBots[user_id]['community'] = {}
         # 3. generate community
-        MBots[user_id]['interest_community'] = num_key.split('BotNum')[0]
+        MBots[user_id]['interest_community'] = [num_key.split('BotNum')[0]]
         # 4. generate activation time
         np.random.seed(count) 
         ActivationTimes = random.randint(1, MaxActivationTimes)
@@ -127,7 +127,11 @@ def generate_bots(config, logger):
   with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(MBots, f, indent=4, ensure_ascii=False)
 
-if __name__ == "__main__":
+def generate_mbot_data():
   config = load_config("DisseminationNetwork/config.yaml")
   logger = set_logger(config['log']['construct_network'])
   generate_bots(config, logger)
+
+
+if __name__ == "__main__":
+  generate_mbot_data()

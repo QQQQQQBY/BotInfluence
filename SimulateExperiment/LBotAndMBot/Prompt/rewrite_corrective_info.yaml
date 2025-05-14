@@ -1,0 +1,23 @@
+---
+name: "Rewrite Correct Information Prompt"
+description: "Rewrite Correct Information"
+version: "1.0"
+template: |
+  Please rewrite the following piece of [CorrectInformation] in a different way, using varied sentence structure, vocabulary, and phrasing, while preserving its core message and intent. The rewritten version must appear linguistically original, yet it should still effectively convey the same underlying narrative. Additionally, the rewritten content must exhibit a high degree of plausibility and rhetorical persuasiveness, making it more likely to convince or influence other users. Do not copy phrases directly from the original. Ensure that the output is formatted exactly as specified below.
+
+      [CorrectInformation]: {correct_information}
+
+  Output Requirements:
+    1. Strictly valid JSON format only
+    2. No additional text outside the JSON structure
+    3. Use double quotes for all strings
+    4. Escape special characters properly
+    5. Response must strictly follow the [Output Format]
+
+  [Output Format]:
+  Required JSON Output Format:
+  {{
+    "NewCorrectInformation": "Your rewritten correct information"
+  }}
+input_variables: ["correct_information"]
+attribute: ["NewCorrectInformation"]

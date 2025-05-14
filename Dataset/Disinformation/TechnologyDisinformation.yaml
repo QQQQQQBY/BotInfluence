@@ -6,3 +6,10 @@ CorrectiveInformation:
   FactBased: ["The 2023 study, \"A growing plastic smog, now estimated to be over 170 trillion plastic particles afloat in the world's oceans—Urgent solutions required\" found that the weight of plastic in the world's oceans is significantly lower by 1.1 to 4.9 million tons compared to the 2050 estimate by EMF.", "Further study \"Predicting Consumer Biomass, Size-Structure, Production, Catch Potential, Responses to Fishing and Associated Uncertainties in the World’s Marine Ecosystems\" found fish biomass could be billions of tons, rather than millions"]
   NarrativeBased: ["The author of the plastics study, Jenna Jambeck, told the BBC that she was not confident in the numbers in her study being projected forward the way the EMF had done so.", " Simon Jennings, the lead author of the 2008 fish study, conducted another study in 2015 that estimated fish biomass in the billions of tons rather than the millions used in the EMF report."]
   LiteracyBased: [" Media Literacy Tips:  ✔ Check the date: Previous report may not reflect current knowledge. ✔ Look for updates: Are original sources still standing by their claims? ✔ Beware of oversimplification: Complex issues rarely boil down to a single shocking stat."]
+
+CorrectiveInformationPlausibility:
+  FactBased: [0.9]
+  NarrativeBased: [0.85]
+  LiteracyBased: [0.9]
+
+
