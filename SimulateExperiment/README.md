@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Users/boyuqiao/Desktop/BotInfluence-main/BotInfluence/SimulateExperiment/Figure/GPT4oGeneratedfigure.png" alt="Simulate Disinformation Dissemination" height="375">
+  <img src="Figure/GPT4oGeneratedfigure.png" alt="Simulate Disinformation Dissemination" height="375">
 </div>
 
 <p align="center">
