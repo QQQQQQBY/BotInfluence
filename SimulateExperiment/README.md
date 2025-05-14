@@ -20,3 +20,11 @@ We have designed three types of agents: malicious bot agents, legitimate bot age
 <div align="center">
   <img src="/Users/boyuqiao/Desktop/BotInfluence-main/BotInfluence/SimulateExperiment/Figure/Algorithm.jpg" alt="Simulate Disinformation Dissemination Algorithm" height="875">
 </div>
+
+## 🐣 Folder Introduction
+
+The content in `LBotAndMBot` is the code for running different correction strategies. The corresponding parameters can be set in `LBotAndMBot/config.yaml` to execute different correction strategies.
+
+The contents in the `MBotAndHuman` folder are the control group that implements the policy without correction.
+
+Executing `main.py` in the above two folders can obtain the simulation results.

@@ -17,23 +17,23 @@ class HistoryMemoryManager:
         self.edge_index_cache_social_influence = self._load_neighbour_nodes_social_influence(self.config["paths"]["HumanMBotLBotDataPolitics"])
 
     def initialize_history(self):
-        """初始化所有历史数据"""
+        """Initialize all historical data"""
         self._create_mbot_history()
         self._create_human_history()
         self._create_lbot_history()
 
     def _load_neighbour_nodes(self, edge_index: np.ndarray) -> Dict[int, List[int]]:
-        """获取邻居节点"""
+        """Get neighbor nodes"""
         edge_index = np.load(edge_index)
         neighbor_dict = defaultdict(list)
-        # 遍历边
-        for src, dst in edge_index.T.tolist():  # 转置后每一行是一个边 (src, dst)
+        # Traverse edges
+        for src, dst in edge_index.T.tolist():  # After transpose, each row is an edge (src, dst)
             neighbor_dict[src].append(dst)
         neighbor_dict = dict(neighbor_dict)
         return neighbor_dict
     
     def _load_neighbour_nodes_social_influence(self, human_mbot_lbot_data: Dict) -> Dict[int, List[int]]:
-        """获取邻居节点社交影响力"""
+        """Get neighbor nodes social influence"""
         with open(human_mbot_lbot_data, 'r', encoding='utf-8') as f:
             human_mbot_lbot_data = json.load(f)
 
@@ -52,12 +52,11 @@ class HistoryMemoryManager:
         return neighbor_dict
     
     def _create_mbot_history(self):
-        """优化的机器人历史创建"""
+        """Optimized bot history creation"""
         if Path(self.config["History"]["MBotHistricalInfoPolitics"]).exists():
             return
             
         try:
-
             with open(self.config["paths"]["HumanMBotLBotDataPolitics"], 'r', encoding='utf-8') as f:
                 bots_data = json.load(f)
                 
@@ -83,7 +82,7 @@ class HistoryMemoryManager:
             print(f"Bot history creation failed: {str(e)}")
 
     def _create_lbot_history(self):
-        """优化的机器人历史创建"""
+        """Optimized bot history creation"""
         if Path(self.config["History"]["LBotHistricalInfoPolitics"]).exists():
             return
         
@@ -112,22 +111,21 @@ class HistoryMemoryManager:
         except Exception as e:
             print(f"LBot history creation failed: {str(e)}")
 
-
     def _create_human_history(self):
-        """优化的人类用户历史创建"""
+        """Optimized human user history creation"""
         if Path(self.config["History"]["HumanHistricalInfoPolitics"]).exists():
-            return  # 这里可能过早返回，应该检查文件内容是否完整
+            return  # May return too early, should check if file content is complete
             
         try:
-            # 添加日志记录
-            print("开始创建人类历史数据...")
+            # Add logging
+            print("Starting to create human historical data...")
             
-            # 串行加载数据
+            # Serial data loading
             humans_data = self._load_json(self.config["paths"]["HumanMBotLBotDataPolitics"])
             users_text = self._load_json(self.config["paths"]["HumanSummerizeText"])
             share_nums = self._load_json(self.config["paths"]["sharenumfile"])
             
-            print(f"加载的用户数量: {len(humans_data)}")
+            print(f"Number of users loaded: {len(humans_data)}")
             
             history_results = {}
             for user_key in humans_data.keys():
@@ -138,43 +136,43 @@ class HistoryMemoryManager:
                     if history_result:
                         history_results[user['id']] = history_result
                     else:
-                        print(f"用户 {user.get('id')} 的历史记录创建失败")
+                        print(f"Failed to create history record for user {user.get('id')}")
             
-            # 添加结果验证
-            print(f"成功创建的历史记录数量: {len(history_results)}")
+            # Add result validation
+            print(f"Number of successfully created history records: {len(history_results)}")
             
             if not history_results:
-                raise ValueError("没有成功创建任何历史记录")
+                raise ValueError("No history records were successfully created")
                 
-            # 修改写入方式，确保数据完整性
+            # Modify write method to ensure data integrity
             temp_file = Path(self.config["History"]["HumanHistricalInfoPolitics"] + ".tmp")
             with open(temp_file, 'w', encoding='utf-8') as f:
                 json.dump(history_results, f, indent=4, ensure_ascii=False)
             
-            # 验证写入的数据
+            # Validate written data
             with open(temp_file, 'r', encoding='utf-8') as f:
                 written_data = json.load(f)
                 if len(written_data) != len(history_results):
-                    raise ValueError("写入的数据不完整")
+                    raise ValueError("Written data is incomplete")
             
-            # 确认数据完整后，替换原文件
+            # Replace original file after confirming data integrity
             temp_file.replace(Path(self.config["History"]["HumanHistricalInfoPolitics"]))
             
-            print("人类历史数据创建完成")
+            print("Human historical data creation completed")
                 
         except Exception as e:
-            print(f"创建人类历史数据失败: {str(e)}")
-            # 清理临时文件
+            print(f"Failed to create human historical data: {str(e)}")
+            # Clean up temporary file
             if 'temp_file' in locals() and temp_file.exists():
                 temp_file.unlink()
 
     def _create_user_history(self, user: Dict, users_text: Dict, share_nums: Dict) -> Dict:
-        """优化的单个用户历史创建"""
+        """Optimized single user history creation"""
         try:
-            # 添加输入验证
+            # Add input validation
             required_fields = ['id', 'user_id', 'trust_threshold']
             if not all(field in user for field in required_fields):
-                print(f"用户数据缺少必要字段: {user.get('id')}")
+                print(f"User data missing required fields: {user.get('id')}")
                 return None
                 
             history = {
@@ -195,15 +193,14 @@ class HistoryMemoryManager:
                 'receive_info_num': 0,
             }
         
-            
-            # 添加分享数量信息，使用默认值确保字段存在
+            # Add sharing number information, use default values to ensure fields exist
             share_num = share_nums.get(user['user_id'], {})
             history.update({
                 'retweet_num': share_num.get('retweet_num', 0),
                 'quote_num': share_num.get('quote_num', 0)
             })
             
-            # 验证创建的历史记录是否完整
+            # Validate if created history record is complete
             required_history_fields = [
                 'id', 'user_id', 'trust threshold', 'receive info', 
                 'share info', 'user_text', 'retweet_num', 'quote_num',
@@ -212,37 +209,37 @@ class HistoryMemoryManager:
             
             if not all(field in history for field in required_history_fields):
                 missing_fields = [f for f in required_history_fields if f not in history]
-                print(f"用户 {user['id']} 的历史记录缺少字段: {missing_fields}")
+                print(f"User {user['id']} history record missing fields: {missing_fields}")
                 return None
                 
             return history
             
         except Exception as e:
-            print(f"创建用户 {user.get('id')} 的历史记录时出错: {str(e)}")
+            print(f"Error creating history record for user {user.get('id')}: {str(e)}")
             return None
 
     @staticmethod
     def _load_json(file_path: str) -> Dict:
-        """优化的JSON加载"""
+        """Optimized JSON loading"""
         try:
             if not Path(file_path).exists():
-                print(f"文件不存在: {file_path}")
+                print(f"File does not exist: {file_path}")
                 return {}
                 
             with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-                print(f"成功加载文件 {file_path}, 数据大小: {len(str(data))} bytes")
+                print(f"Successfully loaded file {file_path}, data size: {len(str(data))} bytes")
                 return data
         except json.JSONDecodeError as e:
-            print(f"JSON解析错误 {file_path}: {str(e)}")
+            print(f"JSON parsing error {file_path}: {str(e)}")
             return {}
         except Exception as e:
-            print(f"加载文件 {file_path} 时出错: {str(e)}")
+            print(f"Error loading file {file_path}: {str(e)}")
             return {}
 
     @staticmethod
     def _get_community_value(trust_threshold: List[Dict], community: str) -> float:
-        """优化的社区值获取"""
+        """Optimized community value retrieval"""
         return trust_threshold[community]
 
 class TimeStepManager:
@@ -266,8 +263,6 @@ class TimeStepManager:
                         human_time_step[time_step].append(data['id'])
         return human_time_step  
 
-
-                
     def _load_mbot_time_step(self):
         with open(self.config["paths"]["HumanMBotLBotDataPolitics"], 'r', encoding='utf-8') as f:
             human_mbot_data = json.load(f)

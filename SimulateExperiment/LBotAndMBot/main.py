@@ -8,7 +8,7 @@ from tqdm import tqdm
 import json
 
 def load_config(filename: str) -> dict:
-    """加载配置文件"""
+    """Load configuration file"""
     with open(filename, "r", encoding='utf-8') as file:
         return yaml.safe_load(file)
 
@@ -26,18 +26,18 @@ def main():
         disinfo_claim=config_dict['DisinfoClaim']
     )
 
-    # 2. 初始化各个组件
-    print("初始化系统组件...")
+    # 2. Initialize the components
+    print("Initializing system components...")
     history_manager = HistoryMemoryManager(config_dict)
     time_step_manager = TimeStepManager(config_dict)
 
-    # 3. 初始化历史数据
-    print("初始化历史数据...")
+    # 3. Initialize the historical data
+    print("Initializing historical data...")
     history_manager.initialize_history()
     
 
-    # 4. 加载必要数据
-    print("加载用户数据...")
+    # 4. Load necessary data
+    print("Loading user data...")
     mbot_ids = set( np.load(config.paths['mbot_ids_Politics']).tolist())
     human_ids = set(np.load(config.paths['human_ids_Politics']).tolist())
     lbot_ids = set(np.load(config.paths['lbot_ids_Politics']).tolist())
@@ -47,7 +47,7 @@ def main():
     edge_index = np.load(config.paths['edge_index_Politics'])
     lbot_ids = set( np.load(config.paths['lbot_ids_Politics']).tolist())
 
-    # 5. 初始化追踪数据结构
+    # 5. Initialize the tracking data structure
     # topics = ["Business", "Education", "Entertainment", "Politics", "Sports", "Technology"]
     topics = ["Politics"]
     time_steps = range(12, 73)
@@ -64,7 +64,7 @@ def main():
     }
 
     # 6. 开始模拟
-    print("开始信息传播模拟...")
+    print("Starting information dissemination simulation...")
     start_time = time.time()
     Infected_Politics_ids = []
     Uninfected_Politics_ids = []
@@ -74,28 +74,28 @@ def main():
         Uninfected_Politics_ids.extend(user['Politics'])
     share_nodes_record = set(Infected_Politics_ids) | set(Uninfected_Politics_ids)
     share_nodes_record = set(map(int, share_nodes_record))
-     # 1.1 加载所有人类易感节点
+     # 1.1 Load all human susceptible nodes
     tracking['SusceptibleUsers'][0] = {}
     tracking['SusceptibleUsers'][0]["Politics"] = list(human_ids)
 
 
-    for topic in tqdm(topics, desc="处理话题"):
-        print(f"\n开始处理 {topic} 话题...")
+    for topic in tqdm(topics, desc="Processing topics"):
+        print(f"\nStarting to process {topic} topic...")
         disinfo_claim = config.disinfo_claim[topic]
-        for i in tqdm(time_steps, desc="时间步骤"):
+        for i in tqdm(time_steps, desc="Time steps"):
             dissemination = DisseminationOptimizer(config)
             
-            # 1. 第一个时间步特殊处理
+            # 1. The first time step is special
             if i == 1:
                
-                # 1.2 激活指定时间步的机器人节点，第一个时间步的机器人节点需要属于当前话题所在的社区，第一个时间步只能激活机器人节点
+                # 1.2 Activate the robot nodes at the specified time step, the robot nodes at the first time step need to belong to the community of the current topic, and the robot nodes at the first time step can only be activated
                 mbot_nodes = set(time_step_manager.mbot_time_step[topic][i])
                 lbot_nodes = set(time_step_manager.lbot_time_step[topic][i])
                 bot_nodes = mbot_nodes | lbot_nodes
-                # 1.3 获取邻居节点
+                # 1.3 Get neighbor nodes
                 exposed_nodes = dissemination.load_neighbour_nodes(bot_nodes, edge_index)
                 
-                # 1.4 运行主要传播过程
+                # 1.4 Run the main dissemination process
                 exposed_human_nodes, trust_nodes, unbelieve_nodes, total_tokens = dissemination.DWC_main(
                     topic=topic,
                     exposed_nodes=exposed_nodes,
@@ -112,18 +112,18 @@ def main():
                 )
                 
             else:
-                # 2. 加载激活的节点
-                # 2.1 加载机器人节点，机器人节点需要属于当前社区
+                # 2. Load the activated nodes
+                # 2.1 Load the robot nodes, the robot nodes need to belong to the current community
                 mbot_nodes = set(time_step_manager.mbot_time_step[topic][i])
                 lbot_nodes = set(time_step_manager.lbot_time_step[topic][i])
                 bot_nodes = mbot_nodes | lbot_nodes
 
                 share_nodes = set(time_step_manager.human_time_step[i])
                 center_nodes = bot_nodes | share_nodes_record.intersection(share_nodes)
-                # 2.4 获取邻居节点，即将暴露于虚假信息的节点
+                # 2.4 Get neighbor nodes,That is, the nodes exposed to false information
                 exposed_nodes = dissemination.load_neighbour_nodes(center_nodes, edge_index)
                 
-                # 2.5 运行主要传播过程
+                # 2.5 Run the main dissemination process
                 exposed_human_nodes, trust_nodes, unbelieve_nodes, total_tokens = dissemination.DWC_main(
                     topic=topic,  
                     exposed_nodes=exposed_nodes,
@@ -139,7 +139,7 @@ def main():
                     correctstrategy=config.parameters['correctstrategy']
                 )
             share_nodes_record = set(share_nodes_record | set(trust_nodes)|set(unbelieve_nodes))
-            # 3. 更新追踪数据
+            # 3. Update tracking data
             tracking['ExposedUsers'][i][topic] = [str(i) for i in exposed_human_nodes]
             tracking['InfectedSpreaders'][i][topic] = [str(i) for i in trust_nodes]
             tracking['UninfectedSpreaders'][i][topic] = [str(i) for i in unbelieve_nodes]
@@ -148,16 +148,16 @@ def main():
             prev_susceptible = set(tracking['SusceptibleUsers'][i-1][topic])
             tracking['SusceptibleUsers'][i][topic] = [str(i) for i in list(prev_susceptible - set(exposed_human_nodes))]     
 
-            # 4. 保存追踪数据
+            # 4. Save tracking data
             results_file = config.newpaths['PoliticsSimulationResult']
             with open(results_file, 'w', encoding='utf-8') as f:
                 yaml.dump(tracking, f)
-    # 7. 输出统计信息
+    # 7. Output statistical information
     end_time = time.time()
-    print(f"\n模拟完成！")
-    print(f"总运行时间: {end_time - start_time:.2f} 秒")
+    print(f"\nSimulation completed!")
+    print(f"Total running time: {end_time - start_time:.2f} seconds")
  
-    # 8. 保存结果
+    # 8. Save results
     results_file = config.newpaths['PoliticsSimulationResult']
     with open(results_file, 'w', encoding='utf-8') as f:
         yaml.dump(tracking, f)
@@ -165,6 +165,6 @@ def main():
 if __name__ == "__main__":
     main() 
 
-# 后台运行
+# Run in the background
 # nohup python CorrectExperiment/Simulate/main.py > CorrectExperiment/Simulate/Backgroundlog/Politics_main_narrative_early.log 2>&1 &
 

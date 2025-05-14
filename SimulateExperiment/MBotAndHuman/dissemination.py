@@ -108,10 +108,10 @@ class DisseminationOptimizer:
         self.lbot_cache = self._get_lbot_historical_data()
         self.human_cache = self._get_user_historical_data()
         self.llm_manager = LLMManager()
-        self.token_usage_history = []  # 添加token使用历史记录
+        self.token_usage_history = []  # Add token usage history record
         
     def _setup_logger(self) -> logging.Logger:
-        """设置日志记录器"""
+        """Set up logger"""
         logger = logging.getLogger('dissemination')
         logger.setLevel(logging.INFO)
         handler = logging.FileHandler(self.config.log['Disseminate_log_file'])
@@ -121,7 +121,7 @@ class DisseminationOptimizer:
         return logger
 
     def _get_user_historical_data(self) -> dict:
-        """获取用户的历史数据"""
+        """Get user historical data"""
         try:
             human_cache = {}
             with open(self.config.History['HumanHistricalInfoPolitics'], 'r', encoding='utf-8') as f:
@@ -134,11 +134,11 @@ class DisseminationOptimizer:
             return human_cache
             
         except Exception as e:
-            self.logger.error(f"获取用户历史数据失败: {str(e)}")
+            self.logger.error(f"Failed to get user historical data: {str(e)}")
             return {}
 
     def _get_mbot_historical_data(self) -> dict:
-        """获取机器人历史数据"""
+        """Get bot historical data"""
         try:
             mbot_cache = {}
             with open(self.config.History['MBotHistricalInfoPolitics'], 'r', encoding='utf-8') as f:
@@ -151,11 +151,11 @@ class DisseminationOptimizer:
             return mbot_cache
             
         except Exception as e:
-            self.logger.error(f"获取机器人历史数据失败: {str(e)}")
+            self.logger.error(f"Failed to get bot historical data: {str(e)}")
             return {}
     
     def _get_lbot_historical_data(self) -> dict:
-        """获取机器人历史数据"""
+        """Get bot historical data"""
         try:
             lbot_cache = {}
             with open(self.config.History['LBotHistricalInfoPolitics'], 'r', encoding='utf-8') as f:
@@ -168,7 +168,7 @@ class DisseminationOptimizer:
             return lbot_cache
         
         except Exception as e:
-            self.logger.error(f"获取机器人历史数据失败: {str(e)}")
+            self.logger.error(f"Failed to get bot historical data: {str(e)}")
             return {}
         
     @staticmethod
@@ -256,7 +256,7 @@ class DisseminationOptimizer:
             return None, [], []
 
     def process_llm_request(self, prompt_file: str, user_data: dict) -> dict:
-        """统一处理LLM请求"""
+        """Unified LLM request processing"""
         try:
             prompt, input_vars, attribute = self.load_prompt(prompt_file)
             if not prompt:
@@ -264,21 +264,21 @@ class DisseminationOptimizer:
                 
             result = self.llm_manager.process_prompt(prompt, user_data, self.logger)
             if result is None:
-                self.logger.error("LLM返回结果为空")
+                self.logger.error("LLM returned empty result")
                 return {}
             
-            # 记录token使用情况
-            self.log_token_usage(f"处理 {prompt_file} 请求")
+            # Record token usage
+            self.log_token_usage(f"Processing {prompt_file} request")
             
-            # 验证返回结果是否包含所需属性
+            # Validate if returned result contains required attributes
             if all(attr in result for attr in attribute):
                 return result
             else:
-                self.logger.error(f"LLM返回结果缺少必要属性: {attribute}")
+                self.logger.error(f"LLM result missing required attributes: {attribute}")
                 return {}
                 
         except Exception as e:
-            self.logger.error(f"处理LLM请求失败: {str(e)}")
+            self.logger.error(f"Failed to process LLM request: {str(e)}")
             return {}
 
     
@@ -287,52 +287,50 @@ class DisseminationOptimizer:
                  lbot_ids: Set[int], human_ids: Set[int], disinfo: str, 
                  human_num: int, mbot_num: int, lbot_num: int, correctstrategy: str) -> Tuple[List[int], List[int], List[int], List[int]]:
         """
-        主要的信息传播过程
+        Main information dissemination process
         
         Args:
-            topic: 当前话题
-            exposed_nodes: 暴露节点字典 {中心节点: [暴露节点列表]}
-            center_nodes: 中心节点集合
-            index: 当前时间步
-            bot_ids: 机器人ID集合
-            human_ids: 人类用户ID集合
-            disinfo: 当前传播的虚假信息claim
+            topic: Current topic
+            exposed_nodes: Exposed nodes dictionary {center node: [exposed nodes list]}
+            center_nodes: Center nodes set
+            index: Current time step
+            bot_ids: Bot IDs set
+            human_ids: Human user IDs set
+            disinfo: Current disseminated false information claim
 
         Returns:
             Tuple[List[int], List[int], List[int], List[int]]: 
-            (所有暴露人类节点, 信任节点, 不信任节点, 未感兴趣节点)
+            (All exposed human nodes, Trust nodes, Untrust nodes, Uninterested nodes)
         """
-        self.logger.info(f'开始处理 {topic} 话题的第 {index} 个时间步')
+        self.logger.info(f'Starting to process {topic} topic at time step {index}')
         
-        # 初始化结果集合
+        # Initialize result sets
         all_exposed_humans = set()
         all_trust_nodes = set()
         all_unbelieve_nodes = set()
-        # all_uninterested_nodes = set()
 
         try:
-            # 0.加载虚假信息内容
+            # 0. Load false information content
             if index == 1:
-                # 0.1 加载虚假信息内容
+                # 0.1 Load false information content
                 current_disinfo, plausibility = self.load_initial_disinfo(topic)
-                # 改写（重新描述当前的虚假信息）
                 current_disinfo, plausibility = self.rewrite_disinfo(current_disinfo)
-                # 0.2 对于机器人节点，添加初始分享信息
-                for node in center_nodes & (mbot_ids | lbot_ids):  # 交集运算，只处理是机器人的中心节点
+                # 0.2 For bot nodes, add initial sharing information
+                for node in center_nodes & (mbot_ids | lbot_ids):  # Intersection operation, only process center nodes that are bots
                     mbot_share_info = {
                         'action': 'Post',
                         'content': current_disinfo,
                         'index': index,
                         'information Plausibility': plausibility,
-                        'stance': 1  # 机器人发布的初始虚假信息stance为1
+                        'stance': 1  # Initial false information stance released by bot is 1
                     }
                     self.add_mbot_share_info(node, mbot_share_info, topic)
 
-            # 1. 串行处理每个中心节点
-            for node in tqdm(center_nodes, desc="处理中心节点"):
+            # 1. Process each center node serially
+            for node in tqdm(center_nodes, desc="Processing center nodes"):
                 try:
-                    # 2. 处理单个中心节点的信息传播
-                    #如果接受过信息才能去分享
+                    # 2. Process single center node's information dissemination
+                    # If the node has received information, it can share
                     if node in human_ids:
                         # if self.human_cache[node]['share info'][topic] != []:
                             exposed, trust, unbelieve = self.process_center_node(
@@ -365,7 +363,7 @@ class DisseminationOptimizer:
                             'content': current_disinfo,
                             'index': index,
                             'information Plausibility': plausibility,
-                            'stance': 1  # 机器人发布的初始虚假信息stance为1
+                            'stance': 1  # Initial false information stance released by bot is 1
                                 }
                             self.add_mbot_share_info(node, mbot_share_info, topic)
                             exposed, trust, unbelieve = self.process_center_node(
@@ -378,17 +376,49 @@ class DisseminationOptimizer:
                                 topic,
                                 disinfo
                             )
-                    # 3. 更新结果
+                    if node in lbot_ids:
+                        if self.lbot_cache[node]['share info'][topic] != []:
+                            exposed, trust, unbelieve = self.process_center_node(
+                            node,
+                            exposed_nodes.get(node, []),
+                            mbot_ids,
+                            lbot_ids,
+                            human_ids,
+                            index,
+                            topic,
+                            disinfo
+                            )
+                        if self.lbot_cache[node]['share info'][topic] == []:
+                            correct_info, plausibility = self.load_lbot_correct_info(topic, correctstrategy)
+                            correct_info, plausibility = self.rewrite_correct_info(correct_info)
+                            lbot_share_info = {
+                                'action': 'Post',
+                                'content': correct_info,
+                                'index': index,
+                                'information Plausibility': plausibility,
+                                'stance': 0  # Initial false information stance released by bot is 0
+                            }
+                            self.add_lbot_share_info(node, lbot_share_info, topic)
+                            exposed, trust, unbelieve = self.process_center_node(
+                                node,
+                                exposed_nodes.get(node, []),
+                                mbot_ids,
+                                lbot_ids,
+                                human_ids,
+                                index,
+                                topic,
+                                disinfo
+                            )
+                    # 3. Update results
                     all_exposed_humans.update(exposed)
                     all_trust_nodes.update(trust)
                     all_unbelieve_nodes.update(unbelieve)
-                    # all_uninterested_nodes.update(uninterested)
                 except Exception as e:  
-                    self.logger.error(f"处理节点 {node} 时发生错误: {str(e)}")
+                    self.logger.error(f"Error processing node {node}: {str(e)}")
 
-            self.logger.info(f'完成 {topic} 话题的第 {index} 个时间步处理')
+            self.logger.info(f'Completed processing {topic} topic at time step {index}')
             
-            # 4. 更新所有信任节点的信任阈值，在当前的index时刻
+            # 4. Update trust threshold for all trust nodes, at current index time step
             self.update_all_trust_thresholds(
                 all_trust_nodes, 
                 all_unbelieve_nodes, 
@@ -396,10 +426,10 @@ class DisseminationOptimizer:
                 index
             )
 
-            # 更新传播倾向
+            # Update dissemination tendency
             self.update_dissemination_tendency(all_trust_nodes, all_unbelieve_nodes, topic, index)
 
-            # 5. 更新机器人和人类的历史信息
+            # 5. Update bot and human historical information
             with open(self.config.History['MBotHistricalInfoPolitics'], 'w', encoding='utf-8') as f:   
                 json.dump(self.mbot_cache, f, indent=4, ensure_ascii=False)
             
@@ -409,20 +439,19 @@ class DisseminationOptimizer:
             with open(self.config.History['LBotHistricalInfoPolitics'], 'w', encoding='utf-8') as f:   
                 json.dump(self.lbot_cache, f, indent=4, ensure_ascii=False)
 
-            # 6. 获取token使用量
+            # 6. Get token usage
             total_tokens = self.llm_manager.get_token_usage()
-            self.logger.info(f"{index} 时刻，DWC_main 执行完毕，token使用量: {total_tokens}")
+            self.logger.info(f"{index} time step, DWC_main completed, token usage: {total_tokens}")
 
             return (
                 list(all_exposed_humans),
                 list(all_trust_nodes),
                 list(all_unbelieve_nodes),
-                # list(all_uninterested_nodes),
                 total_tokens
             )
 
         except Exception as e:
-            self.logger.error(f"DWC_main 执行出错: {str(e)}")
+            self.logger.error(f"DWC_main execution error: {str(e)}")
             return [], [], [], [], 0
 
     def rewrite_disinfo(self, disinfo: str) -> Tuple[str, float]:
@@ -518,7 +547,7 @@ class DisseminationOptimizer:
             # 2.2 处理暴露节点（一阶邻居节点）
 
             exposed_human_nodes = []
-            for n in tqdm(exposed_nodes, desc="处理暴露节点"):
+            for n in tqdm(exposed_nodes, desc="Processing exposed nodes"):
                 if n in human_ids:
                     exposed_human_nodes.append(n)
                     # 2.2.1 向人类邻居节点添加接收信息记录
