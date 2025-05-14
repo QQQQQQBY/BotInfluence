@@ -42,8 +42,8 @@ class LLMManager:
         self.llm = ChatOpenAI(
             model="deepseek-v3",
             temperature=0.9,
-            api_key="sk-BsNA4JYA07xoFhalsusjTLbFLQ7gzFIA2ZDBlULod0gjPa2T",
-            base_url='https://api.chatanywhere.tech/v1',
+            api_key="",
+            base_url='',
             max_retries=2,
             http_client=httpx.Client(
                 timeout=20.0,
