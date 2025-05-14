@@ -17,8 +17,8 @@ import httpx
 llm = ChatOpenAI(
     model="deepseek-v3", # Better for JSON generation
     temperature=0.2,  # Lower for more consistent structure
-    api_key = "sk-eECpiAchfppU3086eIYaqrG6mRUJtp3AsFhqZS0Zpv0JebCu",
-    base_url = 'https://api.chatanywhere.org/#/',
+    api_key = "",
+    base_url = '',
     max_retries=2,  # Middle-level retry, Automatically retry the response with HTTP status code 5xx
     http_client=httpx.Client( # Configure the HTTP client explicitly
         timeout=20.0, # Timeout of a single request
