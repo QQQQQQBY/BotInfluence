@@ -40,13 +40,10 @@ class LLMManager:
         self.total_tokens = 0  # 添加token计数器
         # 初始化 LLM
         self.llm = ChatOpenAI(
-            model="deepseek-ai/DeepSeek-V3",
-            # model="deepseek-v3",
+            model="deepseek-v3",
             temperature=0.9,
-            # api_key="sk-eECpiAchfppU3086eIYaqrG6mRUJtp3AsFhqZS0Zpv0JebCu",
-            api_key="sk-qwwwvjompnzxqhndctlwmmomvqdgaqqqgxvibfxchsikvgod",
-            # api_key="sk-vPHROOXW0e7SE5bD7kERRycKOXuFOn3fGIRwMT3WU9DLhnld",
-            base_url='https://api.siliconflow.cn/v1',
+            api_key="",
+            base_url='',
             max_retries=2,
             http_client=httpx.Client(
                 timeout=20.0,
