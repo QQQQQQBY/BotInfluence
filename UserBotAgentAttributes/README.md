@@ -25,8 +25,8 @@ The Dataset folder contains the user behavior dataset we collect and process fro
 ```
 {
         "id": 1,
-        "user_id": 1250830691824283648,
-        "user_name": "Evan",
+        "user_id": ,
+        "user_name": "user1",
         "field": "Business",
         "profile": {
             "introduction": "Free Stock Market News that is FAST, ACCURATE, CONSISTENT, and RELIABLE | Not Just Stock News | My Daily Stock Market Recap is the link in my bio ⬇️",
@@ -40,7 +40,7 @@ The Dataset folder contains the user behavior dataset we collect and process fro
             "insert_time": "2025-02-10 16:36:58"
         },
         Posts:{"1": {
-                "message_id": "1889715380559470998",
+                "message_id": "post1",
                 "create_time": "2025-02-12 16:37:10",
                 "content": "AKO CAPITAL JUST UPDATED ITS $7.2 BILLION PORTFOLIO https://t.co/yCaqWg48Ps",
                 "comment_count": 6,
@@ -54,7 +54,7 @@ The Dataset folder contains the user behavior dataset we collect and process fro
             ...
             },
         Retweet:{"1": {
-                "message_id": "f65699625f47fabd8e497892f6a5506e",
+                "message_id": "retweet1",
                 "create_time": "2025-02-12 15:47:09",
                 "content": "RT @meetblossomapp:  Inflation every month since 2015 (CPI MoM) https://t.co/voPKjp2JrP",
                 "comment_count": 0,
@@ -68,7 +68,7 @@ The Dataset folder contains the user behavior dataset we collect and process fro
             ...
             },
         Quote:{"1": {
-                "message_id": "1889699497090945072",
+                "message_id": "quote1",
                 "create_time": "2025-02-12 15:34:03",
                 "content": "I will be doing some in-depth market research about Apple getting into Humanoid Robots and will report back  https://t.co/OWdlcWboOR",
                 "comment_count": 10,
@@ -174,9 +174,9 @@ The merged complete attribute dataset is stored in the path: `Dataset/AttributeD
 
 🌸 **Format**:
 ```
-{"1878730280472633345": {
+{"user_id": {
         "id": 0,
-        "user_id": "1878730280472633345",
+        "user_id": "",
         "community": {
             "Entertainment": 1,
             "Technology": 6.0,
