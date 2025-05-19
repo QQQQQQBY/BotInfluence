@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Users/boyuqiao/Desktop/BotInfluence-main/BotInfluence/SimulateExperiment/Figure/GPT4oGeneratedfigure.png" alt="Simulate Disinformation Dissemination" height="375">
+  <img src="Figure/GPT4oGeneratedfigure.png" alt="Simulate Disinformation Dissemination" height="375">
 </div>
 
 <p align="center">
@@ -18,7 +18,7 @@ We have designed three types of agents: malicious bot agents, legitimate bot age
 🦋 Finally, we initiate the simulation by executing `python main.py`.  The detailed algorithmic workflow is as follows:
 
 <div align="center">
-  <img src="/Users/boyuqiao/Desktop/BotInfluence-main/BotInfluence/SimulateExperiment/Figure/Algorithm.jpg" alt="Simulate Disinformation Dissemination Algorithm" height="875">
+  <img src="Figure/Algorithm.jpg" alt="Simulate Disinformation Dissemination Algorithm" height="875">
 </div>
 
 ## 🐣 Folder Introduction

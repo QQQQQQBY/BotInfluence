@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="/Users/boyuqiao/Desktop/BotInfluence-main/BotInfluence/DisinformationRules/Figure/GPT4oGenerateFigure.png" alt="Disinformation Generation and Evaluation by Bot" height="275">
+  <img src="Figure/GPT4oGenerateFigure.png" alt="Disinformation Generation and Evaluation by Bot" height="275">
 </div>
 
 <p align="center">
