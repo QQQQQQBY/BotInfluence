@@ -1,3 +1,34 @@
+# Revised Paper
+
+Updated Paper: [<a href="RevisedPaper.pdf">Revised Paper</a>]
+
+In response to the reviewers’ comments, we have revised the paper with clarifications and additional experiments. The main updates are as follows:
+
+
+**Reviewer NtB1:**
+
+- In response to Weakness 1 and Suggestions 4, we added Appendix C.6.
+
+- In response to Weakness 2 and Suggestions 3, we added Appendix C.5.
+
+- In response to Weakness 4, we further elaborated Appendix B.1.
+
+- In response to Suggestions 1, we added Appendix C.4.
+
+- In response to Suggestions 2, we added Appendix C.7.
+
+
+**Reviewer iVJQ:**
+
+- In response to Weakness 2, we added more detailed explanations to Figure 1.
+
+- In response to Weakness 3, we added Appendix C.8.
+
+- In response to Weakness 6, we provided further clarification in Section 3.3.1.
+
+
+
+
 # MADD: Multi-Agent-based framework for Disinformation Dissemination
 
 <p align="center">
