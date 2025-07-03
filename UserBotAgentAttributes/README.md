@@ -85,7 +85,7 @@ The Dataset folder contains the user behavior dataset we collect and process fro
 
 - 🏗️ **Data Processing** : Time truncation process has been performed (see Appendix 1.1 for details). Complete data cleaning and standardization
 
-- 🎡 **Data Acquisition**: The original dataset is archived on [Google Drive](https://drive.google.com/drive/folders/1vhbEEu0HJvlHmxHYM9rVWXmBstAQFrvr?usp=sharing). This folder provides preprocessed versions that can be used directly for analysis. 
+- 🎡 **Data Acquisition**: The original dataset is archived on Google Drive. This folder provides preprocessed versions that can be used directly for analysis. 
 
 
 ## 👨‍🚀 User/Bot Agent Attributes
