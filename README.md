@@ -4,6 +4,9 @@ Updated Paper: [<a href="RevisedPaper.pdf">Revised Paper</a>]
 
 In response to the reviewers’ comments, we have revised the paper with clarifications and additional experiments. The main updates are as follows:
 
+**Reviewer cPhQ:**
+
+In response to Weakness 3, we supplemented the limitations.
 
 **Reviewer NtB1:**
 
