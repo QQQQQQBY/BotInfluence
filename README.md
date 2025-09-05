@@ -44,3 +44,9 @@ You can view the detailed readme file in the `DisseminationNetwork` folder. [<a 
 The execution code of our disinformation simulation based on the constructed MADD is presented in `SimulateExperiment`.
 
 You can view the detailed readme file in the `SimulateExperiment` folder. [<a href="SimulateExperiment/README.md">readme</a>]
+
+## License & Usage
+The code is released **for academic research purposes only**.  
+Commercial use is prohibited without prior written permission.  
+See the [LICENSE](./LICENSE) file for full details.
+
